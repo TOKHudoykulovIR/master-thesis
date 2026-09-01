@@ -1,0 +1,1917 @@
+TY  - JOUR
+TI  - Workshops of 26th International Conference on Computational Science and its Applications, ICCSA 2026
+PY  - 2027
+T2  - Lecture Notes in Computer Science
+VL  - 16761 LNCS
+UR  - https://www.scopus.com/pages/publications/105045065894?origin=resultslist
+AB  - The proceedings contain 40 papers. The special focus in this conference is on Computational Science and its Applications. The topics include: Beyond Linear Impact: A Nonlinear Theory of Change and a Six-Level Indicator System for Evaluating Culture-Led Regeneration in Left-behind Territories; urban Climate Adaptation in Naples: An Integrated Framework for Flood Risk, Urban Heat Island, and Nature-Based Intervention Planning; mapping Gaps: Evidence-Based Analysis of Urban Emissions Trends and Climate Commitment in Major Italian Cities; mapping Spatial Synergies and Trade-Offs: A Geographically Weighted Analysis of Ecosystem Services and Carbon Sequestration in Southern Italy; VM-Based Power Management for Embedded Multicore Systems; Two-Stage Pavement Distress Detection and Classification Using UAV Imagery in Unstructured Road Environments; mitigating Weight Explosion in Rare-Feature Co-location Pattern Mining: A Cauchy Distribution-Based Approach; multi-model Data Warehouse for Multidimensional Analysis of Flavescence Dorée: Application to the Bordeaux Region; Spatial Assessment of PM10 Concentrations and Population Exposure in the Emilia-Romagna Region (Italy): A Geostatistical Approach; Water Quality Predictors for Harmful Algal Blooms Occurrence in the Mississippi Sound, USA; machine Learning Algorithms for Statistical Spatial Analysis of Waste Collection in an Italian Region; spatially Targeting the Expansion of Agricultural Land in a Mountainous Catchment for Maximal Sediment Export Avoidance: Heuristic Optimization Considering Spatial Interaction; possible Relationships Between the Spread of Tourism and Urban Zoning; extracting Models of Dynamic Human Health Behaviour from Real-Life Personal Health Data; data-Driven Hospital Scheduling: A Multi-criteria Evaluation of Algorithmic Approaches; supporting Hospital Operational Decision-Making Through Early Prediction of Length of Stay; lightweight Multi-sensor Modeling for Virtual Braking-Force Sensing; preface; rescaling for Area Coverage in Swarm Robotics; breast Nodule Detection and Classification Using Convolutional Neural Network with Transfer Learning.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Punetha, N.
+AU  - Jain, G.
+TI  - Sentiment Analysis of Stock Prices and News Headlines Using the MCDM Framework
+PY  - 2022
+T2  - AIST 2022 - 4th International Conference on Artificial Intelligence and Speech Technology
+DO  - 10.1109/AIST55798.2022.10065221
+UR  - https://www.scopus.com/pages/publications/85151282355?origin=resultslist
+AB  - In the 21st century, the speedy progress in digital data procurement has led to the fast-growing amount of data kept in the database, data warehouses, or other data storehouses. The main reason behind this is that it provides a fast spreading of information and increases technology usage. The stock market is one of the utmost competitive financial markets where traders want to compute financial capacities with low latency and high output. In this study, we introduced an unsupervised MCDM-based Grey Relational analysis (GRA) model that targets giving appropriate sentiment tags to the news headlines and predicting the forthcoming stock prediction. To check the proposed model's applicability, we used INFOSYS and WIPRO datasets, which give satisfactory results over the proposed model. We recorded an accuracy of around 87%. We utilize a practical GRA model approach to evaluate and recommend the finest share stocks based on news headlines from multiple web sources. Our system's performance is evaluated using real-time data from WIPRO and INFOSYS. © 2022 IEEE.
+KW  - GRA model
+KW  - News headlines
+KW  - Sentiment analysis
+KW  - Stock market
+KW  - Commerce
+KW  - Costs
+KW  - Data warehouses
+KW  - Financial markets
+KW  - Analysis models
+KW  - Data procurement
+KW  - Digital datas
+KW  - Financial capacity
+KW  - Gray relational analyse model
+KW  - Grey relational analysis
+KW  - News headline
+KW  - Sentiment analysis
+KW  - Stock price
+KW  - Technology usages
+KW  - Sentiment analysis
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Ma, C.
+AU  - Wei, Z.
+AU  - Wei, J.
+AU  - Huang, X.
+TI  - Design and Implementation of AI-Intelligent Alumni Information Maintenance and Tracking System
+PY  - 2025
+T2  - Proceedings - 2025 International Conference on Computer, Internet of Things and Smart City, CIoTSC 2025
+DO  - 10.1109/CIoTSC67482.2025.11413183
+UR  - https://www.scopus.com/pages/publications/105035174259?origin=resultslist
+AB  - Higher education institutions increasingly regard alumni networks as important strategic assets. However, traditional alumni management systems generally suffer from fundamental flaws such as outdated data updates, broken communication channels, and a vacuum in value provision, which severely restrict alumni participation and weaken the emotional bond between universities and alumni. To address this challenge, this paper proposes and designs a new generation of alumni ecosystem deeply empowered by Artificial Intelligence (AI), positioning it as a core service component under the "Smart Campus"paradigm. The goal is to transform traditional alumni portals from static data warehouses into dynamic, service-centric value ecosystems. The system is built using a modern technology stack (Spring Boot 3, Vue 3, uni-app) and deeply integrates the DeepSeek Large Language Model (LLM) as the core intelligent engine. This paper focuses on elaborating the system's innovative architectural design, key technology selection reasons, and detailed introducing its core functions as a community and resource hub (such as same-city alumni connection, online and offline event organization, and alumni-exclusive career resource sharing). Research shows that by integrating powerful LLM with a robust enterprise-level Web architecture, a new generation of alumni platforms can be constructed to solve the pain points of traditional systems, with high practicality and forward-looking features. It provides an innovative architectural blueprint for improving alumni participation and contributes a key component to the vision of integrated, data-driven smart campuses. © 2025 IEEE.
+KW  - Alumni Management
+KW  - Artificial Intelligence
+KW  - Community Participation
+KW  - LLM
+KW  - Smart Campus
+KW  - System Design
+KW  - Architectural design
+KW  - Ecosystems
+KW  - Information management
+KW  - Systems analysis
+KW  - Tracking (position)
+KW  - Alumnus management
+KW  - Community participation
+KW  - Design and implementations
+KW  - Higher education institutions
+KW  - Language model
+KW  - Large language model
+KW  - Maintenance systems
+KW  - Management systems
+KW  - Smart campus
+KW  - Tracking system
+KW  - Artificial intelligence
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Sinha, H.S.
+AU  - Choudhary, S.K.
+AU  - Solanki, V.K.
+TI  - An Efficient Probabilistic Methodology to Evaluate Web Sources as Data Source for Warehousing
+PY  - 2023
+T2  - International Journal of Interactive Multimedia and Artificial Intelligence
+VL  - 8
+IS  - 1
+SP  - 95
+EP  - 104
+DO  - 10.9781/ijimai.2023.02.012
+UR  - https://www.scopus.com/pages/publications/85151245529?origin=resultslist
+AB  - Internet is the largest source of data and the requirement of data analytics have fueled the data warehouse to switch from structured conventional Data Warehouse to complex Web Data Warehouse. The dynamic and complex nature of web poses various types of complexities during synthesis of web data into a conventional warehouse. Multi-Criteria-Decision Making (MCDM) is a prominent mechanism to select the best data for storing into the data-warehouse. In this article, a method, based on the probabilistic analysis of SAW and TOPSIS methods, has been proposed to select web data sources as data sources for web data warehouse. This method deals more efficiently with the dynamic and complex nature of web. Here, the result of the selection employs the analysis of both the methods (SAW and TOPSIS) to evaluate the probability of selection of respective score (1-9) for each feature. With these probability values, the probability of selection of the next web sources has been be determined. Moreover, using the same probability values, mean score and standard deviation of the scores of respective features of selected web sources have been deduced, which are further used to fix the standard score of each feature for selection of web sources. The standard score is a parameter of the proposed Mean-Standard-Deviation (MSD) method to check the suitability of web sources individually, whereas others do the same on comparative basis. The proposed method cuts down the cost of the repetitive comparison operation, once after computation of the Standard score using Mean and Standard deviation of each individual feature. Here, the respective value of the standard score of each feature is only compared with the score of each respective feature of the next web sources, so it reduces the cost of computation and selects the web sources faster as well. © 2023, Universidad Internacional de la Rioja. All rights reserved.
+KW  - Mean-Standard-Deviation (MSD) Method
+KW  - Multi-Criteria Decision Method (MCDM)
+KW  - Probabilistic Method
+KW  - Standard Deviation of Score
+KW  - Web Source
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Helskyaho, H.
+AU  - Helskyaho, M.
+AU  - Ruotsalainen, L.
+AU  - Mannisto, T.
+TI  - An Evaluation Framework for Validating the Quality of a Data Vault 2.0 Data Model
+PY  - 2024
+T2  - Conference of Open Innovation Association, FRUCT
+SP  - 244
+EP  - 252
+UR  - https://www.scopus.com/pages/publications/85193337935?origin=resultslist
+AB  - Designing databases is essential to provide businesses with high-quality data for effective and correct decision-making. Data warehouses, such as Data Vault 2.0, are important storages for the data and therefore designing the data warehouse is important. The process of database designing is usually time-consuming and requires the expertise of data modeling professionals. Automating the process requires metrics to evaluate the quality of a data model. We used the newly created metrics for a Data Vault 2.0 data model and automated the evaluation process. We created a framework for the evaluation and revealed it as an application for the evaluation process to facilitate efficient and effective database design evaluations.  © 2024 FRUCT.
+KW  - Decision making
+KW  - Quality control
+KW  - Data vault
+KW  - Database design
+KW  - Decisions makings
+KW  - Design evaluation
+KW  - Evaluation framework
+KW  - High quality data
+KW  - Data warehouses
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 1
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Sharma, S.
+AU  - Gupta, R.
+AU  - Kumar, J.
+TI  - Governance and Data Management in Federated Learning
+PY  - 2026
+T2  - A Review Series: Federated Learning in Financial Services: A Path to Secure AI
+SP  - 64
+EP  - 77
+DO  - 10.1201/9781003710059-4
+UR  - https://www.scopus.com/pages/publications/105047759921?origin=resultslist
+AB  - Federated Learning (FL) shifts machine learning from centralized data aggregation to distributed training on local devices or servers, preserving privacy by keeping raw data decentralized. Federated governance emerges as a hybrid data governance model tailored to FL, blending centralized policy enforcement with local team autonomy to enable secure, compliant model training. This chapter studies the use of federated governance, a hybrid approach that strikes a compromise between local domain team’s autonomous execution and centralized policy-setting. It focuses at important elements like: Governed FL Frameworks: The incorporation of technological connections (such as Eclipse Dataspace Components) to enforce use guidelines and data sovereignty when training models in delicate industries like healthcare. Organizational Archetypes: Mapping organizational preparedness according to data ownership, infrastructure, and market position using decision frameworks. Data Quality Governance: Mechanisms to guarantee that heterogeneous, non-IId (non-independent and identically distributed) data across several participants satisfies quality requirements to avoid global model deterioration are known as data quality governance. Policy-as-Code: The transition to automated, codified governance in which training pipelines directly incorporate rules for data access, masking (such as PII protection), and compliance. Security and Trust: Secure aggregation and differential privacy increase security and trust by reducing risks including model inversion, poisoning, and data reconstruction. The transition toward Data Mesh architectures in 2025, where domain teams control data products, is highlighted in the chapter’s conclusion. This will change governance from static compliance to a strategic facilitator for collaborative AI. © 2027 Suvarna Sharma, Jeetendra Kumar, Rashmi Gupta, Valentina E. Balas and Gaurav Dhiman.
+KW  - Data aggregation
+KW  - Data privacy
+KW  - Data quality
+KW  - Data reduction
+KW  - Deterioration
+KW  - Differential privacy
+KW  - Distributed computer systems
+KW  - Government data processing
+KW  - Information management
+KW  - Public policy
+KW  - Centralised
+KW  - Data aggregation
+KW  - Data governances
+KW  - Data quality
+KW  - Decentralised
+KW  - Governance models
+KW  - Machine-learning
+KW  - Organisational
+KW  - Policy enforcement
+KW  - Security and trusts
+KW  - Blending
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Tonnarelli, M.
+AU  - Van Eijk, T.
+AU  - Kumara, I.
+AU  - Di Nucci, D.
+AU  - Tamburri, D.A.
+AU  - Van Den Heuvel, W.-J.
+TI  - Architectural Design Decisions for Federated Computational Governance in Data Meshes
+PY  - 2026
+T2  - Proceedings - 2026 IEEE 23rd International Conference on Software Architecture, ICSA 2026
+SP  - 143
+EP  - 154
+DO  - 10.1109/ICSA66085.2026.00020
+UR  - https://www.scopus.com/pages/publications/105046489302?origin=resultslist
+AB  - Data mesh is a decentralized data architecture that underpins the building, sharing, governance, and management of analytical domain data in enterprises as autonomous products. An interconnected mesh of data products emerges when data products from different domains are composed, enabling the successful implementation of organization-wide data use cases. To ensure data products are interoperable and compliant, data mesh advocates federated computational governance, in which data governance policies are defined and enforced at the domain level while respecting organization-wide standards and regulations. Nevertheless, there is no structured framework to help developers systematically design and implement data governance for their data products. To fill this gap, this paper proposes an architectural decision framework comprising 8 design decisions and 104 options, along with forces that can guide the selection of the most appropriate options. We conducted a systematic literature review of 49 industrial gray literature articles to build the framework, which was further refined through semi-structured interviews with six data mesh practitioners.  © 2026 IEEE.
+KW  - Architecture
+KW  - Buildings
+KW  - Computer architecture
+KW  - Data engineering
+KW  - Data governance
+KW  - Data models
+KW  - Software architecture
+KW  - Architectural design
+KW  - Data structures
+KW  - Information management
+KW  - Mesh generation
+KW  - Product design
+KW  - Architectural decision
+KW  - Architectural design decisions
+KW  - Data architectures
+KW  - Data engineering
+KW  - Data governances
+KW  - Data products
+KW  - Decentralised
+KW  - Design and implements
+KW  - Different domains
+KW  - Domain levels
+KW  - Software architecture
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Fahimi, K.
+AU  - Jafari Shahrestani, A.
+AU  - Zamaninejad, A.R.
+AU  - Kaboli, F.
+TI  - Proposing a Performance Assessment Model for the Tehran Municipality Using TOPSIS and AHP
+PY  - 2024
+T2  - Journal of Applied Research on Industrial Engineering
+VL  - 11
+IS  - 2
+SP  - 298
+EP  - 317
+DO  - 10.22105/jarie.2024.407131.1554
+UR  - https://www.scopus.com/pages/publications/85201817152?origin=resultslist
+AB  - This paper addresses the problem of constructing a performance assessment model. The developed model is constructed based on strategic management, intelligence systems, and expert ideas, and then it is implemented in Tehran municipality to show acceptable results for mayors. The proposed model consists of 10 steps: team construction, vision consideration, process identification, indicator selection, weight calculation, data collection, data Extract-Transform-Load, data warehouse, analysis and reporting, feedback, and improvement processes. Analytical Hierarchy Process and Technique for Order of Preference by Similarity to Ideal Solution are used for weight calculations and ranking the city's distinct. In addition, we use the Simple Weighted Mean method in four different data normalization ways and standardize the data to compare the results and use a criterion to select the robust answer. Moreover, we compare our model with the European Foundation for Quality Management model and Balance Scorecard. The proposed model is conducted at plan monitoring, project control, and performance evaluation offices in planning, human capital development, and the council affairs department in Tehran. © 2024, Research Expansion Alliance (REA). All rights reserved.
+KW  - AHP
+KW  - Conceptual model
+KW  - Normalization
+KW  - Performance assessment
+KW  - SWM
+KW  - Tehran municipality
+KW  - TOPSIS
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 7
+ER  -
+
+TY  - CONF
+AU  - Guimaraes, I.V.P.
+AU  - Araujo, A.
+TI  - Evaluating Scalability Using Open Table File Formats in Cloud Lakehouse Architectures with TPC-DS
+PY  - 2026
+T2  - International Conference on Cloud Computing and Services Science, CLOSER - Proceedings
+VL  - 1
+SP  - 195
+EP  - 202
+DO  - 10.5220/0014725400004039
+UR  - https://www.scopus.com/pages/publications/105045031485?origin=resultslist
+AB  - Cloud lakehouse systems unify the flexibility of data lakes with the performance of data warehouses over object storage, yet practitioners lack empirical guidance for selecting among major implementations (Apache Iceberg, Delta Lake, Apache Hudi) and file formats (Parquet, ORC, Avro). This paper presents a systematic TPC-DS performance evaluation executing all 99 decision support queries across multiple scale factors with comprehensive horizontal scalability analysis using varying worker configurations on S3-compatible cloud-native infrastructure. Our results reveal that lakehouse and file format selection significantly impacts query performance, with columnar formats substantially outperforming row-oriented alternatives. Furthermore, scalability analysis uncovers negative scaling behavior at larger data volumes, where adding workers degrades performance due to memory pressure-challenging conventional horizontal scaling assumptions. We provide a practitioner-oriented decision framework with evidence-based recommendations for format selection, cluster sizing, and cost optimization in cloud deployments. Copyright © 2026 by SCITEPRESS - Science and Technology Publications, Lda.
+KW  - Apache Hudi
+KW  - Apache Iceberg
+KW  - Cloud Computing
+KW  - Cloud Storage
+KW  - Delta Lake
+KW  - File Formats
+KW  - Lakehouse Systems
+KW  - Performance Evaluation
+KW  - Scalability Analysis
+KW  - TPC-DS Benchmark
+KW  - Benchmarking
+KW  - Cloud computing architecture
+KW  - Cloud storage
+KW  - Data warehouses
+KW  - Knowledge engineering
+KW  - Knowledge management
+KW  - Lakes
+KW  - Operations research
+KW  - Query processing
+KW  - Scalability
+KW  - Software engineering
+KW  - Apache hudi
+KW  - Apache iceberg
+KW  - Cloud storages
+KW  - Cloud-computing
+KW  - Delta lake
+KW  - File formats
+KW  - Lakehouse system
+KW  - Performances evaluation
+KW  - Scalability analysis
+KW  - TPC-DS benchmark
+KW  - Decision support systems
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Ashraf, A.
+AU  - Hassan, A.
+AU  - Mahdi, H.
+TI  - Key Lessons from Microservices for Data Mesh Adoption
+PY  - 2023
+T2  - 3rd International Mobile, Intelligent, and Ubiquitous Computing Conference, MIUCC 2023
+SP  - 21
+EP  - 28
+DO  - 10.1109/MIUCC58832.2023.10278300
+UR  - https://www.scopus.com/pages/publications/85176149180?origin=resultslist
+AB  - Data Mesh constitutes an architectural blueprint tailored to facilitate the execution of enterprise data platforms within expansive and intricate organizations. Its design aims to propel the broad adoption of analytics beyond a single platform and solitary implementation team. This research delves into the convergence of Microservices and Data Mesh structures, pinpointing vital learnings from Microservices that can inform and ease the transition to Data Mesh architecture. Several critical components like Domain-Driven Design, data consistency, team autonomy, technology selection, and scalability are included in this investigation, each with significant implications for the successful implementation of a Data Mesh.  © 2023 IEEE.
+KW  - Big Data
+KW  - Data Mesh
+KW  - Decentralized Domain Driven Design
+KW  - Microservices
+KW  - Software Engineering
+KW  - Big data
+KW  - Blueprints
+KW  - Mesh generation
+KW  - Data mesh
+KW  - Data platform
+KW  - Decentralised
+KW  - Decentralized domain driven design
+KW  - Domain-driven designs
+KW  - Enterprise data
+KW  - Mesh architecture
+KW  - Mesh structures
+KW  - Microservice
+KW  - Single platform
+KW  - Software engineering
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 7
+ER  -
+
+TY  - CONF
+AU  - Loginovsky, O.
+AU  - Beliakov, A.
+AU  - Zvereva, E.A.
+TI  - Hybrid Optimization Algorithms and Data Lake Architecture for Digital Twins in Materials Science
+PY  - 2026
+T2  - Proceedings - 2026 International Conference on Industrial Engineering, Applications and Manufacturing, ICIEAM 2026
+SP  - 979
+EP  - 984
+DO  - 10.1109/ICIEAM69213.2026.11549709
+UR  - https://www.scopus.com/pages/publications/105043559779?origin=resultslist
+AB  - This article addresses the challenge of information support for digital twins in materials science, specifically focusing on the heterogeneity, large volumes, and unstructured nature of experimental and computational data. A comprehensive Data Lake architecture based on the Apache Hadoop ecosystem is proposed, integrating hybrid optimization algorithms for multi-criteria searching of material properties. The scientific novelty lies in developing a method to transform semi-structured output files from quantum chemical calculations (CRYSTAL) into standardized electronic passports in JSON format, followed by distributed storage and indexing in HBase. The theoretical contribution is validated by estimating the algorithmic complexity of search procedures, demonstrating a reduction from linear to logarithmic time. The practical value is confirmed through experimental performance comparisons and the official registration of a software suite that automates data processing and enables rapid searching for materials with desired properties, such as band gap energy, thermodynamic parameters, and optical characteristics. The proposed architecture creates a scalable foundation for applying machine learning and advanced optimization in the development of new materials.  © 2026 IEEE.
+KW  - big data
+KW  - data lake
+KW  - digital twin of materials
+KW  - distributed computing
+KW  - full-text search
+KW  - multiscale modeling
+KW  - unstructured data
+KW  - Artificial intelligence
+KW  - Computational complexity
+KW  - Data handling
+KW  - Digital storage
+KW  - Distributed computer systems
+KW  - Electronic document exchange
+KW  - Hybrid materials
+KW  - Information retrieval
+KW  - Lakes
+KW  - Materials properties
+KW  - Search engines
+KW  - Data lake
+KW  - Digital twin of material
+KW  - Full-text search
+KW  - Hybrid optimization algorithm
+KW  - Information support
+KW  - Large volumes
+KW  - Material science
+KW  - Multiscale modeling
+KW  - Property
+KW  - Unstructured data
+KW  - Big data
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Botha, L.
+AU  - Taylor, E.
+TI  - Choosing a Data Model for a Data Warehouse from a Non-experienced End-User Perspective
+PY  - 2024
+T2  - Lecture Notes in Networks and Systems
+VL  - 987 LNNS
+SP  - 261
+EP  - 270
+DO  - 10.1007/978-3-031-60221-4_26
+UR  - https://www.scopus.com/pages/publications/85194248281?origin=resultslist
+AB  - A critical decision that will determine if the implementation of a data warehouse is a success or a failure is selecting the data modelling approach. This research was done in the Design Science Research (DSR) Paradigm. As part of the first phase (awareness of the problem), questionnaires were completed by 112 respondents at companies in South Africa. The results of these showed that data models and the use thereof still present problems in many of these companies in South Africa. The aim of this paper is to assist an end user or company to choose a suitable data model. The Data Modelling Selection Framework (DMSF) is introduced in this paper. This framework considers: business information needs, data parameters, enterprise size, business processes, current data architecture and environment, as well as data strategy. The DMSF includes 15 guidelines that can be followed by an end-user or a company when having to decide which data model will be suitable for a data warehouse. © The Author(s), under exclusive license to Springer Nature Switzerland AG 2024.
+KW  - business intelligence
+KW  - data model
+KW  - data modelling
+KW  - Data warehousing
+KW  - Information analysis
+KW  - Business information
+KW  - Business-intelligence
+KW  - Data modeling
+KW  - Design-science researches
+KW  - End-user perspective
+KW  - End-users
+KW  - Model Selection
+KW  - Modeling approach
+KW  - Selection framework
+KW  - South Africa
+KW  - Data warehouses
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Dai, S.
+AU  - Sun, Z.
+AU  - Zhang, L.
+AU  - Zhou, Q.
+AU  - Li, Y.
+TI  - Establish of fuzzy synthetic evaluation model and China coal mine safety risk analysis system
+PY  - 2020
+T2  - Proceedings of 2020 IEEE 3rd International Conference of Safe Production and Informatization, IICSPI 2020
+C7  - 9332394
+SP  - 514
+EP  - 517
+DO  - 10.1109/IICSPI51290.2020.9332394
+UR  - https://www.scopus.com/pages/publications/85101142560?origin=resultslist
+AB  - In order to scientific manage the mine risk and safety events which under the supervision of the government regulatory departments and coal mining enterprises. The factors affecting coal mine safety risk are identified synthetically by AHP analysis method, and the index system of coal mine safety risk assessment is constructed from the aspects of personnel, equipment, environment, management, etc. It uses cloud computing, GIS, big data analysis and visual technology, which takes a basis of SOA technology architecture and data warehouse, that help realizes the analysis of the coal mine safety risk system, the analysis of the coal mine safety status, prevention of the coal mine safety accident and provides the reliable judgment basis for the auxiliary decision of the coal mine safety production. The system has been applied in many projects such as the National Mine Safety Production Supervision IoT application demonstration project and the coal mine accident risk analysis platform of Chongqing Coal Mine Safety Supervision Bureau, which improves the information regulate standard of coal mine using by national and regional authorities. © 2020 IEEE.
+KW  - analytic hierarchy process
+KW  - coal mine safety
+KW  - index system
+KW  - risk assessment
+KW  - Accidents
+KW  - Auxiliary equipment
+KW  - Coal
+KW  - Coal industry
+KW  - Data warehouses
+KW  - Human resource management
+KW  - Information management
+KW  - Risk analysis
+KW  - Risk assessment
+KW  - Service oriented architecture (SOA)
+KW  - Coal mine accidents
+KW  - Coal mine safety productions
+KW  - Coal mining enterprise
+KW  - Demonstration project
+KW  - Fuzzy synthetic evaluation models
+KW  - IOT applications
+KW  - Regional authorities
+KW  - Technology architectures
+KW  - Coal mines
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Vaičiūtė, K.
+AU  - Katinienė, A.
+TI  - Improving the Information Systems of a Warehouse as a Critical Component of Logistics: The Case of Lithuanian Logistics Companies
+PY  - 2025
+T2  - Systems
+VL  - 13
+IS  - 3
+C7  - 186
+DO  - 10.3390/systems13030186
+UR  - https://www.scopus.com/pages/publications/105001160122?origin=resultslist
+AB  - Rapid changes in the modern world and technological advances and processes are increasingly contributing to greater attention being given to emerging problems associated with obtaining big data, as well as modifying decision-making processes in diverse spheres. Special attention in logistics companies should be given to the warehouse as a critical component of logistics, in particular to such processes as big data processing and automation, as well as the improvement, development, and support of information systems. Enhancing logistics information systems provides companies with a competitive advantage, reduces the emergence of human error, accelerates processes, and ensures the collection and sharing of information and big data are used in a sustainable manner. The automation of warehouse processes results in better-established operational safety and overall service quality. The present paper reviews the importance of improving warehouse automation and logistics information systems. Its advantages are highlighted, and the results of the conducted research are provided to expose the problem areas of warehouse automation and encourage improvements in information systems in Lithuanian logistics companies wherein there is a need to transfer a large amount of information and increase service quality. © 2025 by the authors.
+KW  - big data
+KW  - expert survey
+KW  - information system
+KW  - logistics companies
+KW  - multi-criteria evaluation of interfaces
+KW  - warehouse
+KW  - Big data
+KW  - Data handling
+KW  - Decision making
+KW  - Critical component
+KW  - Expert survey
+KW  - Logistic information system
+KW  - Logistics company
+KW  - Multi-criteria evaluation
+KW  - Multi-criteria evaluation of interface
+KW  - Multi-criterion evaluation
+KW  - Service Quality
+KW  - Technological process
+KW  - Warehouse automation
+KW  - Data warehouses
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 9
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Bensalloua, C.A.
+AU  - Hamdadou, D.
+TI  - Spatial OLAP and multicriteria integrated approach for decision support system: Application in agroforestry management
+PY  - 2021
+T2  - Research Anthology on Decision Support Systems and Decision Management in Healthcare, Business, and Engineering
+SP  - 1114
+EP  - 1142
+DO  - 10.4018/978-1-7998-9023-2.ch054
+UR  - https://www.scopus.com/pages/publications/85125155880?origin=resultslist
+AB  - This article describes how Spatial On-Line Analytical Processing, such a decisional technology, offers the possibilities of spatial and multidimensional analysis of data stored in multidimensional structure namely spatial data warehouse. However, this technology is limited in the quality aspect of the decision related to the multicriteria consideration. In the current article, the objective is to propose a Spatial Decision Support System namely "Silvicultura" for facilitating decision making in complex situations. This approach is based on integrating multicriteria analysis with SOLAP in order to enrich the spatial and multidimensional analysis with the contribution of MCA tools for mitigating conflict situations. The authors have based their proposal modeling on Unified Modeling language, since it is a well-known standard modeling language and can be easily extended for multidimensional modeling. Finally, in order to validate their proposal, the authors present a case study to show how to use it in the agroforestry management. © 2021, IGI Global.
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Fanghu, L.
+AU  - Yinnan, H.
+AU  - Biao, W.
+TI  - Analysis of logistics capacity, influencing factors and spatial spillover effect in Yangtze River Economic Belt
+PY  - 2024
+T2  - PLoS ONE
+VL  - 19
+IS  - 5 May
+C7  - e0303200
+DO  - 10.1371/journal.pone.0303200
+UR  - https://www.scopus.com/pages/publications/85193928438?origin=resultslist
+AB  - The logistics industry plays a crucial role in facilitating regional economic development. Serving as a vital link connecting producers, consumers, and various components of the supply chain, it has a direct and profound impact on the prosperity and advancement of regional economies. Based on the panel data of 11 provinces in the Yangtze River Economic Belt from 2016 to 2020, this paper constructs the logistics capability evaluation index system from four aspects: regional economic base, logistics infrastructure, logistics development scale, information technology and talent support, and uses the entropy weight TOPSIS method to measure the logistics capability of each province. The adjacency space weight matrix, geographical distance weight matrix and economic distance weight matrix are selected to build a spatial econometric model to analyze the influencing factors and spatial spillover effects of regional logistics capability. The following conclusions can be drawn from the analysis. From 2016 to 2020, the regional logistics capacity of the Yangtze River Economic Belt shows a trend of increasing year by year, but the logistics capacity of different provinces within the region has a large room for improvement. From the perspective of spatial dimension, the logistics capacity of the Yangtze River Economic Belt is "high in the east and low in the west". The results of spatial econometric analysis based on the spatial Durbin model show that there are significant spatial spillover effects on the logistics capacity of provinces in the Yangtze River Economic Belt. Factors such as road network density, port throughput, water freight turnover, transportation, warehousing and postal employment will not only affect the logistics capacity of the region, but also have a spillover effect on the material capacity of neighboring provinces in the Yangtze River Economic Belt. This study improves the level of regional logistics capacity and promotes the regional economic development of the Yangtze River Economic Belt. It can be used as a reference for other regions or countries in terms of enhancing regional logistics capacity and promoting regional economic development. Copyright: © 2024 Fanghu et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+KW  - China
+KW  - Economic Development
+KW  - Humans
+KW  - Models, Econometric
+KW  - Rivers
+KW  - Article
+KW  - autocorrelation
+KW  - correlational study
+KW  - data warehouse
+KW  - decision making
+KW  - econometric model
+KW  - economic aspect
+KW  - economic development
+KW  - ecosystem resilience
+KW  - entropy
+KW  - information technology
+KW  - nonhuman
+KW  - river
+KW  - socioeconomics
+KW  - spatial autocorrelation analysis
+KW  - spillover (imaging)
+KW  - statistical model
+KW  - technique for order preference by similarity to ideal solution
+KW  - traffic and transport
+KW  - China
+KW  - economic development
+KW  - human
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 10
+ER  -
+
+TY  - JOUR
+AU  - Dzemydienė, D.
+AU  - Burinskienė, A.
+AU  - Miliauskas, A.
+TI  - Integration of multi-criteria decision support with infrastructure of smart services for sustainable multi-modal transportation of freights
+PY  - 2021
+T2  - Sustainability (Switzerland)
+VL  - 13
+IS  - 9
+C7  - 4675
+DO  - 10.3390/su13094675
+UR  - https://www.scopus.com/pages/publications/85105372909?origin=resultslist
+AB  - The problems of developing online decision support systems concern the complexity of the transportation management processes, the multi-dimensionality of data warehouses (DWs), and the multi-criteria of decision making. Such issues arise in the management processes by supporting them with adaptable information and communication infrastructure for the management of the freight’s transportation processes. Our research domain involves the assurance of infrastructure for the provision of smart services for the operative management of multi-modal transportation of freights under the conditions of the heterogeneity of communication channels and multi-criteria decision support. The complexity of managing multi-modal transportation processes raises some problems for ensuring the infrastructure for finding more optimal management solutions by the requirements of green development. This research aims to develop the approach for providing the infrastructure of intelligent smart services for adaptable implementation in management processes of online multi-modal freight transportation. The objectives are forwarded to construct the multi-criteria decision-making components and integrate them into the multi-layered, computer-based information management of intelligent systems. We present the steps of extension of the structure of the knowledge-based system with a multi-criteria decision support method, and the possibilities to work under the conditions of wireless networks and the recognition of context-aware situations. The results are demonstrated for the analysis of alternatives by assessing the multi-modal transportation corridors between the East and West regions of Europe, and the opportunities to evaluate them for more effective managerial perspectives under sustainable development requirements. © 2021 by the authors. Licensee MDPI, Basel, Switzerland.
+KW  - Decision support system (DSS)
+KW  - Information infrastructure
+KW  - Multi-criteria decision making
+KW  - Multi-modal transportation of freights
+KW  - Smart services
+KW  - Sustainable management
+KW  - Europe
+KW  - decision support system
+KW  - freight transport
+KW  - heterogeneity
+KW  - sustainable development
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 28
+ER  -
+
+TY  - CONF
+AU  - Misargopoulos, A.
+AU  - Papavassiliou, G.
+AU  - Gizelis, C.A.
+AU  - Nikolopoulos-Gkamatsis, F.
+TI  - TYPHON: Hybrid Data Lakes for Real-Time Big Data Analytics – An Evaluation Framework in the Telecom Industry
+PY  - 2021
+T2  - IFIP Advances in Information and Communication Technology
+VL  - 628
+SP  - 128
+EP  - 137
+DO  - 10.1007/978-3-030-79157-5_12
+UR  - https://www.scopus.com/pages/publications/85112618499?origin=resultslist
+AB  - In this paper we aim to present outcomes from the evaluation and deployment of the TYPHON H2020 project (The TYPHON project receives funding under the European Unions Horizon 2020 Research and Innovation Programme under grant agreement No. 780251) in a container-based production ecosystem supported by Hellenic Telecommunications Organization S.A. (OTE). The main objective is to implement a successful production-ready deployment following best practices in terms of infrastructure, monitoring and high availability while achieving analysis in real-time of massive streams of data. Moreover, our intent is to evaluate the TYPHON architecture when integrated by a Telecom Industry user and present the benefits of its adaptation by IT Units for predictive maintenance purposes. © 2021, IFIP International Federation for Information Processing.
+KW  - Adaptation to telecom industry
+KW  - Big data analytics
+KW  - Evaluation framework and measures
+KW  - Hybrid persistence architectures
+KW  - Advanced Analytics
+KW  - Big data
+KW  - Biomedical engineering
+KW  - Data Analytics
+KW  - Data streams
+KW  - Energy efficiency
+KW  - Best practices
+KW  - European union
+KW  - Evaluation framework
+KW  - High availability
+KW  - Horizon 2020
+KW  - Hybrid datum
+KW  - Real time
+KW  - Telecom industry
+KW  - Artificial intelligence
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Tlemcani, C.
+AU  - Faroukhi, A.Z.
+AU  - Gahi, Y.
+TI  - From ETL to Modern Data Stack: A Systematic Review and Strategic Implementation Framework
+PY  - 2026
+T2  - Information (Switzerland)
+VL  - 17
+IS  - 7
+C7  - 630
+DO  - 10.3390/info17070630
+UR  - https://www.scopus.com/pages/publications/105045853194?origin=resultslist
+AB  - Organizations are under constant strain to substitute the traditional ETL pipelines and monolithic warehouses for the dynamic cloud-native modular architectures. Despite rapid adoption, the Modern Data Stack (MDS) literature remains fragmented: lakehouse, mesh, and fabric paradigms are studied in isolation, and no prior review has linked component-level decisions to organizational maturity. This systematic review addresses that gap. Following PRISMA 2020 guidelines across six databases, 650 records were screened and 141 studies were retained for thematic synthesis (the corpus was peer-reviewed, with a small number of primary-source technical preprints screening was performed primarily by one reviewer; a 10% double-screened sample yielded Cohen’s κ = 0.81). Six functional layers (ingestion, storage, transformation, orchestration, analytics, and observability/governance) and four dominant architectural patterns (cloud warehouse, lakehouse, data mesh, and data fabric) were identified. Components were evaluated against five criteria—scalability, cost efficiency, vendor neutrality, learning curve, and business impact—across three organizational archetypes (startup, SME, and enterprise). A three-phase maturity model (Foundation, Extension, Consolidation), a five-stage iterative implementation cycle, and a RACI governance matrix constitute the resulting strategic framework. Governance emerged as simultaneously the least-adopted layer in the corpus and the most consequential for long-run adoption success. The framework is propositional; empirical validation through an expert Delphi study, multi-case longitudinal analysis, and an AHP-based practitioner survey are planned as future work. © 2026 by the authors.
+KW  - data architecture
+KW  - data governance
+KW  - data lakehouse
+KW  - data mesh
+KW  - ELT
+KW  - ETL
+KW  - maturity model
+KW  - modern data stack
+KW  - PRISMA
+KW  - systematic literature review
+KW  - Architecture
+KW  - Cloud analytics
+KW  - Digital storage
+KW  - Iterative methods
+KW  - Memory architecture
+KW  - Metadata
+KW  - Prisms
+KW  - Screening
+KW  - Warehouses
+KW  - Data architectures
+KW  - Data governances
+KW  - Data lakehouse
+KW  - Data mesh
+KW  - ELT
+KW  - ETL
+KW  - Maturity model
+KW  - Modern data stack
+KW  - PRISMA
+KW  - Systematic literature review
+KW  - Mesh generation
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Dzemydienė, D.
+TI  - Structure of Smart Service Provision System for Operative Management of Transportation
+PY  - 2022
+T2  - International Series in Operations Research and Management Science
+VL  - 330
+SP  - 61
+EP  - 84
+DO  - 10.1007/978-3-031-07199-7_4
+UR  - https://www.scopus.com/pages/publications/85137771097?origin=resultslist
+AB  - The aim of this part of the research is to examine the system architecture required for Smart-SDS in freight transportation processes. Smart-SDS is designed to help prevent accidents, warn of other accidents or adverse situations on the road, and avoid traffic jams. The requirements for developing this type of system are related to the context recognition functionality. The infrastructure supporting such a system integrates networks, equipment to record the required data in data warehouses (DWs), analyse DWs, and requires AI methods to develop intelligent service performance algorithms. The system will be able to support multi-criteria solutions in the stages of operational transportation management processes. All system components will be able to work in compatibility and wireless style. Interoperability of multi-dimensional data warehouses (DWs) using cloud computing technology will be required. The services integrated into the system must be assessed in the light of their prioritization at various stages of transport. The system infrastructure will be able to monitor the transport process and enable the changing topology of transport networks and communication networks. © 2022, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+KW  - Assessment algorithms
+KW  - Ontology of freight transportation
+KW  - Smart service delivery system
+KW  - Transmission of context data
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Kroculick, J.B.
+TI  - Zero Trust Decision Analysis for Next Generation Networks
+PY  - 2024
+T2  - Proceedings of SPIE - The International Society for Optical Engineering
+VL  - 13058
+C7  - 130580U
+DO  - 10.1117/12.3013993
+UR  - https://www.scopus.com/pages/publications/85196517924?origin=resultslist
+AB  - Zero Trust security is being adopted across companies and government organizations to continually verify cybersecurity requirements. This paper investigates architecture development methodologies that can develop a Zero Trust architecture that implements the missions of an enterprise. An enterprise architecture depends on an organization's strategic priorities and should reflect the organization's critical decisions. These decisions can be evaluated according to criteria such as interoperability, speed of operations tempo, and cyber-resilience to failures. Zero-Trust architectures must define alternatives tailored to missions. An enterprise architecture can then be developed that describes the context, operations, and resources associated with a strategic implementation decision. A multi-criteria decision-making method such as the Analytic Hierarchy Process can help guide the development and implementation of Zero Trust strategy. Zero Trust criteria are defined according to quality attributes associated with the DoD Reference Architecture Pillars, and security solutions are evaluated against how well they meet these criteria. © 2024 SPIE.
+KW  - Analytic Hierarchy Process
+KW  - Data Fabric
+KW  - Data Mesh
+KW  - Data Strategy
+KW  - Decision Making
+KW  - Quality Attributes
+KW  - Tactical Cloud
+KW  - Zero Trust
+KW  - Analytic hierarchy process
+KW  - MESH networking
+KW  - Network architecture
+KW  - Next generation networks
+KW  - Quality control
+KW  - Trusted computing
+KW  - Data fabric
+KW  - Data mesh
+KW  - Data strategy
+KW  - Decisions makings
+KW  - Enterprise Architecture
+KW  - Quality attributes
+KW  - Tactical cloud
+KW  - Tacticals
+KW  - Trust decisions
+KW  - Zero trust
+KW  - Decision making
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 2
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Córdova-Lavado, H.J.
+AU  - Ramos-Rodríguez, B.A.
+AU  - Calderón-Romero, D.J.
+AU  - Aliaga-Maguiña, R.L.
+TI  - Optimization of the Distribution Process with a Multi-criteria Decision Model in the Poultry Industry
+PY  - 2023
+T2  - Lecture Notes in Logistics
+VL  - Part F268
+SP  - 257
+EP  - 281
+DO  - 10.1007/978-3-031-32032-3_11
+UR  - https://www.scopus.com/pages/publications/85161869491?origin=resultslist
+AB  - The management of the supply chain faces increased challenges for its optimization. The poultry industry, which has a large share of global food, is no exception. A particular challenge is more critical than others due to the product’s short perishability and the reduced times of the merchandise in the warehouse. Thus, the importance of having an optimal distribution process increase. This study will conduct a qualitative analysis to determine the leading causes that prevent us from achieving optimal distribution performance. Based on the critical success factors, improvement actions can be proposed. Finally, the improvement actions will be evaluated through an AHP process, and the evaluation criteria will be based on the most relevant performance indicators in the industry. Thus, the best viable option can be determined quantitatively according to the weighting in the most important criteria. The investigation will determine that implementing an integrated data warehouse will be the most optimal solution for a distribution process in the poultry industry. © 2023, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+KW  - Analytical hierarchy process
+KW  - Distribution process
+KW  - Poultry industry
+KW  - Qualitative analysis
+KW  - Supply chain management
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - BOOK
+AU  - Demchenko, Y.
+AU  - Cuadrado-Gallego, J.J.
+AU  - Chertov, O.
+AU  - Aleksandrova, M.
+TI  - Big Data Infrastructure Technologies for Data Analytics: Scaling Data Science Applications for Continuous Growth
+PY  - 2024
+T2  - Big Data Infrastructure Technologies for Data Analytics: Scaling Data Science Applications for Continuous Growth
+SP  - 1
+EP  - 544
+DO  - 10.1007/978-3-031-69366-3
+UR  - https://www.scopus.com/pages/publications/105002505437?origin=resultslist
+AB  - This book provides a comprehensive overview and introduction to Big Data Infrastructure technologies, existing cloud-based platforms, and tools for Big Data processing and data analytics, combining both a conceptual approach in architecture design and a practical approach in technology selection and project implementation.Readers will learn the core functionality of major Big Data Infrastructure components and how they integrate to form a coherent solution with business benefits. Specific attention will be given to understanding and using the major Big Data platform Apache Hadoop ecosystem, its main functional components MapReduce, HBase, Hive, Pig, Spark and streaming analytics. The book includes topics related to enterprise and research data management and governance and explains modern approaches to cloud and Big Data security and compliance.The book covers two knowledge areas defined in the EDISON Data Science Framework (EDSF): Data Science Engineering and Data Management and Governance and can be used as a textbook for university courses or provide a basis for practitioners for further self-study and practical use of Big Data technologies and competent evaluation and implementation of practical projects in their organizations © The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG 2024.
+KW  - Big Data
+KW  - Big Data Algorithms
+KW  - Big Data Analytics
+KW  - Big Data Reference Architecture
+KW  - Cloud Computing
+KW  - Cloud Computing
+KW  - Data Lakes
+KW  - Data Science
+KW  - Data Science Analytics
+KW  - EDISON Data Science Framework (EDSF)
+KW  - Hadoop ecosystem
+KW  - Hadoop File System (HDFS)
+KW  - Large scale data driven applications
+KW  - MapReduce
+KW  - Streaming Analytics
+KW  - Advanced Analytics
+KW  - Cloud computing architecture
+KW  - Computer architecture
+KW  - Data Analytics
+KW  - Engineering education
+KW  - Information management
+KW  - Information systems
+KW  - Security of data
+KW  - Big data algorithm
+KW  - Big data analytic
+KW  - Big data reference architecture
+KW  - Cloud-computing
+KW  - Data algorithm
+KW  - Data analytics
+KW  - Data lake
+KW  - Data science analytic
+KW  - Data-driven applications
+KW  - EDISON data science framework
+KW  - Filesystem
+KW  - Hadoop ecosystem
+KW  - Hadoop file system
+KW  - Large scale data
+KW  - Large scale data driven application
+KW  - Map-reduce
+KW  - Reference architecture
+KW  - Streaming analytic
+KW  - Big data
+M3  - Book
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 7
+ER  -
+
+TY  - CONF
+AU  - Malhotra, S.
+AU  - Agarwal, V.
+AU  - Anjum, M.
+AU  - Parashar, A.
+TI  - Characterising IoT for Smart development: Anaylsing the challenges
+PY  - 2023
+T2  - Proceedings of 2023 3rd International Conference on Innovative Practices in Technology and Management, ICIPTM 2023
+DO  - 10.1109/ICIPTM57143.2023.10118284
+UR  - https://www.scopus.com/pages/publications/85160002107?origin=resultslist
+AB  - Industry 4.0 is all about putting industrial data from multiple sources into a data lake and then using analytics, artificial intelligence, machine learning to utilize the data for businesses. The primary reason for that is the advent of the Internet of Things (IoT). IoT has enabled uninterrupted sharing and exchange of data for its users from the consumer to the industrial level. Although still in the nascent stage of evolution, IoT has the potential to significantly impact business outcomes and will be instrumental in bringing a transformation in the way we communicate and exchange information. However, there remains a considerable gap in identifying the challenges in the implementation of IoT platforms and techniques. This paper aims at presenting a comprehensive analysis of the major challenges in the implementation of IoT and classifies them into two broad categories-technological and managerial according to the opinions of the experts. An attempt has been made herein to create a hierarchy depicting the key challenges where the researchers and industry should focus their attention and make better strategic decisions. A multi-criteria decision-making method known as the Best-Worst Method (BWM) has been used to rate the challenges. Results show that power requirement is the major challenge in technological challenges and maintenance is the major challenge in managerial challenges.  © 2023 IEEE.
+KW  - Best-Worst Method
+KW  - Challenges in Implementation
+KW  - Internet of Things
+KW  - IoT
+KW  - Artificial intelligence
+KW  - Decision making
+KW  - BAD methods
+KW  - Best-bad method
+KW  - Business outcomes
+KW  - Challenge in implementation
+KW  - Comprehensive analysis
+KW  - Industrial datum
+KW  - Machine-learning
+KW  - Multiple source
+KW  - Smart Development
+KW  - Strategic decisions
+KW  - Internet of things
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Li, C.
+AU  - Liu, X.
+AU  - Song, Z.
+AU  - Chi, C.
+AU  - Shi, B.
+AU  - Zhao, C.
+AU  - Chang, G.
+AU  - Wang, Z.
+AU  - Yang, K.
+AU  - Wang, X.
+AU  - Deng, C.
+AU  - Feng, J.
+TI  - TReB: A Comprehensive Benchmark for Evaluating Table Reasoning Capabilities of Large Language Models
+PY  - 2026
+T2  - SIGIR 2026 - Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
+SP  - 3267
+EP  - 3275
+DO  - 10.1145/3805712.3808617
+UR  - https://www.scopus.com/pages/publications/105047275340?origin=resultslist
+AB  - The majority of data in businesses and industries is stored in tables, databases, and data warehouses. Reasoning with table-structured data poses significant challenges for large language models (LLMs) due to its hidden semantics, inherent complexity, and structured nature. One of these challenges is lacking an effective evaluation benchmark fairly reflecting the performances of LLMs on broad table reasoning abilities. In this paper, we fill in this gap by presenting a comprehensive table reasoning benchmark, TReB. Firstly, we propose a taxonomy to systematically measure both shallow table understanding abilities and deep table reasoning abilities, covering a total of 26 sub-tasks. We then construct a high quality dataset through a dedicated data processing and synthesis procedure. Based on these well-constructed samples, we design an evaluation framework to robustly measure table reasoning capabilities with three distinct inference modes. Experimental results with our data and framework reveal that existing LLMs still have significant room for improvement in addressing the complex and real world table related tasks. Both the dataset and evaluation framework are publicly available, with the dataset hosted on huggingface.co/datasets/JT-LM/JIUTIAN-TReB, and the framework on github.com/JT-LM/jiutian-treb. © 2026 Owner/Author.
+KW  - benchmark
+KW  - llm evaluation
+KW  - table reasoning
+KW  - Data handling
+KW  - Data warehouses
+KW  - Semantics
+KW  - Benchmark
+KW  - Evaluation framework
+KW  - Hidden semantics
+KW  - Inherent complexity
+KW  - Language model
+KW  - Llm evaluation
+KW  - Reasoning ability
+KW  - Reasoning capabilities
+KW  - Structured data
+KW  - Table reasoning
+KW  - Benchmarking
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Arya, S.P.
+AU  - Shekarappa, K.
+TI  - Advanced Compliance Risk Assessment Using Big Data from Fleet Intelligence Data
+PY  - 2025
+T2  - SAE Technical Papers
+DO  - 10.4271/2025-28-0343
+UR  - https://www.scopus.com/pages/publications/105028489277?origin=resultslist
+AB  - In-Use emission compliance regulations globally mandate that machines meet emission standards in the field, beyond dyno certification. For engine manufacturers, understanding emission compliance risks early is crucial for technology selection, calibration strategies, and validation routines. This study focuses on developing analytical and statistical methods for emission compliance risk assessment using Fleet Intelligence Data, which includes high-frequency telematics data from over 500K machines, reporting more than 1000 measures at 1Hz frequency. Traditional analytical methods are inadequate for handling such big data, necessitating advanced methods. We developed data pipelines to query measures from the Enterprise Data Lake (A Structured Data storage system), address big data challenges, and ensure data quality. Regulatory requirements were translated into software logic and applied to pre-processed data for emission compliance assessment. The resulting reports provide actionable insights on NOx sensor activity, engine warmup operations, high-risk drive cycles, and load profiles across different operation regimes. This approach significantly reduces the reliance on costly and labor-intensive physical testing with Portable Emissions Measurement Systems (PEMS) by integrating advanced analytical methods into the workflow. By leveraging high-frequency telematics data, this method enables engineers to identify failed machines in the field more efficiently. It also provides valuable insights and reasoning behind these failures, facilitating quicker and more informed decision-making. This not only enhances emission compliance monitoring but also optimizes resource allocation and reduces overall regulatory risks. In summary, the developed methods enable effective emission compliance monitoring, reduce regulatory risks, and help optimize calibration strategies by understanding customer usage patterns. These methods are scalable for various emission regulations.  © 2025 SAE International and SAEINDIA.
+KW  - Advanced Analytics
+KW  - Big data
+KW  - Calibration
+KW  - Data reduction
+KW  - Decision making
+KW  - Digital storage
+KW  - Engines
+KW  - Fleet operations
+KW  - Analytical method
+KW  - Compliance monitoring
+KW  - Compliance regulations
+KW  - Emission compliance
+KW  - Emission standard
+KW  - Engine manufacturers
+KW  - High frequency HF
+KW  - Regulatory risks
+KW  - Risks assessments
+KW  - Telematics
+KW  - Regulatory compliance
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+TI  - 17th IFIP WG 12.5 International Conference on Artificial Intelligence Applications and Innovations, AIAI 2021, 6th Workshop on 5G-Putting Intelligence to the Network Edge, 5G-PINE 2021, Artificial Intelligence in Biomedical Engineering and Informatics Workshop, AI-BIO 2021, Workshop on Defense Applications of AI, DAAI 2021, Distributed AI for Resource-Constrained Platforms Workshop, DARE 2021, Energy Efficiency and Artificial Intelligence Workshop, EEAI 2021, and 10th Mining Humanistic Data Workshop, MHDW 2021
+PY  - 2021
+T2  - IFIP Advances in Information and Communication Technology
+VL  - 628
+UR  - https://www.scopus.com/pages/publications/85112633441?origin=resultslist
+AB  - The proceedings contain 40 papers. The special focus in this conference is on Artificial Intelligence Applications and Innovations. The topics include: Top Challenges in 5G Densification; TYPHON: Hybrid Data Lakes for Real-Time Big Data Analytics – An Evaluation Framework in the Telecom Industry; V2X Communications for the Support of GLOSA and Intelligent Intersection Applications; a Machine Learning Approach for Recognition of Elders’ Activities Using Passive Sensors; analyzing Collective Knowledge Towards Public Health Policy Making; evaluating Mental Patients Utilizing Video Analysis of Facial Expressions; an Inception-Based Architecture for Haemodialysis Time Series Classification; a Lipschitz - Shapley Explainable Defense Methodology Against Adversarial Attacks; A Multimodal AI-Leveraged Counter-UAV Framework for Diverse Environments; 5G-VICTORI: Future Railway Communications Requirements Driving 5G Deployments in Railways; cyber Attack Detection and Trust Management Toolkit for Defence-Related Microgrids; On the Potential of SDN Enabled Network Deployment in Tactical Environments; a First Sensitivity Study of Multi-object Multi-camera Tracking Performance; An Initial Analysis of the Shortcomings of Conventional AI and the Benefits of Distributed AI Approaches in Industrial Use Cases; distributed Data Compression for Edge Devices; PFilter: Privacy-Aware and Secure Data Filtering at the Edge for Distributed Edge Analytics; Towards a Distributed Learning Architecture for Securing ISP Home Customers; a Recommendation Specific Human Activity Recognition Dataset with Mobile Device’s Sensor Data; Explainable Needn’t Be (Much) Less Accurate: Evaluating an Explainable AI Dashboard for Energy Forecasting; improving Energy Efficiency in Tertiary Buildings Through User-Driven Recommendations Delivered on Optimal Micro-moments; 5G-VICTORI: Optimizing Media Streaming in Mobile Environments Using mmWave, NBMP and 5G Edge Computing.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Younsi, F.-Z.
+AU  - Chakhar, S.
+AU  - Ishizaka, A.
+AU  - Hamdadou, D.
+AU  - Boussaid, O.
+TI  - A Dominance-Based Rough Set Approach for an Enhanced Assessment of Seasonal Influenza Risk
+PY  - 2020
+T2  - Risk Analysis
+VL  - 40
+IS  - 7
+SP  - 1323
+EP  - 1341
+DO  - 10.1111/risa.13478
+UR  - https://www.scopus.com/pages/publications/85084839848?origin=resultslist
+AB  - Accounting for about 290,000–650,000 deaths across the globe, seasonal influenza is estimated by the World Health Organization to be a major cause of mortality. Hence, there is a need for a reliable and robust epidemiological surveillance decision-making system to understand and combat this epidemic disease. In a previous study, the authors proposed a decision support system to fight against seasonal influenza. This system is composed of three subsystems: (i) modeling and simulation, (ii) data warehousing, and (iii) analysis. The analysis subsystem relies on spatial online analytical processing (S-OLAP) technology. Although the S-OLAP technology is useful in analyzing multidimensional spatial data sets, it cannot take into account the inherent multicriteria nature of seasonal influenza risk assessment by itself. Therefore, the objective of this article is to extend the existing decision support system by adding advanced multicriteria analysis capabilities for enhanced seasonal influenza risk assessment and monitoring. Bearing in mind the characteristics of the decision problem considered in this article, a well-known multicriteria classification method, the dominance-based rough set approach (DRSA), was selected to boost the existing decision support system. Combining the S-OLAP technology and the multicriteria classification method DRSA in the same decision support system will largely improve and extend the scope of analysis capabilities. The extended decision support system has been validated by its application to assess seasonal influenza risk in the northwest region of Algeria. © 2020 Society for Risk Analysis
+KW  - Dominance-based rough set approach
+KW  - multicriteria classification
+KW  - risk assessment
+KW  - seasonal influenza
+KW  - Algeria
+KW  - Computer Simulation
+KW  - Data Interpretation, Statistical
+KW  - Decision Support Techniques
+KW  - Epidemiological Monitoring
+KW  - Humans
+KW  - Influenza, Human
+KW  - Machine Learning
+KW  - Pilot Projects
+KW  - Risk Assessment
+KW  - Seasons
+KW  - Algeria
+KW  - Artificial intelligence
+KW  - Data warehouses
+KW  - Decision making
+KW  - Decision support systems
+KW  - Rough set theory
+KW  - Assessment and monitoring
+KW  - Decision-making systems
+KW  - Dominance-based rough set approach
+KW  - Dominance-based rough set approach (DRSA)
+KW  - Multi Criteria Analysis
+KW  - Multi-criteria classification
+KW  - Spatial on-line analytical processing
+KW  - World Health Organization
+KW  - data set
+KW  - decision support system
+KW  - influenza
+KW  - model validation
+KW  - mortality
+KW  - multicriteria analysis
+KW  - risk assessment
+KW  - World Health Organization
+KW  - Algeria
+KW  - computer simulation
+KW  - decision support system
+KW  - epidemiological monitoring
+KW  - human
+KW  - influenza
+KW  - machine learning
+KW  - pilot study
+KW  - procedures
+KW  - risk assessment
+KW  - season
+KW  - statistical analysis
+KW  - Risk assessment
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Roggeveen, L.F.
+AU  - Hassouni, A.E.
+AU  - de Grooth, H.-J.
+AU  - Girbes, A.R.J.
+AU  - Hoogendoorn, M.
+AU  - Elbers, P.W.G.
+TI  - Reinforcement learning for intensive care medicine: actionable clinical insights from novel approaches to reward shaping and off-policy model evaluation
+PY  - 2024
+T2  - Intensive Care Medicine Experimental 
+VL  - 12
+IS  - 1
+C7  - 32
+DO  - 10.1186/s40635-024-00614-x
+UR  - https://www.scopus.com/pages/publications/85188603581?origin=resultslist
+AB  - Background: Reinforcement learning (RL) holds great promise for intensive care medicine given the abundant availability of data and frequent sequential decision-making. But despite the emergence of promising algorithms, RL driven bedside clinical decision support is still far from reality. Major challenges include trust and safety. To help address these issues, we introduce cross off-policy evaluation and policy restriction and show how detailed policy analysis may increase clinical interpretability. As an example, we apply these in the setting of RL to optimise ventilator settings in intubated covid-19 patients. Methods: With data from the Dutch ICU Data Warehouse and using an exhaustive hyperparameter grid search, we identified an optimal set of Dueling Double-Deep Q Network RL models. The state space comprised ventilator, medication, and clinical data. The action space focused on positive end-expiratory pressure (peep) and fraction of inspired oxygen (FiO2) concentration. We used gas exchange indices as interim rewards, and mortality and state duration as final rewards. We designed a novel evaluation method called cross off-policy evaluation (OPE) to assess the efficacy of models under varying weightings between the interim and terminal reward components. In addition, we implemented policy restriction to prevent potentially hazardous model actions. We introduce delta-Q to compare physician versus policy action quality and in-depth policy inspection using visualisations. Results: We created trajectories for 1118 intensive care unit (ICU) admissions and trained 69,120 models using 8 model architectures with 128 hyperparameter combinations. For each model, policy restrictions were applied. In the first evaluation step, 17,182/138,240 policies had good performance, but cross-OPE revealed suboptimal performance for 44% of those by varying the reward function used for evaluation. Clinical policy inspection facilitated assessment of action decisions for individual patients, including identification of action space regions that may benefit most from optimisation. Conclusion: Cross-OPE can serve as a robust evaluation framework for safe RL model implementation by identifying policies with good generalisability. Policy restriction helps prevent potentially unsafe model recommendations. Finally, the novel delta-Q metric can be used to operationalise RL models in clinical practice. Our findings offer a promising pathway towards application of RL in intensive care medicine and beyond. © The Author(s) 2024.
+KW  - Clinical policy inspection
+KW  - Covid-19
+KW  - Cross off-policy evaluation
+KW  - Explainability
+KW  - fo2
+KW  - Mechanical ventilation
+KW  - Peep
+KW  - Policy filtering
+KW  - Reinforcement learning
+KW  - Safety
+KW  - adult respiratory distress syndrome
+KW  - algorithm
+KW  - APACHE
+KW  - Article
+KW  - artificial ventilation
+KW  - clinical decision support system
+KW  - clinical trial
+KW  - coronavirus disease 2019
+KW  - data extraction
+KW  - decarboxylation
+KW  - decision making
+KW  - DeepVent
+KW  - Dueling Double Deep Q Network
+KW  - evaluation study
+KW  - fraction of inspired oxygen
+KW  - gas exchange
+KW  - health care
+KW  - health care policy
+KW  - Horowitz index
+KW  - hospitalization
+KW  - human
+KW  - hypoxemia
+KW  - intensive care unit
+KW  - length of stay
+KW  - machine learning
+KW  - major clinical study
+KW  - off policy evaluation
+KW  - oxygen toxicity
+KW  - oxygenation
+KW  - policy
+KW  - positive end expiratory pressure ventilation
+KW  - quality adjusted life year
+KW  - reinforcement learning (machine learning)
+KW  - respiratory failure
+KW  - reward shaping
+KW  - safety
+KW  - tidal volume
+KW  - treatment outcome
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 19
+ER  -
+
+TY  - JOUR
+AU  - Mizrak, F.
+AU  - Akkartal, G.R.
+TI  - Human-Centered Governance of Algorithmic Management in 3PL Warehousing: A DMFF-BN-PCRO Decision Framework
+PY  - 2026
+T2  - Systems
+VL  - 14
+IS  - 6
+C7  - 679
+DO  - 10.3390/systems14060679
+UR  - https://www.scopus.com/pages/publications/105043085333?origin=resultslist
+AB  - Artificial intelligence is reshaping warehouse work through algorithmic task allocation, scanner-based monitoring, KPI feedback, dynamic scheduling, and real-time performance control. Although these systems can improve coordination and operational visibility, they also create governance risks related to fairness, transparency, autonomy, privacy, workload pressure, trust, and employee resistance. This study develops a human-centered decision framework for prioritizing algorithmic management governance packages in third-party logistics (3PL) warehousing. The main contribution is to translate employee-level governance concerns into a scenario-sensitive decision model that helps managers select appropriate governance packages under different operational pressures. The study uses survey data from 380 warehouse employees to examine key psychological and behavioral mechanisms, including procedural fairness, transparency, system/information quality, autonomy, privacy concern, workload, trust, acceptance, and resistance/disengagement. These survey-supported constructs are then converted into six governance criteria: procedural fairness, transparency and contestability clarity, system and information quality, autonomy support, privacy boundary governance, and workload protection. A seven-expert panel evaluates five governance packages under three scenarios: peak season surge, labor shortage/high turnover, and audit pressure/compliance scrutiny. Methodologically, the framework combines Dynamic Multi-Facet Fuzzy Sets to capture membership, non-membership, hesitancy, engagement, and resistance; Bayesian Network weighting to reflect dependencies among governance criteria; and PCA-based ranking optimization to generate scenario-specific and robust rankings. Comparative validation with SAW and TOPSIS is also used to assess ranking consistency. The findings show that effective algorithmic management governance is not a fixed compliance solution. Transparency, workload protection, autonomy support, privacy boundary governance, and procedural fairness become more or less important depending on the operational scenario. A2, which combines transparency, workload protection, and autonomy support, emerges as the strongest robust package. A1 performs best under labor shortage/high turnover, while A3 performs best under audit pressure/compliance scrutiny. These results suggest that 3PL warehouses should adopt adaptive governance routines that combine explainability, contestability, workload safeguards, privacy boundaries, and employee voice mechanisms. The study contributes to the literature on AI in socio-technical systems by showing how human, organizational, and ethical concerns can be embedded into an interpretable decision framework for responsible algorithmic management in logistics work environments. © 2026 by the authors.
+KW  - 3PL warehousing
+KW  - AI governance
+KW  - algorithmic management
+KW  - Bayesian Network
+KW  - fuzzy decision-making
+KW  - human-centered AI
+KW  - PCA-based ranking
+KW  - Barium compounds
+KW  - Data privacy
+KW  - Data warehouses
+KW  - Decision making
+KW  - Ethical aspects
+KW  - Human resource management
+KW  - Transparency
+KW  - Warehouses
+KW  - 3PL warehousing
+KW  - AI governance
+KW  - Algorithmic management
+KW  - Algorithmics
+KW  - Bayesia n networks
+KW  - Decision framework
+KW  - Fuzzy Decision making
+KW  - Human-centered AI
+KW  - PCA-based ranking
+KW  - Procedural fairness
+KW  - Bayesian networks
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Telnov, V.P.
+AU  - Korovin, Y.A.
+AU  - Odintsov, K.V.
+TI  - On the Issue of Optimum Machine Learning Methods for Filling and Updating Nuclear Knowledge Graphs
+PY  - 2023
+T2  - Lobachevskii Journal of Mathematics
+VL  - 44
+IS  - 1
+SP  - 227
+EP  - 236
+DO  - 10.1134/S1995080223010419
+UR  - https://www.scopus.com/pages/publications/85159698633?origin=resultslist
+AB  - Abstract: The paper deals with the issues of finding and researching optimum algorithms for classification and semantic annotation of textual network content in the interests of filling and updating nuclear knowledge graphs in Russian and English. Testing of the studied algorithms is carried out by the method of cross-validation. The novelty of the presented research is due to the application of the Pareto’s optimality principle for multi-criteria evaluation and ranking of the studied machine learning algorithms, provided that there is no a priori information about the comparative importance of the criteria. The features of the software implementation of efficient classification and semantic annotation algorithms as part of a scalable semantic web portal hosted on a cloud platform are discussed. The proposed software solutions are based on cloud computing using DBaaS and PaaS service models to ensure the scalability of data warehouses and network services. © 2023, Pleiades Publishing, Ltd.
+KW  - classification
+KW  - cloud computing
+KW  - knowledge base
+KW  - machine learning
+KW  - semantic annotation
+KW  - semantic web
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Zhang, G.
+TI  - Research on the Influence of Campus Culture on the Quality Education of College Students in the Internet Era
+PY  - 2020
+T2  - ACM International Conference Proceeding Series
+SP  - 376
+EP  - 380
+DO  - 10.1145/3419635.3419695
+UR  - https://www.scopus.com/pages/publications/85092321665?origin=resultslist
+AB  - This paper studies the comprehensive quality evaluation system of college students, and puts forward a design idea based on the comprehensive quality evaluation data warehouse system of college students. Through questionnaire surveys, enterprise surveys, and investigations on students, the comprehensive quality of college students is evaluated. Analytic hierarchy process (AHP) is used to calculate the index weight, which can reflect the importance of scientific and reasonable indexes in comprehensive quality evaluation. Based on the evaluation of students' comprehensive qualities, data mining technology is introduced. This paper describes the system design of the data mining model for the evaluation of university students' comprehensive qualities and the realization process of the data mining system. It mainly uses frequent itemset mining methods, namely association rules and Apriori algorithm to generate association rules and frequent itemsets that affect the relationship between the factors of comprehensive quality. Based on the generated rule set, the relationship between the comprehensive quality assessment of college students and the employment situation of students is predicted, analyzed and mastered. Mastering this relationship is conducive to further training useful talents to meet the needs of the society, and it is beneficial for the employer to conduct targeted selection of talents  © 2020 ACM.
+KW  - Apriori algorithm
+KW  - Association rules
+KW  - quality education
+KW  - Analytic hierarchy process
+KW  - Association rules
+KW  - Data mining
+KW  - Data warehouses
+KW  - Education computing
+KW  - Quality control
+KW  - Surveys
+KW  - Analytic hierarchy process (ahp)
+KW  - Comprehensive qualities
+KW  - Data mining technology
+KW  - Data warehouse systems
+KW  - Employment situation
+KW  - Frequent itemset mining
+KW  - Questionnaire surveys
+KW  - University students
+KW  - Students
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Setiawan, R.
+AU  - Budiharto, W.
+AU  - Kartowisastro, I.H.
+AU  - Prabowo, H.
+TI  - Learning evaluation effectiveness through dashboard of knowledge using dimensions of multi-criteria of WELS
+PY  - 2020
+T2  - IEEE Access
+VL  - 8
+C7  - 8952622
+SP  - 10254
+EP  - 10261
+DO  - 10.1109/ACCESS.2020.2964811
+UR  - https://www.scopus.com/pages/publications/85078483614?origin=resultslist
+AB  - A Discussion Forum is one component of the learning media in a Learning Management System. There is much information and knowledge that are discussed among a lecturer and students in forums as a part of the learning process. The motivation of this study is to evaluate the learning process in a discussion forum through a dashboard, namely, the Dashboard of Knowledge (DoK). The DoK is formed using an Information Retrieval Architecture and Entity Relationship Diagram that is designed using four category interfaces. Furthermore, the effectiveness of the learning evaluation through the DoK is measured by a survey. The survey is conducted using three out of four dimensions of multi-criteria of the Web-based E-Learning System (WELS), namely, the Learner Interface, the System Context, and Personalization. The respondents of the survey are the heads of department that are DoK users. The results show that most respondents strongly agree that the DoK is useful for evaluating the learning in a discussion forum. This is exhibited by the survey results that show an average score of 3.53 out of 4.00 and 84.32% satisfaction. These results reveal that the DoK can effectively assist heads of department in monitoring the effectiveness of the learning process in a discussion forum. © 2013 IEEE.
+KW  - Data warehouses
+KW  - discussion forums
+KW  - e-learning
+KW  - Data warehouses
+KW  - E-learning
+KW  - Surveys
+KW  - Discussion forum
+KW  - Entity relationship diagrams
+KW  - Four dimensions
+KW  - Learning evaluations
+KW  - Learning management system
+KW  - Learning process
+KW  - Personalizations
+KW  - Web-based e-learning systems
+KW  - Learning systems
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Lakkireddy, S.
+TI  - A Comparative Analysis of Apache Iceberg, Delta Lake, and Apache Hudi: Architecture, Performance, and Use-Case Suitability
+PY  - 2026
+T2  - Journal of Advances in Information Technology
+VL  - 17
+IS  - 6
+SP  - 1113
+EP  - 1129
+DO  - 10.12720/jait.17.6.1113-1129
+UR  - https://www.scopus.com/pages/publications/105042612420?origin=resultslist
+AB  - A new architecture called data lakehouse has been developed to combine the capabilities of data lakes with the benefits of data warehouses, offering the scalability of data lakes alongside the ability to achieve transactional consistency typically associated with data warehouses. The foundation of these architectures is built on open table formats, such as Apache Iceberg, Delta Lake, and Apache Hudi, to support Atomicity, Consistency, Isolation, Durability (ACID) transactions, schema evolution, and time travel on distributed datasets. Current comparative works on these formats are limited, often comparing them only on specific benchmarks or in an approach that is not driven by ephemeral scenarios. This leads to confusion among architects and data engineers regarding the choice of the correct format for various workload needs. To address this gap, the work introduces a unified benchmarking and suitability evaluation framework that compares across architectural paradigms, including ingestion throughput, query latency, write amplification, schema evolution performance, and uses synthetic and real-world use cases with respect to architectural paradigms. It proposes a weighted scoring model to calculate aggregate suitability scores and two algorithms that facilitate the evaluation and ranking in a scenario-oriented manner. All the experiments are performed on top of Apache Spark 3. Using both synthetic Transaction Processing Council-Decision Support (TPC-DS) and Internet of Things (IoT) workloads in batch, streaming, and slowly changing dimension Slowly Changing Dimension (SCD) scenarios. Apache Iceberg is shown to represent the best of the three in terms of low write amplification and effective schema evolution handling for batch Extract, Transform, Load (ETL) workloads (quantitatively). While Delta Lake’s ingestion and query performance is well-balanced for hybrid scenarios, Apache Hudi has a better approach in streaming use cases with high-throughput ingestion, specifically in the Merge-on-Read mode. While the existence of workload-dependent trade-offs, illustrated through the proposed framework, is of significance, it also enables practitioners through visual and quantitative decision-support tools. The results of the study can help improve the tuning of architectural decisions of lakehouses when used in production-size data environments. 0F. © 2026 by the authors.
+KW  - Apache Hudi
+KW  - Apache Iceberg
+KW  - benchmarking framework
+KW  - data lakehouse
+KW  - Delta Lake
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Li, H.
+AU  - Li, X.
+AU  - Liu, X.
+AU  - Li, H.
+AU  - Bu, X.
+AU  - Chen, S.
+AU  - Lyu, Q.
+TI  - Evaluation and Prediction Models for Blast Furnace Operating Status Based on Big Data Mining
+PY  - 2023
+T2  - Metals
+VL  - 13
+IS  - 7
+C7  - 1250
+DO  - 10.3390/met13071250
+UR  - https://www.scopus.com/pages/publications/85166194364?origin=resultslist
+AB  - Based on the historical data of a commercial blast furnace (BF), the evaluation and prediction models for the BF comprehensive operating status were established by big data mining methods. Firstly, based on the data resources of the data warehouse of BF ironmaking, clean data were obtained by processing the original data with the problem of null values, outlier data, and blowing-down operations data. Then, the AHP_EWM_TPOSIS evaluation model was built with the combined weight of AHP and EWM and the improved TOPSIS algorithm. Finally, the model evaluation results were verified with the actual production situation, and the comprehensive matching rate reached 94.49%, indicating that the model can accurately judge the comprehensive operating status of BF. The evaluation result was the target parameter for building the BF comprehensive operating status prediction model. The results showed that the stacking model achieved better results than the base models in all indicators. The accuracy index of the deviation between the predicted value and the actual value within ±0.05 reached 94.50%, which meets the practical needs of BF production. The evaluation and prediction models provided timely and accurate furnace condition information to the operators in the BF smelting process, which promoted the long-term stable operation of the BF condition. © 2023 by the authors.
+KW  - big data mining
+KW  - blast furnace operating status
+KW  - data warehouse
+KW  - evaluation
+KW  - features engineering
+KW  - prediction
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 18
+ER  -
+
+TY  - CONF
+AU  - Fan, F.
+AU  - Zhang, R.
+TI  - Intelligent Computer-Aided Evaluation Algorithm based on Parallel Multidimensional Data Clustering Algorithm
+PY  - 2022
+T2  - 6th International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud), I-SMAC 2022 - Proceedings
+SP  - 215
+EP  - 218
+DO  - 10.1109/I-SMAC55078.2022.9986497
+UR  - https://www.scopus.com/pages/publications/85146427480?origin=resultslist
+AB  - Aiming at the slow speed of the current parallel hierarchical clustering algorithm in processing large data sets, a parallel data preprocessing algorithm is proposed, which can reduce the size of the original input data to 1/10 at most. Fuzzy mathematics is used in this paper. Based on the relevant theories, combined with the comprehensive evaluation index system of teaching quality, and using the AHP, a new method that can effectively quantitatively evaluate the teaching quality-computer comprehensive evaluation method is proposed. Analysis, data mining algorithm, prediction model, etc. The subject domain of the data warehouse is established, and the relevant dimensions and indicators are designed. By analyzing the data structure in the teaching evaluation management system.  © 2022 IEEE.
+KW  - Intelligent Computer-Aided Evaluation
+KW  - Parallel Multidimensional Data Clustering
+KW  - Teaching Quality
+KW  - Cluster analysis
+KW  - Clustering algorithms
+KW  - Data mining
+KW  - Information management
+KW  - Quality control
+KW  - 'current
+KW  - Computer-aided
+KW  - Data clustering
+KW  - Data clustering algorithm
+KW  - Evaluation algorithm
+KW  - Intelligent computer-aided evaluation
+KW  - Multidimensional data
+KW  - Parallel multidimensional data clustering
+KW  - Slow speed
+KW  - Teaching quality
+KW  - Data warehouses
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Guneş, M.
+AU  - Ekmiş, M.A.
+AU  - Rencberoǧlu, E.
+AU  - Yilmaz, M.B.
+AU  - Varal, A.
+TI  - Reducing Inventory Counting Errors with Machine Learning: A Data-Driven Approach for E-Commerce
+PY  - 2025
+T2  - ICHORA 2025 - 2025 7th International Congress on Human-Computer Interaction, Optimization and Robotic Applications, Proceedings
+DO  - 10.1109/ICHORA65333.2025.11017063
+UR  - https://www.scopus.com/pages/publications/105008423223?origin=resultslist
+AB  - Inventory counting is one of the most critical processes in e-commerce, as it directly impacts stock control and, consequently, customer experience and profitability. In an internal analysis conducted at Hepsiburada, one of Turkey's leading e-commerce companies, found that using traditional manual counting methods, the error rate can reach nearly 30%. In this study, to manage this error rate at lower levels and reduce operational costs, a machine learning based decision framework was developed. Data from the warehouse management system was analyzed, and feature engineering techniques were applied. Using PyCaret and Optuna for model selection and optimization, XGBoost was identified as the best performing model and deployed. The model achieved over 85% recall, demonstrating success in counting performance. This approach is expected to improve the error rate by at least 10-15%, enhancing efficiency and reducing costs in inventory management. © 2025 IEEE.
+KW  - Data Analytics
+KW  - E-Commerce
+KW  - Inventory Counting
+KW  - Inventory Inaccuracy
+KW  - Machine Learning
+KW  - Warehouse Management
+KW  - Cost reduction
+KW  - Data warehouses
+KW  - Errors
+KW  - Information management
+KW  - Information systems
+KW  - Inventory control
+KW  - Learning systems
+KW  - Machine learning
+KW  - Warehouses
+KW  - Counting errors
+KW  - Customer profitability
+KW  - Data analytics
+KW  - Data-driven approach
+KW  - E- commerces
+KW  - Error rate
+KW  - Inventory counting
+KW  - Inventory inaccuracy
+KW  - Machine-learning
+KW  - Warehouse management
+KW  - Electronic commerce
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Li, S.
+AU  - Zhang, L.
+AU  - Liu, S.
+AU  - Hubbard, R.
+AU  - Li, H.
+TI  - Surveillance of noncommunicable disease epidemic through the integrated noncommunicable disease collaborative management system: Feasibility pilot study conducted in the city of Ningbo, China
+PY  - 2020
+T2  - Journal of Medical Internet Research
+VL  - 22
+IS  - 7
+C7  - e17340
+DO  - 10.2196/17340
+UR  - https://www.scopus.com/pages/publications/85088679220?origin=resultslist
+AB  - Background: Noncommunicable diseases (NCDs) have become the main public health concern worldwide. With rapid economic development and changes in lifestyles, the burden of NCDs in China is increasing dramatically every year. Monitoring is a critical measure for NCDs control and prevention. However, because of the lack of regional representativeness, unsatisfactory data quality, and inefficient data sharing and utilization, the existing surveillance systems and surveys in China cannot track the status and transition of NCDs epidemic. Objective: To efficaciously track NCDs epidemic in China, this pilot program conducted in Ningbo city by the Chinese Center for Disease Control and Prevention (CDC) aimed to develop an innovative model for NCDs surveillance and management: the integrated noncommunicable disease collaborative management system (NCDCMS). Methods: This Ningbo model was designed and developed through a 3-level (county/district, municipal, and provincial levels) direct reporting system based on the regional health information platform. The uniform data standards and interface specifications were established to connect different platforms and conduct data exchanges. The performance of the system was evaluated based on the 9 attributes of surveillance system evaluation framework recommended by the US CDC. Results: NCDCMS allows automatic NCDs data exchanging and sharing via a 3-level public health data exchange platform in China. It currently covers 201 medical institutions throughout the city. Compared with previous systems, automatic popping up of the report card, automatic patient information extraction, and real-time data exchange process have highly improved the simplicity and timeliness of the system. The data quality meets the requirements to monitor the incidence trend of NCDs accurately, and the comprehensive data types obtained from the database (ie, directly from the 3-level platform on the data warehouse) also provide a useful information to conduct scientific studies. So far, 98.1% (201/205) of medical institutions across Ningbo having been involved in data exchanges with the model. Evaluations of the system performance showed that NCDCMS has high levels of simplicity, data quality, acceptability, representativeness, and timeliness. Conclusions: NCDCMS completely reshaped the process of NCD surveillance reporting and had unique advantages, which include reducing the work burden of different stakeholders by data sharing and exchange, eliminating unnecessary redundancies, reducing the amount of underreporting, and structuring population-based cohorts. The Ningbo model will be gradually promoted elsewhere following this success of the pilot project, and is expected to be a milestone in NCDs surveillance, control, and prevention in China. © 2020 Sixuan Li.
+KW  - Electronic health records
+KW  - Noncommunicable diseases
+KW  - Regional health information platform
+KW  - Surveillance
+KW  - China
+KW  - Epidemics
+KW  - Epidemiological Monitoring
+KW  - Feasibility Studies
+KW  - Humans
+KW  - Noncommunicable Diseases
+KW  - Pilot Projects
+KW  - Public Health
+KW  - Surveys and Questionnaires
+KW  - Article
+KW  - benign neoplasm
+KW  - central nervous system tumor
+KW  - cerebrovascular disease
+KW  - China
+KW  - data base
+KW  - data quality
+KW  - diabetes mellitus
+KW  - disease control
+KW  - disease surveillance
+KW  - epidemic
+KW  - evaluation study
+KW  - feasibility study
+KW  - heart arrest
+KW  - human
+KW  - incidence
+KW  - ischemic heart disease
+KW  - malignant neoplasm
+KW  - non communicable disease
+KW  - patient information
+KW  - pilot study
+KW  - epidemic
+KW  - epidemiological monitoring
+KW  - non communicable disease
+KW  - procedures
+KW  - public health
+KW  - questionnaire
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 16
+ER  -
+
+TY  - CONF
+AU  - Espinoza, F.
+AU  - Maryska, M.
+TI  - MODERN DATA ARCHITECTURES: EVALUATION AND SELECTION CRITERIA FOR DATA-DRIVEN ENTERPRISES
+PY  - 2025
+T2  - IDIMT 2025 - ICT in Business: AI Everywhere? Glory and Disgrace of AI - 33rd Interdisciplinary Information Management Talks
+SP  - 155
+EP  - 162
+DO  - 10.35011/IDIMT-2025-155
+UR  - https://www.scopus.com/pages/publications/105012777377?origin=resultslist
+AB  - This paper presents a comprehensive evaluation of modern data architectures including Data Warehouse (DWH), Data Lake (DL), and Data Lakehouse (DLH) with a focus on their applicability in data-driven enterprises. The study identifies a robust set of criteria derived from both literature and practice to guide architecture selection. Using a weighted scoring methodology, each architecture is assessed based on its technical, organizational, and economic fit. The results indicate that DLH offers the best trade-off between scalability, flexibility, and support for advanced analytics, while traditional DWH solutions still excel in ease of use and implementation simplicity. The findings provide practical guidance for organizations navigating digital transformation and aiming to align data infrastructure with strategic goals. © 2025 The Author(s).
+KW  - Data architecture
+KW  - data lake
+KW  - data lakehouse
+KW  - data warehouse
+KW  - enterprise architecture
+KW  - evaluation matrix
+KW  - Advanced Analytics
+KW  - Architecture
+KW  - Lakes
+KW  - Metadata
+KW  - Architecture evaluation
+KW  - Architecture selection
+KW  - Data architectures
+KW  - Data driven
+KW  - Data lake
+KW  - Data lakehouse
+KW  - Enterprise Architecture
+KW  - Evaluation criteria
+KW  - Evaluation matrices
+KW  - Selection criteria
+KW  - Economic and social effects
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Tao, Z.
+AU  - Si Jun, B.
+AU  - Xi Bai, R.
+TI  - Research on marketing management system based on independent ERP and business BI using fuzzy TOPSIS
+PY  - 2021
+T2  - Journal of Intelligent and Fuzzy Systems
+VL  - 40
+IS  - 4
+SP  - 8247
+EP  - 8255
+DO  - 10.3233/JIFS-189647
+UR  - https://www.scopus.com/pages/publications/85104293486?origin=resultslist
+AB  - The rapid development of cloud computing, big data, AI, BI and other information technologies has accelerated the process of enterprise modernization and informatization. The combination of computer technology and management science promoted the formation of modern enterprise management technology. Especially in today's era of big data, in the face of massive data, how to quickly and accurately find out the required information, analyze the memory relation of data, find out the inherent business law hidden under massive information, and provide an important reference for enterprises to make business decisions and seek for market opportunities. A methodology that exhibits fuzzy TOPSIS model has been incorporated in this study. Fuzzy weights and fuzzy judgment about the management systems have employed to estimate the scores of evaluation. In order to solve this problem, this paper integrates independent ERP and BI, and studies and develops a marketing management system by using advanced technologies such as data warehouse, online analysis and data mining; The system extracts useful data from ERP data sources, and analyzes the internal rules and statistical results that can be used to guide the enterprise's actions, so as to effectively improve the enterprise's competitiveness. © 2021-IOS Press. All rights reserved.
+KW  - artificial intelligence (AI)
+KW  - computer technology
+KW  - data mining
+KW  - ERP
+KW  - fuzzy judgment
+KW  - fuzzy TOPSIS
+KW  - fuzzy weights
+KW  - marketing management
+KW  - Big data
+KW  - Commerce
+KW  - Competition
+KW  - Data mining
+KW  - Data warehouses
+KW  - Enterprise resource planning
+KW  - Marketing
+KW  - Advanced technology
+KW  - Business decisions
+KW  - Computer technology
+KW  - Enterprise management
+KW  - Management systems
+KW  - Market opportunities
+KW  - Marketing management systems
+KW  - On-line analysis
+KW  - Information management
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 11
+ER  -
+
+TY  - CONF
+AU  - Khandekar, A.
+AU  - Mishra, A.
+AU  - Shah, H.
+AU  - Dave, B.
+TI  - Utility Power Transformers’ Performance Enhancement in Smart Grids
+PY  - 2020
+T2  - Lecture Notes in Electrical Engineering
+VL  - 580
+SP  - 77
+EP  - 88
+DO  - 10.1007/978-981-32-9119-5_7
+UR  - https://www.scopus.com/pages/publications/85077777083?origin=resultslist
+AB  - Power Transformers (PT) are one of the most critical components of a Transmission & Distribution (T & D) Utility in terms of its impact on network availability. Apart from criticality, it is one of the costliest equipment in a substation comprising up to 60% of total investment. Multiple operational and environmental factors such as overloading, moisture, heat, progressive ageing, and so on lead to deterioration of insulation (winding and bushing), oil quality and so on result in decreasing PT operational efficiency and lifespan. It is crucial to assess the health condition of such PTs continuously to realize improved efficiency, early fault detection & diagnostics, prediction of maintenance requirements, and reinvestment strategy. The solution is developed to monitor and predict the performance of PT. Data Historian/Cloud Platform acts as a data lake and model repository to fetch online parameters and offline test results integrating with multiple data sources such as SCADA, online Dissolved Gas Analyzer device, Bushing monitor and the Enterprise Resource Planning (ERP) system. Asset Health Index (AHI) for PT is calculated using a multi-criteria analysis approach to derive a quantifiable figure which represents the condition based health of the PT. AHI calculation not only considers online parameters such as DGA, Load, Bushing tan delta capacitance, but also the offline test results such as power factor, Degree of Polymerization, Polarization Index, Winding Resistance and so on. Duval Triangle and IEC Ratio techniques employed in the solution for detecting the incipient fault and diagnosing nature (thermal/electrical) and location (paper/oil) of fault when it occurs. The deployed solution can help the Utilities in: (1) Adopting condition based maintenance strategy moving away from schedule based maintenance; (2) preventing unwanted breakdowns; and (3) Prioritize planning to achieve optimal balance between maintenance and replacement strategy. This paper discusses about the challenges faced by the Utilities in managing the PTs, which has crossed significant life span and the solution to resolve the challenges, taking into consideration maintenance practice followed in Utilities, availability of measurement/test data in Utilities and recommendations of international standards. © 2020, Springer Nature Singapore Pte Ltd.
+KW  - Asset health index
+KW  - Asset performance management
+KW  - DGA
+KW  - Duval triangle
+KW  - IEC ratio
+KW  - Power transformer
+KW  - Bushings
+KW  - Deterioration
+KW  - Efficiency
+KW  - Electric power transmission networks
+KW  - Electric resistance
+KW  - Enterprise resource planning
+KW  - Fault detection
+KW  - Health
+KW  - Investments
+KW  - Maintenance
+KW  - Power transformers
+KW  - Smart city
+KW  - Solution mining
+KW  - Winding
+KW  - Condition based maintenance
+KW  - Degree of polymerization
+KW  - Duval triangle
+KW  - Enterprise resource planning systems
+KW  - Health indices
+KW  - IEC ratio
+KW  - Performance enhancements
+KW  - Performance management
+KW  - Smart power grids
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Layeb, S.B.
+AU  - Omrane, N.A.
+AU  - Siala, J.C.
+AU  - Chaabani, D.
+TI  - Toward a PCA-DEA based Decision Support System: A case study of a third-party logistics provider from Tunisia
+PY  - 2020
+T2  - Proceedings of the International Conference on Advanced Systems and Emergent Technologies, IC_ASET 2020
+C7  - 9318268
+SP  - 294
+EP  - 299
+DO  - 10.1109/IC_ASET49463.2020.9318268
+UR  - https://www.scopus.com/pages/publications/85100696338?origin=resultslist
+AB  - Evaluating the efficiency of Distribution Centers (DCs) is the cornerstone of the assessment of any logistics operator performance. Because of the huge number of potential indicators for the DCs, the main issue herein is how to select appropriately the adequate efficiency indicators. In order to address this concern, this paper presents a real life case study of a third-party logistics service provider (3PL) operating in Tunisia. In this work, we have used the Principal Component Analysis (PCA) approach to select the adequate indicators, followed by a Data Envelopment Analysis (DEA) method to measure the efficiency of each DC warehousing and transport activities. We have gone beyond simply assessing the DCs efficiency by integrating the proposed evaluation framework within a Decision Support System (DSS) that provides decision-makers with dashboards enabling better governance and visibility. © 2020 IEEE.
+KW  - 3PL
+KW  - Data Envelopment Analysis
+KW  - Decision Support System
+KW  - Principal Component Analysis
+KW  - Data envelopment analysis
+KW  - Data warehouses
+KW  - Decision making
+KW  - Efficiency
+KW  - Outsourcing
+KW  - Warehouses
+KW  - Decision support system (dss)
+KW  - Distribution centers
+KW  - Efficiency indicators
+KW  - Evaluation framework
+KW  - Operator performance
+KW  - Potential indicators
+KW  - Third party logistics
+KW  - Third party logistics providers
+KW  - Decision support systems
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Cari, M.
+AU  - Ayyildiz, E.
+AU  - Karabulut, M.A.
+AU  - Karaca, T.K.
+AU  - Yalcin Kavus, B.
+TI  - Autonomous Mobile Robot Selection in Smart Warehouses Considering Cybersecurity and Integration Requirements
+PY  - 2026
+T2  - Applied Sciences (Switzerland)
+VL  - 16
+IS  - 10
+C7  - 5095
+DO  - 10.3390/app16105095
+UR  - https://www.scopus.com/pages/publications/105040163579?origin=resultslist
+AB  - Autonomous mobile robots (AMRs) are increasingly used in warehouse intralogistics to improve material flow, flexibility, productivity, and operational continuity. However, selecting an appropriate AMR is no longer limited to mechanical performance or acquisition cost, since modern warehouse robots operate as networked cyber-physical systems that must interact with enterprise software, fleet management platforms, communication infrastructures, and cybersecurity mechanisms. This study proposes an integrated Pythagorean fuzzy multi-criteria decision-making (MCDM) framework for evaluating AMR alternatives in warehouse operations by jointly considering economic, technical, physical, software-related, integration-oriented, and security-related criteria. Expert judgments obtained from eight specialists, including four academics and four private-sector professionals, were modeled using Pythagorean fuzzy numbers to capture uncertainty and hesitation in linguistic assessments. The Pythagorean Fuzzy Indifference Threshold-Based Attribute Ratio Analysis (PF-ITARA) method was employed to determine criterion weights based on threshold-sensitive discrimination among alternatives, while Pythagorean Fuzzy VIšekriterijumsko KOmpromisno Rangiranje (PF-VIKOR) was used to rank four AMR alternatives according to a compromise solution logic. The results show that investment cost, maneuverability, total cost of ownership, integration and validation requirements, and ease of programming and commissioning are the most influential criteria. Cybersecurity-related criteria, particularly data confidentiality, system integrity, monitoring and incident response readiness, authentication control, and role-based access control, also received notable importance levels. Among the evaluated alternatives, MiR250 achieved the best overall performance and emerged as the most suitable compromise solution, followed by OMRON LD-250, HIKROBOT Forklift AGV, and KUKA KMP 600-S diffDrive. The proposed framework provides a transparent and practically applicable decision-support tool for AMR procurement by integrating operational performance, digital interoperability, and cybersecurity readiness into a unified evaluation structure. © 2026 by the authors.
+KW  - AMR selection
+KW  - autonomous mobile robots
+KW  - cybersecurity
+KW  - PF-ITARA
+KW  - PF-VIKOR
+KW  - Pythagorean fuzzy sets
+KW  - system integration
+KW  - warehouse intralogistics
+KW  - Access control
+KW  - Costs
+KW  - Cyber Physical System
+KW  - Decision making
+KW  - Embedded systems
+KW  - Enterprise software
+KW  - Fleet operations
+KW  - Integration
+KW  - Interoperability
+KW  - Mobile robots
+KW  - Network security
+KW  - Autonomous Mobile Robot
+KW  - Autonomous mobile robot selection
+KW  - Cyber security
+KW  - Pythagorean fuzzy indifference threshold-based attribute ratio analyze
+KW  - Pythagorean fuzzy set
+KW  - Pythagorean fuzzy višekriterijumsko kompromisno rangiranje
+KW  - Ratio analysis
+KW  - Robot selection
+KW  - System integration
+KW  - Warehouse intralogistic
+KW  - Article
+KW  - communication infrastructure
+KW  - comparative study
+KW  - computer security
+KW  - data warehouse
+KW  - decision making
+KW  - decision support system
+KW  - enterprise software
+KW  - entropy
+KW  - fuzzy logic
+KW  - integration
+KW  - investment
+KW  - knowledge
+KW  - monitoring
+KW  - multicriteria decision analysis
+KW  - nonhuman
+KW  - organization and management
+KW  - performance
+KW  - private sector
+KW  - reliability
+KW  - safety
+KW  - sensitivity analysis
+KW  - software
+KW  - Decision support systems
+KW  - Fuzzy sets
+KW  - Warehouses
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Qiang, K.
+AU  - Chen, S.
+AU  - Xu, Z.
+AU  - Wu, W.
+TI  - Framework for E-commerce Warehouse Site Selection Evaluation: The Impact of Consumer Repurchase Intention
+PY  - 2024
+T2  - Electronic Commerce Research and Applications
+VL  - 67
+C7  - 101442
+DO  - 10.1016/j.elerap.2024.101442
+UR  - https://www.scopus.com/pages/publications/85202350362?origin=resultslist
+AB  - Supply chains play a decisive role in the development of e-commerce. Although site selection problem for e-commerce warehouses is an important aspect of supply chain management, this topic has received insufficient research attention. This paper fills this research gap by proposing an evaluation framework for the e-commerce warehouse site selection. This framework incorporates consumer repurchase intention (CRI) as a key factor in the evaluation to analyze its impact. This study also employs the matter-element evaluation model to classify the levels of alternatives, and then adopts the probabilistic linguistic terms set to optimize the research results. The feasibility and effectiveness of the proposed evaluation framework is validated through a case study of e-commerce warehouse site selection in China. The results of the case study demonstrate the performance of the proposed framework and highlight the significant impact of CRI on the evaluation outcomes. The proposed framework makes full use of the evaluation information and significantly improves the differences between adjacent alternatives, which can enhance the credibility and accuracy of decision results to provide a more reliable alternative ranking for decision makers. © 2024 Elsevier B.V.
+KW  - Consumer repurchase intention
+KW  - E-commerce
+KW  - Matter-element evaluation model
+KW  - Probabilistic linguistic terms set
+KW  - Warehouse site selection
+KW  - Data warehouses
+KW  - Consumer repurchase intention
+KW  - E- commerces
+KW  - Evaluation models
+KW  - Linguistic terms
+KW  - Matter-element
+KW  - Matter-element evaluation model
+KW  - Probabilistic linguistic term set
+KW  - Probabilistics
+KW  - Repurchase intention
+KW  - Warehouse site selection
+KW  - Marketplaces
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Halim, S.
+AU  - Mubarokah, I.
+AU  - Hidayanto, A.N.
+TI  - Rank Critical Success Factors (CSFs) of Data Warehouse and Business Intelligence (DW/BI) Implementation in Banking Sector Using Analytical Hierarchy Process (AHP)
+PY  - 2020
+T2  - Proceedings - 2nd International Conference on Informatics, Multimedia, Cyber, and Information System, ICIMCIS 2020
+C7  - 9354331
+SP  - 313
+EP  - 318
+DO  - 10.1109/ICIMCIS51567.2020.9354331
+UR  - https://www.scopus.com/pages/publications/85102192044?origin=resultslist
+AB  - Data is a very important asset for a company in supporting decision making. The implementation of Data Warehouse and Business Intelligence (DW / BI) is a step of a company to manage data as an asset. This study aims to evaluate the Critical Success Factor (CSF) for DW/BI implementation in an Indonesian financial institution that provides conventional and sharia banking, PT XYZ. Data are obtained through a survey of key person who involved in full cycle in the 2 phases of DW/BI implementation at PT XYZ and had roles and responsibilities that could provide a holistic view of the people, process and technology dimensions during the project. Analytical Hierarchy Process (AHP) method is used to calculate the weight of CSF influence in the context of people, process, and technology. CSF 'Project Leader / Champion' has the most influence in the context of people, 'well defined system requirements' rank first in the context of process, and 'source system' has the biggest influence on the context of technology. The criterion of people is considered the most influential compared to the criterion of process and technology. Source system sub-criterion in the technology context has the most influence compared to other CSFs globally. © 2020 IEEE.
+KW  - AHP
+KW  - Bank
+KW  - Business Intelligence
+KW  - CSF
+KW  - Data Warehouse
+KW  - Banking
+KW  - Behavioral research
+KW  - Decision making
+KW  - Enterprise resource planning
+KW  - Hierarchical systems
+KW  - Information analysis
+KW  - Information systems
+KW  - Information use
+KW  - Analytical Hierarchy Process
+KW  - Banking sectors
+KW  - Critical success factor
+KW  - Financial institution
+KW  - Holistic view
+KW  - Project leaders
+KW  - Source systems
+KW  - System requirements
+KW  - Data warehouses
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 10
+ER  -
+
+TY  - JOUR
+AU  - Zhou, F.
+AU  - Chen, T.-Y.
+TI  - A synergetic intuitionistic fuzzy model combining AHP, entropy, and ELECTRE for data fabric solution selection
+PY  - 2025
+T2  - Artificial Intelligence Review
+VL  - 58
+IS  - 5
+C7  - 137
+DO  - 10.1007/s10462-025-11128-7
+UR  - https://www.scopus.com/pages/publications/85218418343?origin=resultslist
+AB  - Amidst the ongoing digital transformation, enterprises face the challenge of managing ever-expanding volumes of data from multiple sources and diverse structures. Semantic data fabric emerges as a promising solution, offering an innovative approach to integrate data resources from various channels and produce meaningful insights. The selection of an appropriate data fabric solution has become a focal point amidst burgeoning data lakes and silos, garnering international attention. This research aims to precisely evaluate potential data fabric solutions using an innovative synergetic intuitionistic fuzzy evaluation model. We propose a hybrid approach, IF-AHP-Entropy-ELECTRE, which integrates the analytic hierarchy process (AHP), entropy, and elimination et choix traduisant la réalité (ELECTRE) techniques within the framework of intuitionistic fuzzy (IF) sets. This model is utilized to a data fabric solution selection (DFSS) issue for an appliance company, identifying the optimal solution based on its superior performance in foundational technology, real-time analytics, and customizable features. The effectiveness and adaptability of this approach stem from a novel hierarchical evaluative criteria system encompassing technology, capability, cost, and security. The criteria weights, derived from IF-AHP-Entropy, reflect both subjective and objective judgments of decision-makers, while the ranking generated by IF-ELECTRE employs a piecewise scoring function and a unique distance measure, factoring in optimistic perspectives and cross-information. Through sensitivity and comparative analyses, our approach demonstrates enhanced robustness, precision, and adaptability in dynamic DFSS contexts when compared to traditional multicriteria decision-making methods, such as IF-WSM, IF-TOPSIS, and IF-ELECTRE. Specifically, our model provides a decision support system that combines extensive functionality with a user-friendly design, making it highly effective for DFSS challenges. This approach not only establishes a solid foundation for data integration in data management but also enhances business competitiveness and supports sustained growth in the digital economy. © The Author(s) 2025.
+KW  - Data fabric
+KW  - ELECTRE
+KW  - IF-AHP
+KW  - IF-Entropy
+KW  - Intuitionistic fuzzy
+KW  - Decision making
+KW  - Hierarchical systems
+KW  - Information management
+KW  - Data fabric
+KW  - Electre
+KW  - Fuzzy analytic hierarchy
+KW  - Hierarchy process
+KW  - Intuitionistic fuzzy
+KW  - Intuitionistic fuzzy entropies
+KW  - Intuitionistic fuzzy-analytic hierarchy process
+KW  - Solution selection
+KW  - Synergetics
+KW  - Analytic hierarchy process
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 23
+ER  -
+
+TY  - JOUR
+AU  - Fahimi, K.
+AU  - Amirabadi, M.
+TI  - Constructing the organizational excellence model using technique for order of preference by similarity to ideal solution and Analytic hierarchy process
+PY  - 2024
+T2  - International Journal of Human Capital in Urban Management
+VL  - 9
+IS  - 1
+SP  - 157
+EP  - 176
+DO  - 10.22034/IJHCUM.2024.01.11
+UR  - https://www.scopus.com/pages/publications/85181888458?origin=resultslist
+AB  - BACKGROUND AND OBJECTIVES: Excellence models are essential for organizations to improve performance. Deming Prize, Canada Awards for Excellence, Malcolm Baldrige National Quality Award, and European Quality Award are the most well-known excellence models worldwide. These models do not present any mathematical model in accordance with a comprehensive step-by-step roadmap for implementation. Moreover, they are general models and have not been customized for a specific organization. So, this article presents a comprehensive, graphical, step-by-step roadmap to implement an excellent model for Tehran Municipality that is elevated by Technique for order of preference by similarity to ideal solution and analytical hierarchical process to make decisions by mathematical analysis. METHODS: Different excellence and performance models have been studied, and then an excellence model for deputies of Tehran Municipality is designed. Also, an Analytical hierarchical process for weight extraction and a Technique for order of preference by similarity to an ideal solution for ranking is applied. FINDINGS: A novel excellence model for deputies of Tehran Municipality has been developed. Strategies, goals, objectives, targets, critical success factors, and general, proprietary, and transaction indexes are defined. Analytic hierarchy process calculates weights of indexes based on arbitrary data, and results are presented in 11 Tables. The most important index was the proprietary index, with a weight of 70% for the deputy of technical and construction. The less important index was the general index for the deputy of planning, human capital development, and council affairs, weighing 8%. Moreover, deputies of Tehran Municipality have been ranked by TOPSIS. The best deputy got 71%, and the worse got 7% scores. CONCLUSION: This study constructed a customized five-step excellence model for Tehran Municipality to reach excellence. The model can help Tehran Municipality for better urban planning. Step one constructs the performance assessment team. Step two extracts indexes by brainstorming method with the help of the European foundation for quality management model. Step three collects, cleans and loads the data in the data warehouse. In step four, weights of the indexes and facets are calculated based on AHP, and then facets, indexes, and goals are ranked by technique for order of preference by similarity to ideal solution as an effective multi-criteria decision making tool. Finally, the model has been implemented at offices of plan monitoring, project control, and performance evaluation in planning, human capital development, and council affairs department at Tehran Municipality. ©2024 The author(s). This is an open access article distributed under the terms of the Creative Commons Attribution (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, as long as the original authors and source are cited. No permission is required from the authors or the publishers.
+KW  - Analytic hierarchy process (AHP)
+KW  - European Foundation for Quality Management (EFQM)
+KW  - Excellence model
+KW  - Performance assessment
+KW  - Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS)
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Bhutani, P.
+AU  - Saha, A.
+AU  - Gosain, A.
+TI  - Wsemqt: A novel approach for quality-based evaluation of web data sources for a data warehouse
+PY  - 2020
+T2  - IET Software
+VL  - 14
+IS  - 7
+SP  - 806
+EP  - 815
+DO  - 10.1049/iet-sen.2020.0088
+UR  - https://www.scopus.com/pages/publications/85101773114?origin=resultslist
+AB  - The incorporation of suitable external data from the World Wide Web offers an effective solution for enriching the data in the data warehouse (DW). However, the main challenge is the quality-aware selection of web data sources to maintain the quality of the DW. In the previous works, the quality evaluation of web sources is through expert evaluation only, which makes it a very lengthy process. Also, since the quality model consists of mixed quality factors from diverse domains of Web, DW and underlying business, finding an expert possessing an expertise of all these domains is a huge bottleneck in the evaluation process. In order to overcome these existing issues, this study proposes a novel multi-level approach web source evaluation with multi-criteria decision-making and web quality testing tools (WSEMQT) and underlying quality model web quality model for evaluating web sources for the DW. The authors introduce automated web source quality evaluation in the first level of web source based evaluation and multiple dimensions of quality evaluation at the second level of expert-based evaluation. At both the levels, multi-criteria decision-making methods are applied to the evaluation scores obtained to ascertain the ranked list of Web sources. The authors present a real-world academic web data case study which shows that the proposed approach can be executed successfully for real-world problems. © The Institution of Engineering and Technology 2020.
+KW  - Data warehouses
+KW  - Decision making
+KW  - Quality assurance
+KW  - Websites
+KW  - Effective solution
+KW  - Expert evaluation
+KW  - Multi criteria decision making
+KW  - Multi-criteria decision making methods
+KW  - Multiple dimensions
+KW  - Quality evaluation
+KW  - Quality modeling
+KW  - Real-world problem
+KW  - Quality control
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Espinoza, F.
+AU  - Maryska, M.
+AU  - Doucek, P.
+TI  - Modern Data Architectures: Evaluation Framework for Selecting Suitable Data Platforms
+PY  - 2025
+T2  - Quality Innovation Prosperity
+VL  - 29
+IS  - 2
+SP  - 90
+EP  - 103
+DO  - 10.12776/qip.v29i2.2203
+UR  - https://www.scopus.com/pages/publications/105013123060?origin=resultslist
+AB  - Purpose: This paper addresses the challenge of selecting a suitable modern data architecture in the context of growing data complexity, increased demand for real-time analytics, and evolving business needs. Methodology/Approach: The study follows the DSR process. The paper presents a structured evaluation framework based on clearly defined criteria across technical, organisational, and economic dimensions. The framework supports decision-makers in comparing data architectures, including Data Warehouse, Data Lake, and Data Lakehouse, through a weighted scoring system. Findings: The outcome highlights the advantages of the Data Lakehouse paradigm for the evaluating organisation, which sought to combine flexibility, scalability, and advanced analytics capabilities. This paper contributes a practical and adaptable methodology that aligns enterprise and data architecture decisions. Research Limitation/Implications: Since each question may hold varying importance for the evaluator, it is recommended that each individual question be weighted. The evaluator must possess the necessary knowledge to assign weights. Originality/Value of paper: The methodology provides a foundation for further research on data architectures and their evaluation. It can serve as a starting point for the development of analytical tools and the implementation of case studies. © 2025 by the authors.
+KW  - data lakehouse
+KW  - data quality
+KW  - data warehouse
+KW  - enterprise architecture
+KW  - modern data architecture
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Asgari Siahboomy, M.
+AU  - Sarvari, H.
+AU  - Chan, D.W.M.
+AU  - Nassereddine, H.
+AU  - Chen, Z.
+TI  - A multi-criteria optimization study for locating industrial warehouses with the integration of BIM and GIS data
+PY  - 2021
+T2  - Architectural Engineering and Design Management
+VL  - 17
+IS  - 5-6
+SP  - 478
+EP  - 495
+DO  - 10.1080/17452007.2021.1881880
+UR  - https://www.scopus.com/pages/publications/85101051529?origin=resultslist
+AB  - One of the newest advancements in manufacturing and project management is Building Information Modeling (BIM) which uses creative processes for production, analysis, and management of building information. On the other hand, the output of the Geographic Information System (GIS) model includes one or more actual locations, which satisfy all needs. It provides points related to the BIM tool and it creates a 3D model for visualizing the optimum location. Integration of GIS and BIM can bring about several advantages including optimum locating. The aim of the current study is to propose a useful model for locating warehouses in large manufacturing factories using a BIM-GIS integrated model. To this end, BIM was used for simulation and locating of product warehouses in the casting unit of Esfahan’s Mobarakeh Steel Company (EMSC) in Iran. In order to meet these aims, several locations were selected in the EMSC compound, and decision making regarding three superior alternatives which were carried out by creating a 3D model of the warehouse and fitting of the model in three suggested locations. Using the extant literature, interviews with experts and managers, and survey questionnaires, essential criteria affecting the optimum locating of industrial warehouses were extracted based on the Building information modeling data. Then, the Analytic Hierarchy Process (AHP) method was used for data analysis. The results indicated that among various criteria, economic–social and crisis management criteria had the highest weights. These results were then used for selecting the optimum locating for the construction of warehouses. © 2021 Informa UK Limited, trading as Taylor & Francis Group.
+KW  - Analytic hierarchy process (AHP)
+KW  - Building information modeling (BIM)
+KW  - Geographic information system (GIS)
+KW  - industrial warehouses
+KW  - Iran
+KW  - 3D modeling
+KW  - Analytic hierarchy process
+KW  - Data warehouses
+KW  - Decision making
+KW  - Geographic information systems
+KW  - Information analysis
+KW  - Information theory
+KW  - Location
+KW  - Manufacture
+KW  - Multiobjective optimization
+KW  - Project management
+KW  - Surveys
+KW  - Warehouses
+KW  - Analytic hierarchy process (ahp)
+KW  - Building Information Model - BIM
+KW  - Crisis management
+KW  - Integrated modeling
+KW  - Manufacturing factories
+KW  - Multicriteria optimization
+KW  - Optimum location
+KW  - Product warehouse
+KW  - Architectural design
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 27
+ER  -
+
+TY  - CONF
+AU  - Xiaodong, Z.
+AU  - Ping, L.
+AU  - Xiaoning, M.
+TI  - Research on technical architecture and overall scheme of railway block chain service platform
+PY  - 2020
+T2  - ACM International Conference Proceeding Series
+C7  - 3446990
+SP  - 55
+EP  - 60
+DO  - 10.1145/3446983.3446990
+UR  - https://www.scopus.com/pages/publications/85103076587?origin=resultslist
+AB  - The block chain has many unique characteristics, like decentralization, stability, openness and transparency. We can apply block chain in many fields of railway to improve the comprehensive efficiency and benefit, such as railway passenger and freight service, engineering construction, big data sharing and so on. With the gradual completion of data service platform, big data lake and cloud computing in China Railway, these foundations can support the railway block chain application. The paper analyzed the development status and existing problems of block chain at home and abroad. Through the multidimensional analysis for the mainstream block chain platform architecture, the thesis gets the architecture selection of the railway block chain platform. Based on the hyperledger fabric, we propose the technical architecture and overall scheme for the railway block chain service platform respectively. The paper also designs the implementation path for the platform application construction. This research plays an important role and significance in promoting the block chain technology applying and developing in the railway field.  © 2020 ACM.
+KW  - Blockchain Platform
+KW  - Hyperledger Fabric
+KW  - Interconnection
+KW  - Railway Information Planning
+KW  - Technical Architecture
+KW  - Architecture
+KW  - Big data
+KW  - Data Sharing
+KW  - Railroad transportation
+KW  - Railroads
+KW  - Architecture selection
+KW  - Comprehensive efficiencies
+KW  - Development status
+KW  - Engineering constructions
+KW  - Multi-dimensional analysis
+KW  - Platform architecture
+KW  - Railway passengers
+KW  - Technical architecture
+KW  - Blockchain
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 2
+ER  -
+
+TY  - label.ris.referenceType.CONFERENCE_REVIEW.p
+TI  - Proceedings - 2nd International Conference on Informatics, Multimedia, Cyber, and Information System, ICIMCIS 2020
+PY  - 2020
+T2  - Proceedings - 2nd International Conference on Informatics, Multimedia, Cyber, and Information System, ICIMCIS 2020
+UR  - https://www.scopus.com/pages/publications/85102211161?origin=resultslist
+AB  - The proceedings contain 58 papers. The topics discussed include: rank critical success factors (CSFs) of data warehouse and business intelligence (DW/BI) implementation in banking sector using analytical hierarchy process (AHP); lexicon addition effect on lexicon-based of Indonesian sentiment analysis on Twitter; a review of skills relevant to enterprise resource planning implementation projects; mechanics, dynamics, and aesthetics framework on gamification at university; qualitative analysis: acceptance of android-based augmented reality technology using a mixture of marker and markerless methods as a product differentiation strategy; Diffie Hellman algorithm for securing medical record data encryption keys; a review of skills relevant to enterprise resource planning implementation projects; and improvement of decision tree classifier accuracy for healthcare insurance fraud prediction by using extreme gradient boosting algorithm.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+

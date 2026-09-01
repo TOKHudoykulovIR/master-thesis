@@ -1,0 +1,2186 @@
+TY  - JOUR
+AU  - Derakhshannia, M.
+AU  - Grange, J.
+AU  - Pekergin, N.
+TI  - Toward green data lake management and analysis through a CTMC model
+PY  - 2026
+T2  - Innovations in Systems and Software Engineering
+VL  - 22
+IS  - 1
+C7  - 13
+DO  - 10.1007/s11334-026-00637-5
+UR  - https://www.scopus.com/pages/publications/105039983702?origin=resultslist
+AB  - Nowadays, sustainability and energy considerations are becoming important concerns in mitigating the destructive effects of high energy consumption on the environment. In the realm of big data era, large-scale data processing systems are considered critical energy-consumption sources that exert significant impacts on the ecosystem. With the emergence of big data environments, which lead to the production of multi-structured data, numerous solutions and technologies have arisen to efficiently process vast amounts. Recently, a centralized data repository platform called Data Lake has been proposed to manage the heterogeneous data originating from diverse sources. Sustainability issues in such data management systems have received significant attention. In the dynamic environment of big data, the risk of unpredictable workloads and excessive energy usage at various phases of the data lifecycle within the data lake emphasizes the critical need for sustainable strategies. These measures aim to minimize the adverse effects of the high energy consumption during the data management procedure. In this article, we intend to design and analyze an energy-aware strategy for a green data lake framework. This strategy prioritizes ecological concerns, particularly energy consumption, by ensuring the maintenance of sufficient quality of service in terms of data availability. We present a model based on a continuous-time Markov chain (CTMC) to analyze the trade-off between energy efficiency and performance of a green data lake platform. © The Author(s) 2026.
+KW  - CTMC
+KW  - Energy efficiency
+KW  - Green data lake
+KW  - Big data
+KW  - Data accuracy
+KW  - Data handling
+KW  - Data quality
+KW  - Economic and social effects
+KW  - Energy utilization
+KW  - Green computing
+KW  - Information management
+KW  - Lakes
+KW  - Life cycle
+KW  - Power management
+KW  - Sustainable development
+KW  - Continous time Markov chain
+KW  - Destructive effects
+KW  - Energy
+KW  - Energy considerations
+KW  - Green data lake
+KW  - High energy consumption
+KW  - Lake management
+KW  - Large-scale data processing
+KW  - Markov chain models
+KW  - Sustainability considerations
+KW  - Energy efficiency
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - label.ris.referenceType.CONFERENCE_REVIEW.p
+TI  - Proceedings - IEEE 21st International Conference on Software Architecture, ICSA 2024
+PY  - 2024
+T2  - Proceedings - IEEE 21st International Conference on Software Architecture, ICSA 2024
+UR  - https://www.scopus.com/pages/publications/85201049859?origin=resultslist
+AB  - The proceedings contain 17 papers. The topics discussed include: MAGNET: method-based approach using graph neural network for microservices identification; informed and assessable observability design decisions in cloud-native microservice applications; characterizing software architectural metrics for continuous compliance in the automotive domain; a data-flow oriented software architecture for heterogeneous marine data streams; architectural design decisions for self-serve data platforms in data meshes; detecting usage of deprecated web APIs via tracing; exploring sustainable alternatives for the deployment of microservices architectures in the cloud; experimental evaluation of energy efficiency tactics in industry: results and lessons learned; and continuous conformance of software architectures.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Puonti, M.
+AU  - Raitalaakso, T.
+AU  - Aho, T.
+AU  - Taipalus, T.
+TI  - Lazy Minimal Data Warehouse Refresh
+PY  - 2025
+T2  - Computer Systems and Technologies - 26th International Conference, CompSysTech 2025 - Proceedings
+DO  - 10.1109/CompSysTech65493.2025.11137305
+UR  - https://www.scopus.com/pages/publications/105016454071?origin=resultslist
+AB  - Data warehousing is a technique for integrating data from several source systems to enable pervasive data analytics. Data updates in the source systems result in data refreshes down the data stream. These data refreshes are potentially both computationally and financially costly, even if the refreshed data is not utilized before the next refresh. In this study, we present an accessible approach for selecting tables, views and materialized views for data refreshes in situations where entities have complex dependencies. While such solutions have been proposed in scientific literature in the past, their practical applications have been few and far between. We speculate that this gap between theory and practice stems from the highly theoretical presentation of such solutions. In this study, we aim to address this gap from a practice-oriented industry perspective. Utilizing this approach may, depending on the structure of the database and how it is used, present considerable improvements for the efficient utilization of, e.g., computation and networking resources, as well as energy efficiency.  © 2025 IEEE.
+KW  - data engineering
+KW  - data ingestion
+KW  - data loading
+KW  - data warehouse
+KW  - efficiency
+KW  - Computation theory
+KW  - Computational efficiency
+KW  - Data assimilation
+KW  - Data streams
+KW  - Energy efficiency
+KW  - Data analytics
+KW  - Data engineering
+KW  - Data ingestions
+KW  - Data loading
+KW  - Data stream
+KW  - Data update
+KW  - Materialized view
+KW  - Scientific literature
+KW  - Source systems
+KW  - Theory and practice
+KW  - Data warehouses
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - label.ris.referenceType.CONFERENCE_REVIEW.p
+TI  - 2026 International Conference on Artificial Intelligence for Sustainable Engineering and Innovation, AISEI 2026
+PY  - 2026
+T2  - 2026 International Conference on Artificial Intelligence for Sustainable Engineering and Innovation, AISEI 2026
+UR  - https://www.scopus.com/pages/publications/105044353034?origin=resultslist
+AB  - The proceedings contain 269 papers. The topics discussed include: legacy ETL to autonomous data clouds: AI’s role in modern data warehouse transformation; entropic control in latent spaces: autonomous racing in the DonkeyCar MiniMonaco environment using soft actor-critic; explainability and trust in machine learning-based cloud security systems; the impact of internet of things on supply chain sustainability: the role of smart energy monitoring as a mediator in improving energy efficiency; cloud computing in small and medium-sized enterprises: a review of adoption, implementation, and organizational impact; enhancing bone marrow cell classification: a hybrid ai framework with hyperparameter optimization; the future of accounting in the metaverse: literature review; the influence of perceived health benefits, tourism transportation, mental health, and motivation on the development of wellness tourism; and exploring the implication of ML-based evaluation techniques to overcome the software development lifecycle selection challenges faced by project managers.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Liu, X.
+AU  - Latif, Z.
+AU  - Cui, F.
+AU  - Guo, X.
+AU  - Latif, S.
+AU  - Xiong, D.
+TI  - ICT and Renewable Energy: A Novel Concept for Big Data Storage Centers
+PY  - 2024
+T2  - Frontiers in Artificial Intelligence and Applications
+VL  - 381
+SP  - 88
+EP  - 95
+DO  - 10.3233/FAIA231180
+UR  - https://www.scopus.com/pages/publications/85183076519?origin=resultslist
+AB  - The tremendous growth in technology is also the cause of global warming, which is harmful greenhouse gas Emissions. The information and communication technology (ICT) sector is one of the fastest-growing industries; it has the most significant impact on almost all other technologies. Energy efficiency and reduction of global warming is now a wish and realization by all key players related to this technology. The big data is one of the modern tools of ICT. It not only has a range of energy efficiency, but it can also help other departments to become intelligent energy efficient. This research article proposes several ways to achieve the mentioned goal, like optimization of battery size, overcoming uncertainties in energy generation, and overcoming storage and consumption. In a green data warehouse, the energy supply from renewable energy sources and the user traffic load are dynamic. The big data industry is also aware of the potential benefits of renewable energy to make the future more environmentally friendly and sustainable. The research progress of big data storage solutions is reviewed in this paper. © 2024 The authors and IOS Press.
+KW  - Big data
+KW  - Global warming
+KW  - ICT
+KW  - Renewable energy
+KW  - Ware house
+KW  - Big data
+KW  - Data warehouses
+KW  - Digital storage
+KW  - Energy efficiency
+KW  - Gas emissions
+KW  - Global warming
+KW  - Green computing
+KW  - Greenhouse gases
+KW  - % reductions
+KW  - Data storage
+KW  - Greenhouse gas emissions
+KW  - Information and Communication Technologies
+KW  - Information and Communication Technology sectors
+KW  - Intelligent energies
+KW  - Modern tools
+KW  - Novel concept
+KW  - Renewable energies
+KW  - Ware house
+KW  - Renewable energy resources
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Gökçe, H.U.
+AU  - Gökçe, K.U.
+TI  - Intelligent energy optimization system development and validation for German building types
+PY  - 2021
+T2  - International Journal of Low-Carbon Technologies
+VL  - 16
+IS  - 4
+SP  - 1299
+EP  - 1316
+DO  - 10.1093/ijlct/ctab049
+UR  - https://www.scopus.com/pages/publications/85121256419?origin=resultslist
+AB  - Cost-effective building energy optimization solutions have a strategic function to assist German and European energy policies for the simple reason that buildings account for 40% of the total energy consumption in Europe. The International Energy Agency considers energy efficiency as the first fuel and a major resource. In this work, a cost-effective building energy optimization system consisting of 14 different wireless network embedded sensors, control units (actuators), wireless communication protocol, multi-dimensional information management system, context sensitive graphical user interfaces and energy optimization software with artificial intelligence-backed control algorithms is examined. The R&D activity is accomplished in the 'Intelligent Building Energy Management System' research project, which is funded by the State of Lower Saxony (Germany) in the frame of Innovation Support Program between the years 2014 and 2018. The 'Energy Optimization System (EOS)', which is subject to this research, reduces the total energy use and CO2 emissions of buildings through optimization of energy-consuming building systems, such as heating, cooling, lighting systems and home/office appliances with the support of an integrated system solution consisting of artificial intelligence-based software and wireless network embedded hardware. The system is deployed and validated in two appropriately selected test buildings in Germany. It has been recorded that the system provides energy efficiency levels between 29.34% and 38.18% under different seasonal and occupancy conditions in office and residential building types. The developed system can be deployed to all types of historical and new buildings to optimize energy consumption and reduce carbon emissions. © 2021 The Author(s) 2021. Published by Oxford University Press.
+KW  - Data warehouse technologies
+KW  - Decision support systems
+KW  - Energy efficiency
+KW  - Information management
+KW  - Smart buildings
+KW  - System development
+KW  - Artificial intelligence
+KW  - Cooling systems
+KW  - Cost effectiveness
+KW  - Data warehouses
+KW  - Decision support systems
+KW  - Embedded systems
+KW  - Energy management
+KW  - Energy management systems
+KW  - Energy utilization
+KW  - Graphical user interfaces
+KW  - Information management
+KW  - Intelligent buildings
+KW  - Sintering
+KW  - Building energy
+KW  - Building types
+KW  - Cost effective
+KW  - Data warehouse technology
+KW  - Energy optimization
+KW  - Energy-consumption
+KW  - Intelligent energies
+KW  - Optimization system
+KW  - System development
+KW  - Total energy
+KW  - Energy efficiency
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 4
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Alsalemi, A.
+AU  - Amira, A.
+AU  - Malekmohamadi, H.
+AU  - Diao, K.
+TI  - High-performance edge computing: An energy data lakes case study
+PY  - 2024
+T2  - Integrating Machine Learning Into HPC-Based Simulations and Analytics
+SP  - 127
+EP  - 143
+DO  - 10.4018/978-1-6684-3795-7.ch006
+UR  - https://www.scopus.com/pages/publications/105009394560?origin=resultslist
+AB  - With varying applications of Artificial Intelligence (AI) on an expanding global scale, performance metrics and standards of platforms have steadily elevated. High-Performance Edge Computing (HPEC) plays an instrumental role in lifting a substantial load on cloud computing for Deep Learning (DL). Notwithstanding, the collection, pre-and-post processing of big data engenders many challenges and opportunities for optimizing HPEC performance for data classification and, in turn, yields better outcomes. This is where the concept of data lakes is employed, which are raw-formatted large masses of data that are plausibly more compatible with many algorithms than structured data stores. Therefore, in this work, we carry out a comparative study that examines the merits, performance and efficiency metrics, and limitations of two notable HPEC platforms centered around a DL data lake framework. With classification accuracy of ~90%, results show that adequate performance and impressive computational efficiency, as fast as 8.19 msec per classified GAF image is achieved on the Jetson Nano. © 2025, IGI Global Scientific Publishing.
+KW  - Big data
+KW  - Classification (of information)
+KW  - Computational efficiency
+KW  - Data accuracy
+KW  - Data handling
+KW  - Deep learning
+KW  - Green computing
+KW  - Image classification
+KW  - Case-studies
+KW  - Cloud-computing
+KW  - Computing performance
+KW  - Edge computing
+KW  - Energy data
+KW  - Global scale
+KW  - Performance
+KW  - Performance metrices
+KW  - Performance standards
+KW  - Post-processing
+KW  - Lakes
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Shin, J.
+AU  - Zhao, L.
+AU  - Song, C.
+AU  - Xu, D.
+AU  - Qu, M.
+AU  - Grama, A.
+AU  - Xu, D.
+TI  - Integrating ML/AI workflows in a Streaming Data Management and Processing Platform for Building Energy Research
+PY  - 2024
+T2  - PEARC 2024 - Practice and Experience in Advanced Research Computing 2024: Human Powered Computing
+C7  - 54
+DO  - 10.1145/3626203.3670599
+UR  - https://www.scopus.com/pages/publications/85200422549?origin=resultslist
+AB  - Aimed at reducing energy consumption and improving efficiency and sustainability, the state-of-the-art research on building energy prediction and optimization is increasingly driven by advanced ML/AI technologies using large volumes of Internet of Things (IoT) data continuously streamed from smart building facilities. Despite significant progress in recent years, researchers still encounter major challenges on data storage, access, processing, and integration due to large volumes, heterogeneous formats, continuous generation, and non-standardized metadata of IoT sensor data, as well as significant computational demands of ML/AI models. In this paper we describe the design and implementation of a scalable open-source AnalytiXIN (AXIN) data lake platform for streaming data management, modeling, and analysis. We will also describe how AXIN data lake has been used to enable data driven energy prediction and optimization research using ML/AI approach. Built on open-source software stacks including StreamCI[1], JupyterHub, and HUBzero, and integrated with both composable and GPU high performance computing (HPC) resources, the AXIN data lake infrastructure provides a flexible and scalable solution for streaming data driven research beyond the energy domain. © 2024 Owner/Author.
+KW  - Building energy modeling
+KW  - Cyberinfrastructure
+KW  - ML/AI
+KW  - StreamCI
+KW  - Streaming data
+KW  - Data integration
+KW  - Digital storage
+KW  - Energy efficiency
+KW  - Energy utilization
+KW  - Internet of things
+KW  - Lakes
+KW  - Open source software
+KW  - Open systems
+KW  - Building energy
+KW  - Building energy model
+KW  - Cyberinfrastructure
+KW  - Data driven
+KW  - Energy optimization
+KW  - Energy prediction
+KW  - Large volumes
+KW  - ML/AI
+KW  - Streamci
+KW  - Streaming data
+KW  - Information management
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Ulbig, M.
+AU  - Merschak, S.
+AU  - Hehenberger, P.
+AU  - Bachler, J.
+TI  - Requirements on and Selection of Data Storage Technologies for Life Cycle Assessment
+PY  - 2023
+T2  - IFIP Advances in Information and Communication Technology
+VL  - 667 IFIP
+SP  - 86
+EP  - 95
+DO  - 10.1007/978-3-031-25182-5_9
+UR  - https://www.scopus.com/pages/publications/85151052605?origin=resultslist
+AB  - The importance of a centralized data storage system for life cycle assessment (LCA) will be addressed in this paper. Further, the decision-making process for a suitable data storage system is discussed. LCA requires a lot of relevant data such as resource/material data, production process data and logistics data, originating from many different sources, which must be integrated. Therefore, data collection for LCA is quite difficult. In practice, relevant data for LCA is often not available or is uncertain and has therefore to be estimated or generalized. This implies less accuracy of the calculated carbon footprint. State of the Art research shows that the LCA data collection process can benefit from data engineering approaches. Key of these approaches is a suitable and efficient data storage system like a data warehouse or a data lake. Depending on the LCA use case, a data storage system can also benefit from the combination with other technologies such as big data and cloud computing. As a result, in this paper a criteria catalog is developed and presented. It can be used to evaluate and decide which data storage systems and additional technologies are recommended to store and process data for more efficient and more precise carbon footprint calculation in life cycle assessment. © 2023, IFIP International Federation for Information Processing.
+KW  - Carbon footprint
+KW  - Data engineering
+KW  - Data storage technology
+KW  - Life cycle assessment
+KW  - Data acquisition
+KW  - Data warehouses
+KW  - Decision making
+KW  - Digital storage
+KW  - Emission control
+KW  - Life cycle
+KW  - Centralised
+KW  - Data engineering
+KW  - Data production
+KW  - Data storage systems
+KW  - Data storage technology
+KW  - Decision-making process
+KW  - Life cycle assessment
+KW  - Material data
+KW  - Process data
+KW  - Resource materials
+KW  - Carbon footprint
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Misargopoulos, A.
+AU  - Papavassiliou, G.
+AU  - Gizelis, C.A.
+AU  - Nikolopoulos-Gkamatsis, F.
+TI  - TYPHON: Hybrid Data Lakes for Real-Time Big Data Analytics – An Evaluation Framework in the Telecom Industry
+PY  - 2021
+T2  - IFIP Advances in Information and Communication Technology
+VL  - 628
+SP  - 128
+EP  - 137
+DO  - 10.1007/978-3-030-79157-5_12
+UR  - https://www.scopus.com/pages/publications/85112618499?origin=resultslist
+AB  - In this paper we aim to present outcomes from the evaluation and deployment of the TYPHON H2020 project (The TYPHON project receives funding under the European Unions Horizon 2020 Research and Innovation Programme under grant agreement No. 780251) in a container-based production ecosystem supported by Hellenic Telecommunications Organization S.A. (OTE). The main objective is to implement a successful production-ready deployment following best practices in terms of infrastructure, monitoring and high availability while achieving analysis in real-time of massive streams of data. Moreover, our intent is to evaluate the TYPHON architecture when integrated by a Telecom Industry user and present the benefits of its adaptation by IT Units for predictive maintenance purposes. © 2021, IFIP International Federation for Information Processing.
+KW  - Adaptation to telecom industry
+KW  - Big data analytics
+KW  - Evaluation framework and measures
+KW  - Hybrid persistence architectures
+KW  - Advanced Analytics
+KW  - Big data
+KW  - Biomedical engineering
+KW  - Data Analytics
+KW  - Data streams
+KW  - Energy efficiency
+KW  - Best practices
+KW  - European union
+KW  - Evaluation framework
+KW  - High availability
+KW  - Horizon 2020
+KW  - Hybrid datum
+KW  - Real time
+KW  - Telecom industry
+KW  - Artificial intelligence
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Xin, J.
+AU  - Wang, M.
+AU  - Wang, X.
+AU  - Long, K.
+AU  - Wang, Z.
+TI  - Towards Lakehouse Federation in Computing Power Networks
+PY  - 2025
+T2  - IEEE International Conference on Data Mining Workshops, ICDMW
+SP  - 2557
+EP  - 2560
+DO  - 10.1109/ICDMW69685.2025.00322
+UR  - https://www.scopus.com/pages/publications/105035394269?origin=resultslist
+AB  - The emergence of the computing power networks (CPNs) has brought massive heterogeneous data together while promoting the efficiency of computing power via the cloud-edgeterminal structure. These data are scattered in the independent data centers deploying different database/lakehouse environment within the CPN, reminding people of a federated approach to achieve data sharing and federated governance. However, none implementation of federated data management system among data lakehouses has been witnessed so far for CPNs, which restricts the effective utilization of these data. To this end, FedLakehouse is proposed, which achieves federated data management among heterogeneous lakehouses and relational databases. Providing a unified data access view, FedLakehouse can realize many common commands among heterogeneous lakehouses and databases. The proposed framework shows the ability of federated data management among heterogeneous (distributed) database systems and puts forward a strong support for many training applications in the computing power networks. © 2025 IEEE.
+KW  - Computing Power Network
+KW  - Data Federation
+KW  - Federated Lakehouse
+KW  - HDFS
+KW  - Heterogeneous Database
+KW  - Computing power
+KW  - Data Sharing
+KW  - Distributed database systems
+KW  - Green computing
+KW  - Information management
+KW  - Management information systems
+KW  - Relational database systems
+KW  - Computing power
+KW  - Computing power network
+KW  - Data federation
+KW  - Data Sharing
+KW  - Datacenter
+KW  - Federated lakehouse
+KW  - HDFS
+KW  - Heterogeneous data
+KW  - Heterogeneous database
+KW  - Power networks
+KW  - Lakes
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Singh, Y.S.
+AU  - Kirani, Y.
+AU  - Singh, Y.J.
+TI  - An Analytical System: Data Modelling Practices for Handling an Epidemic
+PY  - 2021
+T2  - Lecture Notes on Data Engineering and Communications Technologies
+VL  - 70
+SP  - 447
+EP  - 457
+DO  - 10.1007/978-981-16-2934-1_29
+UR  - https://www.scopus.com/pages/publications/85112428061?origin=resultslist
+AB  - For better business analytical processing, data warehouses are a helpful system. Most of the government departments, academic institutions and other businesses such as warehouse are necessary to promote their business. This study proposes some data modelling practices for handling a possible future epidemic. It shows the technical steps to develop the system like the processes of extraction, transformation and loading of data and generating an error event table. Several data are collected from concerned sources. It uses the cube format for modelling the data and viewing the data up to the granular level. It uses energy-efficient FP-growth algorithm to predict a new pattern for a possible ‘unknown epidemic. The energy-efficient FP algorithm uses a compressed representation of the database. It uses a ‘bag of jobs’ algorithm for quick execution of groups of operations. The study uses probabilistic clustering for forming the data marts on the demand of the users. It generates several reports to support the authority to handle such an epidemic in a better way. It may enable the users or policymakers to generate several reports to examine the real-time situation and manage policies towards a better future. © 2021, The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd.
+KW  - Business analytical
+KW  - Data warehouse
+KW  - Epidemic detection
+KW  - Data handling
+KW  - Energy efficiency
+KW  - Epidemiology
+KW  - Information analysis
+KW  - Metadata
+KW  - Academic institutions
+KW  - Analytical systems
+KW  - Business analytical
+KW  - Energy efficient
+KW  - Epidemics detections
+KW  - Error events
+KW  - Extraction transformation and loadings
+KW  - Government departments
+KW  - Granular levels
+KW  - Possible futures
+KW  - Data warehouses
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Clarindo, J.P.
+AU  - Silva, R.L.L.
+AU  - Alves, J.M.S.
+AU  - Castro, J.P.C.
+AU  - Coutinho, F.J.
+AU  - Aguiar, C.D.
+TI  - Empowering Large-Scale Spatial Analytics in Smart Cities with a Fog-Cloud Lakehouse Architecture
+PY  - 2026
+T2  - International Conference on Enterprise Information Systems, ICEIS - Proceedings
+VL  - 1
+SP  - 121
+EP  - 132
+DO  - 10.5220/0014971500004018
+UR  - https://www.scopus.com/pages/publications/105044862394?origin=resultslist
+AB  - The exponential growth of IoT-generated spatial data in smart cities challenges existing data management architectures. Traditional data warehouses and data lakes either lack flexibility or fail to provide the performance required for complex spatial analytics. In this paper, we present FlowCaLiSe, a fog-cloud spatial lakehouse architecture designed to support scalable spatial analytics in smart cities. The architecture enables the efficient handling of large-scale spatial datasets, providing scalability, low-latency responses, and advanced analytical capabilities. We also define a structured deployment process to guide the architecture's implementation. FlowCaLiSe was evaluated through a case study using real-world smart city data and evaluated in a fog-cloud simulation environment, where we analyzed architectural trade-offs in terms of energy consumption and network usage. The results demonstrated the feasibility of FlowCaLiSe for large-scale urban spatial analytics. Copyright © 2026 by SCITEPRESS - Science and Technology Publications, Lda.
+KW  - Data Architecture
+KW  - Fog and Cloud Computing
+KW  - Interoperability
+KW  - Lakehouse
+KW  - Smart Cities
+KW  - Spatial Analytics
+KW  - Advanced Analytics
+KW  - Architecture
+KW  - Cloud computing architecture
+KW  - Computer architecture
+KW  - Fog
+KW  - Fog computing
+KW  - Green computing
+KW  - Information management
+KW  - Information systems
+KW  - Information use
+KW  - Lakes
+KW  - Large datasets
+KW  - Network architecture
+KW  - Cloud-computing
+KW  - Data architectures
+KW  - Data management architecture
+KW  - Exponential growth
+KW  - Lakehouse
+KW  - Large-scales
+KW  - Performance
+KW  - Spatial analytic
+KW  - Spatial data
+KW  - Spatial datasets
+KW  - Economic and social effects
+KW  - Smart city
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Naga Pawan, Y.V.R.
+AU  - Ankalkoti, P.
+AU  - Kaushik, V.
+AU  - Kakollu, R.
+AU  - Al Said, N.
+AU  - Babu, S.B.G.T.
+TI  - Cloud Computing-Integrated Load Balancing System for Scalable Web Services
+PY  - 2025
+T2  - Proceedings of 2025 10th International Conference on Science Technology, Engineering and Mathematics, ICONSTEM 2025
+DO  - 10.1109/ICONSTEM65670.2025.11374805
+UR  - https://www.scopus.com/pages/publications/105034491252?origin=resultslist
+AB  - The paper introduces a Cloud Computing Integrated Load Balancing System of Scalable Web Services that helps to address the issues of dynamic workload management, latency and scalability of distributed environment. The suggested framework incorporates the Adaptive Kalman Filter tool to be used as a preprocessor to remove noise and create smooth workload data streams, whereas mRMR (Minimum Redundancy Maximum Relevance) is used as an efficient tool to select the features and improve the model accuracy and lower the computational complexity. A Graph Attention Network is used as the fundamental classifier to model smartly the node interactions and dynamically allocate loads among cloud resources. This system is deployed and tracked on the Databricks Lakehouse platform with MLflow, which allows performing the deployment and tracking the performance in a scaled way. The experimental findings show that the throughput can be significantly improved, and the latency can be reduced and the energy consumption can be decreased with better results than in the traditional methods. The suggested framework provides a basis of intelligent, flexible, and power-efficient load balancing in contemporary cloud-based web service frameworks. © 2025 IEEE.
+KW  - Adaptive Kalman Filter
+KW  - Cloud Computing
+KW  - Databricks Lakehouse
+KW  - Graph Attention Network
+KW  - Load Balancing
+KW  - MLflow
+KW  - mRMR
+KW  - Scalable Web Services
+KW  - Energy utilization
+KW  - Green computing
+KW  - Information use
+KW  - Kalman filters
+KW  - Resource allocation
+KW  - Web services
+KW  - Websites
+KW  - Adaptive kalman filter
+KW  - Cloud-computing
+KW  - Databrick lakehouse
+KW  - Graph attention network
+KW  - Load balancing systems
+KW  - Load-Balancing
+KW  - Minimum redundancy-maximum relevances
+KW  - Mlflow
+KW  - Scalable Web Services
+KW  - Workload management
+KW  - Cloud computing
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Alsalemi, A.
+AU  - Amira, A.
+AU  - Malekmohamadi, H.
+AU  - Diao, K.
+TI  - Energy data lakes: An edge Internet of Energy approach
+PY  - 2022
+T2  - Emerging Real-World Applications of Internet of Things
+SP  - 21
+EP  - 40
+DO  - 10.1201/9781003304203-2
+UR  - https://www.scopus.com/pages/publications/85143472013?origin=resultslist
+AB  - The Internet of Energy (IoE) paradigm is an advancing area of research in the field of energy efficiency encompassing data collection, processing, visualization, and decision making. Smart energy monitoring has witnessed technological advancements such as smart metering and IoE networking, allowing the expansion of smart energy networks in smart households. In this book chapter, we aim to understand energy behavior through big data collection and classification and improve energy efficiency using data 22lakes. A specialized case study is reported on the ODROID-XU4 multicore platform to realize a setup developed at De Montfort University (DMU), UK, at the Energy Lab and Artificial Intelligence (AI) Lab. It is aimed to build a novel appliance-level energy data lake with contextual ambient environmental data. Also, a novel labeling system is introduced for classifying domestic energy consumption coupled with data visualization examples. In conclusion, the proposed work aids in exploiting energy efficiency technologies for improving energy efficiency via an innovative, automated energy efficiency framework. © 2023 Anshul Verma, Pradeepika Verma, Yousef Farhaoui and Zhihan Lv.
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Shaat, M.
+AU  - Mukala, P.
+TI  - Leveraging Big Data and AI for Improved Energy Efficiency in MENA Utilities: A Framework for Consumption Management and Operational Insights
+PY  - 2026
+T2  - Lecture Notes in Networks and Systems
+VL  - 1539 LNNS
+SP  - 143
+EP  - 156
+DO  - 10.1007/978-981-96-9248-4_11
+UR  - https://www.scopus.com/pages/publications/105020186018?origin=resultslist
+AB  - This paper presents a comprehensive big data framework designed to enhance energy efficiency and operational insights for utilities in the MENA region. The framework leverages a scalable data lake architecture to manage large volumes of diverse data, integrating real-time and batch processing capabilities to capture information from smart meters, IoT devices, weather systems, and economic indicators. Key components include robust data ingestion and storage layers, advanced data processing and analytics modules, and a security and governance framework to ensure data integrity and compliance. A phased implementation approach is proposed, beginning with a pilot deployment to validate core functionalities, followed by a scalable expansion across additional data sources and full deployment across the organization. By enabling predictive analytics and real-time insights, this framework supports optimized resource allocation, cost savings, and sustainability goals through data-driven energy management strategies. The proposed solution equips utilities with the tools needed to address current challenges and adapt to the evolving demands of the energy sector, promoting a resilient, efficient, and sustainable energy management system. © The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd. 2026.
+KW  - AI in energy
+KW  - Big data framework
+KW  - Consumption management
+KW  - Data architecture
+KW  - Data-driven energy management
+KW  - Demand forecasting
+KW  - Energy efficiency
+KW  - Energy optimization
+KW  - IoT integration
+KW  - Machine learning in utilities
+KW  - MENA
+KW  - Predictive analytics
+KW  - Real-time data processing
+KW  - Smart meters
+KW  - Sustainable energy solutions
+KW  - Utilities
+KW  - Big data
+KW  - Data integration
+KW  - Data structures
+KW  - Digital storage
+KW  - Energy management systems
+KW  - Energy policy
+KW  - Environmental management
+KW  - Green computing
+KW  - Information management
+KW  - Predictive analytics
+KW  - AI in energy
+KW  - Big data framework
+KW  - Consumption management
+KW  - Data architectures
+KW  - Data driven
+KW  - Data framework
+KW  - Data-driven energy management
+KW  - Demand forecasting
+KW  - Energy
+KW  - Energy optimization
+KW  - IoT integration
+KW  - Machine learning in utility
+KW  - Machine-learning
+KW  - MENA
+KW  - Real-time data processing
+KW  - Sustainable energy solutions
+KW  - Utility
+KW  - Energy efficiency
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Alwi, A.
+AU  - Sasongko, N.A.
+AU  - Suryana, Y.
+AU  - Subagyo, H.
+TI  - Blockchain and big data integration design for traceability and carbon footprint management in the fishery supply chain
+PY  - 2024
+T2  - Egyptian Informatics Journal
+VL  - 26
+C7  - 100481
+DO  - 10.1016/j.eij.2024.100481
+UR  - https://www.scopus.com/pages/publications/85193620623?origin=resultslist
+AB  - The utilization of blockchain technology in the fishing industry has been extensively studied and implemented to address issues such as illegal fishing and carbon emissions control. However, integrating blockchain with the vast amounts of data in the fishing supply chain poses significant challenges. Challenges include managing extensive data such as photos or videos for product traceability throughout their lifecycle, compounded by the growing complexity of cross-border trade and market expansion. Additionally, blockchain's storage capacity limitations present hurdles in fully accommodating and comprehensively storing detailed supply data from a complex and expanding supply chain. While solutions like the Interplanetary File System (IPFS) have been explored for large data storage on the blockchain, this paper proposes a directly integrated blockchain solution tailored for the challenges of fishing with big data. We introduce a novel big data design that preserves blockchain's anonymity and immutability features, addressing storage limitations while maintaining the architecture's purpose. Furthermore, our proposal integrates product supply chain traceability with carbon footprint tracking, enabling comprehensive assessment based on quality, sustainability, and carbon footprint criteria. Despite the proposed solution needing to be tested in real-life situations, we conducted rigorous testing through simulation, white-box evaluation, and complexity analysis. The results demonstrate the potential of our solution to address challenges faced in fisheries supply chains, providing valuable insights for future practical implementation and validation efforts. © 2024
+KW  - Anonymity
+KW  - Big data
+KW  - Blockchain
+KW  - Carbon footprint
+KW  - Data warehouse
+KW  - ETL design
+KW  - Fisheries
+KW  - Immutability
+KW  - Supply chain
+KW  - Sustainability
+KW  - Traceability
+KW  - Big data
+KW  - Blockchain
+KW  - Commerce
+KW  - Data integration
+KW  - Data warehouses
+KW  - Digital storage
+KW  - Fisheries
+KW  - Information management
+KW  - Life cycle
+KW  - Supply chains
+KW  - Sustainable development
+KW  - Anonymity
+KW  - Block-chain
+KW  - Carbon emissions
+KW  - Emissions control
+KW  - ETL design
+KW  - Fishing industry
+KW  - Immutability
+KW  - Integration design
+KW  - Product traceability
+KW  - Traceability
+KW  - Carbon footprint
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 30
+ER  -
+
+TY  - CONF
+AU  - Kamalakannan, K.
+AU  - Kadirvelu, G.
+AU  - Ahmed, J.S.
+AU  - Yogeeswar, R.
+AU  - Muralikrishnan, M.
+AU  - Shobitha, R.R.
+TI  - INTELLIGENCE FRAMEWORK BASED ON DATA-CENTRIC: IOT SOLUTIONS AND MACHINE LEARNING TO SUSTAIN SUSTAINABLE SMART SYSTEMS
+PY  - 2026
+T2  - International Conference on Computational Robotics, Testing and Engineering Evaluation, ICCRTEE 2026
+DO  - 10.1109/ICCRTEE68719.2026.11566316
+UR  - https://www.scopus.com/pages/publications/105043747938?origin=resultslist
+AB  - The synergization of the Internet of things (IoT) and Machine Learning (ML) has vast potential, but sustainable smart systems, but most of the time, it is constrained through a disjointed methodology that sees the collection of data and the intelligence of the model as independent two factors. The paper presents the Data-Centric Intelligence (DCI) framework, which is the comprehensive paradigm to remove this divide by maximizing the entire sizable data to actionable sustainability results pipeline. The DCI framework achieves a multimodal IoT data fabric to create robust ingestion, apply automated data-centric principles such as validation and lightweight feature engineering at the edge to guarantee data quality, and predictive analytics with adaptive ML models such as LSTM networks. It provides a closed-loop decision support system, which translates the insights of the models into real-time control of the resources, and it is the essence of its core equipment to develop a feedback system of constant system improvement. We test the framework with precision agriculture pilot, in which it captured a 25 percent saving on water consumption and a 15 percent saving on fertilizer application, and a smart building many, which resulted in an improvement of 20 percent in energy efficiency. This work proposes an easily scalable model of increasing the productivity and environmental sustainability of future smart systems by smoothly integrating data, intelligence, and action. ©2026 IEEE.
+KW  - Data-Centric AI
+KW  - Edge Intelligence
+KW  - Internet of Things (IoT)
+KW  - Predictive Analytics
+KW  - Resource Optimization
+KW  - Sustainable Smart Systems
+KW  - Agricultural machinery
+KW  - Agriculture
+KW  - Automation
+KW  - Energy efficiency
+KW  - Internet of things
+KW  - Learning systems
+KW  - Machine learning
+KW  - Smart agriculture
+KW  - Data centric
+KW  - Data-centric AI
+KW  - Edge intelligence
+KW  - Internet of thing
+KW  - Machine-learning
+KW  - Multi-modal
+KW  - Resources optimization
+KW  - Smart System
+KW  - Sustainable smart system
+KW  - Synergization
+KW  - Predictive analytics
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Luntovskyy, A.
+AU  - Guetter, D.
+TI  - Protocols, Platforms and Case Studies for IoT and Industrial IoT
+PY  - 2023
+T2  - 5th IEEE International Conference on Advanced Information and Communication Technologies, AICT 2023 - Proceedings
+SP  - 1
+EP  - 7
+DO  - 10.1109/AICT61584.2023.10452702
+UR  - https://www.scopus.com/pages/publications/85189530438?origin=resultslist
+AB  - System integration for IoT and Smart Home, IoT, and Industrial IoT (IIoT) accompany humanity comprehensively as support in the age of progressive digitization of work processes and human work processes, especially in modern industries and in the private sector (so-called Smart Home). In this work, certain resulting problems are examined in more detail. The focus is on a brief overview of the required protocols and platforms and discussing practical aspects such as economic viability, energy efficiency, easier configuration and management, and advanced cybersecurity. These include practical problems of network and IoT component compatibility and cloud dependencies in fog-cloud cooperation. The authors favor open-source and cloud-free solutions and present various case studies with smart applications. In the medium term, 5G mMTC-based scenarios will become increasingly important.  © 2023 IEEE.
+KW  - 5G mMTC
+KW  - Cloud and Fog Cooperation
+KW  - Cybersecurity
+KW  - Data Lakes and Dats Meshes
+KW  - IoT and Industrial IoT
+KW  - Smart Home
+KW  - 5G mobile communication systems
+KW  - Automation
+KW  - Internet of things
+KW  - 5g mMTC
+KW  - Case-studies
+KW  - Cloud and fog cooperation
+KW  - Cyber security
+KW  - Data lake and dat mesh
+KW  - IIoT and industrial IIoT
+KW  - Protocol studies
+KW  - Smart homes
+KW  - System integration
+KW  - Work process
+KW  - Energy efficiency
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Dimokas, N.
+AU  - Margaritis, D.
+AU  - Gaetani, M.
+AU  - Favenza, A.
+TI  - A Cloud-Based Big Data Architecture for an Intelligent Green Truck
+PY  - 2021
+T2  - Advances in Intelligent Systems and Computing
+VL  - 1278
+SP  - 1076
+EP  - 1085
+DO  - 10.1007/978-3-030-61075-3_103
+UR  - https://www.scopus.com/pages/publications/85096411281?origin=resultslist
+AB  - The rapid growth of cloud computing in combination with the advances in the communication boosted the green and smart mobility. Smart mobility aims to reduce congestion and foster greener, cheaper and with less delay transportation. Many of the current options to reduce fuel consumption and CO2 emissions have worked on light-duty vehicles but are not feasible for heavy duty vehicles. Reduction of emissions and consumables (e.g. urea) without sacrificing on emission standards is an important challenge for heavy-duty vehicles. The paper introduces a cloud-based system architecture exploiting the potentials of big data analytics to deliver an on-demand route optimization service reducing NOx emissions of heavy-duty vehicles. The system utilizes the information provided by the navigation systems, big data analytics such as predictive traffic and weather conditions, road topography and road network and information about vehicle payload, vehicle configuration and transport mission to develop a strategy for the best route and the best velocity profile. The performance evaluation attested the efficiency and effectiveness of the system, since the cumulative engine-out NOx has been decreased more than 13%. © 2021, The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG.
+KW  - Cloud computing
+KW  - Data warehouse
+KW  - Green vehicle
+KW  - Intelligent transport system
+KW  - System architecture
+KW  - Advanced Analytics
+KW  - Big data
+KW  - Computer architecture
+KW  - Data Analytics
+KW  - Light weight vehicles
+KW  - Navigation systems
+KW  - Network architecture
+KW  - Nitrogen oxides
+KW  - Roads and streets
+KW  - Topography
+KW  - Urea
+KW  - Data architectures
+KW  - Emission standard
+KW  - Heavy duty vehicles
+KW  - Light duty vehicles
+KW  - Reduction of emissions
+KW  - Route optimization
+KW  - System architectures
+KW  - Vehicle configuration
+KW  - Green computing
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Li, J.
+AU  - Guo, Y.
+AU  - Fu, Z.
+AU  - Zhang, X.
+AU  - Shen, F.
+TI  - An Intelligent Energy Management Information System with Machine Learning Algorithms in Oil and Gas Industry
+PY  - 2023
+T2  - Wireless Communications and Mobile Computing
+VL  - 2023
+C7  - 3385453
+DO  - 10.1155/2023/3385453
+UR  - https://www.scopus.com/pages/publications/85158118866?origin=resultslist
+AB  - Oil and gas will continue to play an increasingly important role in global economy development and prosperity for the upcoming years. However, a fact which sometimes is ignored is that the oil and gas industry is an intensive energy-consumption industry and a major contributor to greenhouse gas emissions as well. Recently, with the arrival of the "double carbon"era, the energy-intensive production of oil and gas has caused people to pay more attention. Currently, big data technologies as well as the Internet of things (IoT) are developing at a rapid pace, and the metering infrastructure technology also shows huge advancement; oil and gas companies have built many information systems and developed many functions to acquire the energy consumption and oil production data for the aim of reducing the oil production cost via the emerging information technologies, and it turned out that these investments do improve the energy efficiency and lower oil production cost. Unfortunately, due to the different development standards, some systems store the same data with different values; so, therefore, there is a "data barrier"among these systems and somehow discount the share and analysis of these data resources. To this end, in our work, based on these rich data resources from the other information systems, we discussed an intelligent energy management information system with four machine learning algorithms to enhance the analysis of data resources over energy consumption and oil production. First, we presented the innovation of energy consumption data fusion with the method "Data Lake"; then, four different machine learning algorithms: Support Vector Machine (SVM), Linear Regression (LR), Extreme Learning Machine (ELM), and Artificial Neural Networks (ANN) are installed in the proposed system for predicting the oil and gas production and total energy consumption. In order to aggregate these data into dashboard views that help managers make decisions about operations, we also demonstrated the process of energy consumption data visualization with emerging open-source software tool ECharts. Finally, a real life application of the proposed system was summarized in case of total energy consumption prediction and the system output shows good prediction accuracy which proves the feasibility and benefits of the intelligent energy management information system.  © 2023 Jun Li et al.
+KW  - Costs
+KW  - Data fusion
+KW  - Data visualization
+KW  - Energy efficiency
+KW  - Energy management
+KW  - Energy management systems
+KW  - Forecasting
+KW  - Gas emissions
+KW  - Gas industry
+KW  - Greenhouse gases
+KW  - Information management
+KW  - Information systems
+KW  - Information use
+KW  - Internet of things
+KW  - Investments
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Neural networks
+KW  - Open source software
+KW  - Open systems
+KW  - Support vector machines
+KW  - Data resources
+KW  - Energy consumption datum
+KW  - Energy-consumption
+KW  - Intelligent energy management
+KW  - Machine learning algorithms
+KW  - Oil and gas
+KW  - Oil and Gas Industry
+KW  - Oil-production
+KW  - Production cost
+KW  - Total energy
+KW  - Energy utilization
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 13
+ER  -
+
+TY  - CONF
+AU  - Ghabri, I.
+AU  - Bellatreche, L.
+AU  - Yahia, S.B.
+TI  - Selection of a Green Logical Data Warehouse Schema by Anti-monotonicity Constraint
+PY  - 2020
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 12011 LNCS
+SP  - 350
+EP  - 361
+DO  - 10.1007/978-3-030-38919-2_29
+UR  - https://www.scopus.com/pages/publications/85079095032?origin=resultslist
+AB  - In the era of social media and big data, many organizations and countries are devoting considerable effort and money to reduce energy consumption. Despite that, current research mainly focuses on improving performance without taking into account energy consumption. Recently, great importance has been attached to finding a good compromise between energy efficiency and performance in data warehouse (DW) applications. For a given DW, multiple logical schemes may exist due to the presence of dependencies and hierarchies among the attributes. In this respect, it has been shown that varying the logical schema has an impact on energy saving. In this paper, we introduce a new approach for efficient exploration of the different logical schemes of a DW. To do so, we prune the search space by relying on anti-monotonicity based constraint to swiftly find the most energy-efficient logical schema. The carried out experiments show the sharp impact of the logical design on energy saving. © 2020, Springer Nature Switzerland AG.
+KW  - Anti-monotonicity
+KW  - Data warehouse
+KW  - Energy consumption
+KW  - Green computing
+KW  - Logical schema
+KW  - Variability
+KW  - Computation theory
+KW  - Data warehouses
+KW  - Energy efficiency
+KW  - Energy utilization
+KW  - Anti-monotonicity
+KW  - Efficiency and performance
+KW  - Energy efficient
+KW  - Improving performance
+KW  - Logical schema
+KW  - New approaches
+KW  - Reduce energy consumption
+KW  - Variability
+KW  - Green computing
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Alsalemi, A.
+AU  - Amira, A.
+AU  - Malekmohamadi, H.
+AU  - Diao, K.
+TI  - Energy data classification at the edge: a comparative study for energy efficiency applications
+PY  - 2024
+T2  - Cluster Computing
+VL  - 27
+IS  - 3
+SP  - 3259
+EP  - 3275
+DO  - 10.1007/s10586-023-04142-3
+UR  - https://www.scopus.com/pages/publications/85172131939?origin=resultslist
+AB  - As the global economy is increasingly influenced by energy policy and efficiency, the opportunities of energy data classification are broadening. Performance metrics, especially for Deep Learning (DL), have motivated the accelerated development of computing hardware. In particular, High-Performance Edge Computing (HPEC) has an important role in complementing cloud computing in the collection, pre-processing, and post-processing of big data in a more privacy-preserving manner. Yet, such opportunities bring challenges concerning the selection of hardware platforms and classification algorithms. Therefore, in this article, we aim to carry out a comparative study that examines the merits, performance and efficiency metrics, and limitations of notable HPEC platforms centered around a DL classification framework. In this implementation, a 2D Gramian Angular Field (GAF) energy data classifier is presented and run on a publicly available dataset. Following, a DL classifier is trained and exported as a lightweight counterpart for validation on several commonly used HPEC platforms, namely the Jetson Nano, ODROID-XU4, Coral Dev Board, and the BeagleBone AI. Current results show competitive computational performance among the reviewed platforms, as fast as ~ 8 ms per classified image. © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2023.
+KW  - Artificial intelligence
+KW  - Data lake
+KW  - Deep learning
+KW  - Energy efficiency
+KW  - Gramian angular fields
+KW  - High performance edge computing
+KW  - Internet of energy
+KW  - Classification (of information)
+KW  - Deep learning
+KW  - Edge computing
+KW  - Energy efficiency
+KW  - Privacy-preserving techniques
+KW  - Angular field
+KW  - Data classification
+KW  - Data lake
+KW  - Deep learning
+KW  - Edge computing
+KW  - Energy data
+KW  - Gramian angular field
+KW  - Gramians
+KW  - High performance edge computing
+KW  - Performance
+KW  - Internet of Energy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 2
+ER  -
+
+TY  - label.ris.referenceType.CONFERENCE_REVIEW.p
+TI  - 2023 International Conference on IT Innovation and Knowledge Discovery, ITIKD 2023
+PY  - 2023
+T2  - 2023 International Conference on IT Innovation and Knowledge Discovery, ITIKD 2023
+UR  - https://www.scopus.com/pages/publications/85158164081?origin=resultslist
+AB  - The proceedings contain 59 papers. The topics discussed include: a knowledge management framework for presales operations in high-technology companies; the era of Internet of things: towards better security using machine learning; artificial intelligence into multimedia deepfakes creation and detection; the role of knowledge sharing in reinforcing civic engagement practices in the context of artificial intelligence: the case of the Kingdom of Bahrain; investigating the value of using emotionally intelligent artificial conversational agents to carry out assessments in higher education: review; energy-efficiency in cloud datacenters: a survey; using single time of quantum computer for Shor’s factoring algorithm; fraud classification in financial statements using machine learning techniques; image process based recommender system for social media marketing; deep learning based an optimized predictive academic performance approach; a framework for labor market analysis using machine learning; cost saving model for lighting in smart cities; the technical challenges in orthotic exoskeleton robots with future directions: a review paper; hybrid resource scheduling algorithms in heterogeneous distributed computing: a comparative study and further enhancements; voice command based remote surgery simulator; and the impact of the data warehouse on decision making quality and speed in higher education.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Priyanka, E.B.
+AU  - Thangavel, S.
+AU  - Sivamathivanan, P.
+AU  - Dharshana, S.
+AU  - Jothika, P.
+AU  - Kavyadharashini, D.P.
+AU  - Vasanth Kumar, K.P.
+TI  - IoT Integrated Dual-Side Water Pumping System For Sustainable Agriculture
+PY  - 2025
+T2  - 2025 6th International Conference on Data Analytics for Business and Industry, ICDABI 2025
+SP  - 161
+EP  - 166
+DO  - 10.1109/ICDABI67967.2025.11547410
+UR  - https://www.scopus.com/pages/publications/105042356269?origin=resultslist
+AB  - The Dual-side water pumping water system is designed to achieve continuous and uninterrupted water flow for agricultural and industrial purposes. The system is powered by the scotch yoke mechanism to provide the pumping action. The system performance was very crucial to measure with the precise controller model. Implementing the IoT to monitor and control water flow rate, pressure level, vibration level, and pump status. The IoT-enabled PLC controller processes the data and push to the cloud data warehouse to ensure variation in the pressure level and flow. The system communication protocols like MQTT and HTTP to continuous data transfer to predict the variation for maintenance activities. In this system, water pumps will be operated bidirectionally to suck the high-velocity fluid with high pressure to achieve the continuous water flow. The microcontroller performs the decision-making algorithm to control the pump's actuation and flow rate. The system proposed automatic system increases the system efficiency by 25% as compared to the initial phase to support the water delivery to ensure energy-efficient and seamless water flow.  © 2025 IEEE.
+KW  - Automated Pumping System
+KW  - Integrated IoT Architecture
+KW  - Multinodal Analysis
+KW  - Agriculture
+KW  - Automation
+KW  - Decision making
+KW  - Energy efficiency
+KW  - Flow of water
+KW  - Pumping plants
+KW  - Pumps
+KW  - Automated pumping system
+KW  - Integrated IoT architecture
+KW  - Multinodal analyze
+KW  - Pressure level
+KW  - Pumping systems
+KW  - Sustainable agriculture
+KW  - Water flows
+KW  - Water pumping
+KW  - Water pumping systems
+KW  - Water system
+KW  - Hydraulics
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Daid, R.
+AU  - Kumar, Y.
+AU  - Hu, Y.-C.
+AU  - Chen, W.-L.
+TI  - An effective scheduling in data centres for efficient CPU usage and service level agreement fulfilment using machine learning
+PY  - 2021
+T2  - Connection Science
+VL  - 33
+IS  - 4
+SP  - 954
+EP  - 974
+DO  - 10.1080/09540091.2021.1926929
+UR  - https://www.scopus.com/pages/publications/85106059476?origin=resultslist
+AB  - Energy efficiency is one of the important parameters in cloud computing which is managed by the data centres. Data centres are computer warehouses that are responsible for storing large volumes of data to deal with the daily transaction handling needs of different productions. Effective scheduling for the execution of the request on machines is still a problem. In addition, the power consumption, as well as management of the node clusters is also a problematic situation when the CPU utilisation increases up to the limit. In this paper, efficient minimum execution and completion time scheduling are accomplished by using a machine learning approach for effectual CPU usage and service level agreement fulfilment in data centres, considered in terms of average accuracy which will reduce costs for the maintenance of the data centres in real-time scenarios. The simulation of the proposed work is achieved and the performance is evaluated in terms of power consumption and CPU usage. The proposed research utilises the neural network and linear regression analysis to perform the classification and compares the performance for the efficient CPU usage. © 2021 Informa UK Limited, trading as Taylor & Francis Group.
+KW  - data centres
+KW  - energy consumption
+KW  - machine learning
+KW  - server management
+KW  - Task scheduling
+KW  - Data warehouses
+KW  - Electric power utilization
+KW  - Energy efficiency
+KW  - Machine learning
+KW  - Scheduling
+KW  - Turing machines
+KW  - Completion time
+KW  - Data centres
+KW  - Large volumes
+KW  - Machine learning approaches
+KW  - On-machines
+KW  - Real time
+KW  - Reduce costs
+KW  - Service Level Agreements
+KW  - Green computing
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 16
+ER  -
+
+TY  - CONF
+AU  - Alsalemf, A.
+AU  - Amira, A.
+AU  - Malekmohamadi, H.
+AU  - Diao, K.
+TI  - Analyzing Domestic Energy Behavior with a Multi-Dimensional Appliance-Level Dataset
+PY  - 2022
+T2  - IET Conference Proceedings
+VL  - 2022
+IS  - 14
+SP  - 61
+EP  - 68
+UR  - https://www.scopus.com/pages/publications/85163219240?origin=resultslist
+AB  - Data, in its purest nature, has an authority on the systems it accompanies by feeding an accurate representation of the observed reality. In energy efficiency, the underlying motivation for big data efforts revolves around the intrinsic need to understand end-user electric energy consumption and means to improve it. Hence, developing a rich, detailed, and realistic power consumption dataset entails a deliberate process of preparing the data collection environment, configuring proper Internet of Energy (IoE) sensors and managing the collected data. In this work, a novel power consumption dataset is presented in efforts to improve the state-of-the-art of energy efficiency research in buildings. The dataset is also accompanied by a two-dimensional (2D) counterpart produced using Gramian Angular Fields (GAF) that creates pictorial summaries from one-dimensional (ID) data. Data acquisition is carried out using the ODROID-XU4 edge computing hub, Home Assistant software, and a collection of smart plugs and sensors. A notable use case is presented to signify the merits of the data and its analysis tools to achieve computationally efficient classification. © IET Conference Proceedings 2022.
+KW  - Appliance-level dataset
+KW  - artificial intelligence
+KW  - data lake
+KW  - energy efficiency
+KW  - internet of energy
+KW  - Data acquisition
+KW  - Domestic appliances
+KW  - Electric power utilization
+KW  - Energy efficiency
+KW  - Green computing
+KW  - Appliance-level dataset
+KW  - Data collection
+KW  - Data lake
+KW  - Domestic energy
+KW  - Electric energy consumption
+KW  - End-users
+KW  - Energy behaviours
+KW  - Energy sensors
+KW  - Multi dimensional
+KW  - State of the art
+KW  - Internet of Energy
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Park, S.
+AU  - Yang, C.-S.
+AU  - Kim, J.
+TI  - Design of Vessel Data Lakehouse with Big Data and AI Analysis Technology for Vessel Monitoring System
+PY  - 2023
+T2  - Electronics (Switzerland)
+VL  - 12
+IS  - 8
+C7  - 1943
+DO  - 10.3390/electronics12081943
+UR  - https://www.scopus.com/pages/publications/85156222402?origin=resultslist
+AB  - The amount of data in the maritime domain is rapidly increasing due to the increase in devices that can collect marine information, such as sensors, buoys, ships, and satellites. Maritime data is growing at an unprecedented rate, with terabytes of marine data being collected every month and petabytes of data already being made public. Heterogeneous marine data collected through various devices can be used in various fields such as environmental protection, defect prediction, transportation route optimization, and energy efficiency. However, it is difficult to manage vessel related data due to high heterogeneity of such marine big data. Additionally, due to the high heterogeneity of these data sources and some of the challenges associated with big data, such applications are still underdeveloped and fragmented. In this paper, we propose the Vessel Data Lakehouse architecture consisting of the Vessel Data Lake layer that can handle marine big data, the Vessel Data Warehouse layer that supports marine big data processing and AI, and the Vessel Application Services layer that supports marine application services. Our proposed a Vessel Data Lakehouse that can efficiently manage heterogeneous vessel related data. It can be integrated and managed at low cost by structuring various types of heterogeneous data using an open source-based big data framework. In addition, various types of vessel big data stored in the Data Lakehouse can be directly utilized in various types of vessel analysis services. In this paper, we present an actual use case of a vessel analysis service in a Vessel Data Lakehouse by using AIS data in Busan area. © 2023 by the authors.
+KW  - AI analysis
+KW  - big data
+KW  - data lakehouse
+KW  - vessel monitoring system
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 18
+ER  -
+
+TY  - CONF
+AU  - Masoudi, S.
+AU  - Daly, M.E.M.
+AU  - Kiesel, J.
+AU  - Tai, S.
+TI  - A Non-Intrusive Framework for Deferred Integration of Cloud Patterns in Energy-Efficient Data-Sharing Pipelines
+PY  - 2026
+T2  - Lecture Notes in Computer Science
+VL  - 16320 LNCS
+SP  - 429
+EP  - 438
+DO  - 10.1007/978-981-95-5012-8_31
+UR  - https://www.scopus.com/pages/publications/105028252881?origin=resultslist
+AB  - As data mesh architectures gain traction in federated environments, organizations are increasingly building consumer-specific data-sharing pipelines using modular, cloud-native transformation services. Prior work has shown that structuring these pipelines with reusable transformation stages enhances both scalability and energy efficiency. However, integrating traditional cloud design patterns into such pipelines poses a challenge: predefining and embedding patterns can compromise modularity, reduce reusability, and conflict with the pipelines’ dynamic, consumer-driven nature. To address this, we introduce a Kubernetes-based tool that enables the deferred and non-intrusive application of selected cloud design patterns without requiring changes to service source code. The tool supports automated pattern injection and collects energy consumption metrics, allowing developers to make energy-aware decisions while preserving the flexible, composable structure of reusable data-sharing pipelines. © The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd. 2026.
+KW  - Automatic Application of Design Patterns
+KW  - Cloud Design Patterns
+KW  - Data-Sharing Pipeline
+KW  - Pipeline Configuration
+KW  - Service-oriented Data-Sharing Pipelines
+KW  - Cloud computing
+KW  - Computer software reusability
+KW  - Data Sharing
+KW  - Energy efficiency
+KW  - Energy utilization
+KW  - Green computing
+KW  - Information services
+KW  - Metadata
+KW  - Pipelines
+KW  - Power management
+KW  - Automatic application
+KW  - Automatic application of design pattern
+KW  - Cloud design pattern
+KW  - Data Sharing
+KW  - Data-sharing pipeline
+KW  - Design Patterns
+KW  - Pipeline configuration
+KW  - Service Oriented
+KW  - Service-oriented data-sharing pipeline
+KW  - Reusability
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Lyu, F.
+AU  - Kang, Y.
+AU  - Wang, S.
+TI  - Converging high-performance computing and machine learning for geospatial discovery and innovation
+PY  - 2026
+T2  - Annals of GIS
+VL  - 32
+IS  - 2
+SP  - 195
+EP  - 216
+DO  - 10.1080/19475683.2026.2639769
+UR  - https://www.scopus.com/pages/publications/105032124935?origin=resultslist
+AB  - The synthesis of high-performance computing (HPC) and machine learning has been critical for addressing complex geospatial problems and enabling geospatial knowledge discovery. This paper conducts a systematic review of 289 selected literature indexed in the Web of Science Core Collection from 1996 to 2024 that integrates HPC and machine learning (ML) for geospatial discovery and innovation. Starting in 2015, there has been a significant increase in studies combining HPC including supercomputing, parallel computing, cloud computing and fog computing with machine learning models for geospatial research across domains. This paper categorizes prior work based on the purposes of leveraging machine learning and HPC for geospatial knowledge discovery including speedup, accuracy improvement, spatial and temporal resolution improvement, scaling up, real-time analysis and novel model development. In addition, we propose a future research agenda including five key research questions focusing on scaling geospatial foundation models on HPC systems, integrating ML with physics-based models while preserving fidelity, quantifying uncertainty and ethical risks in ML predictions, balancing computational intensity with energy efficiency and ensuring HPC-ML pipelines are FAIR and cross-sector usable as well as four interconnected research thrusts: scalable geospatial data fabrics, geospatial foundation models, domain knowledge and ML integration, and responsible and transparent geospatial AI, along with their future implementation strategies and anticipated impacts. © 2026 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+KW  - CyberGIS
+KW  - geospatial AI
+KW  - high-performance geospatial computing
+KW  - machine learning
+KW  - artificial intelligence
+KW  - GIS
+KW  - innovation
+KW  - machine learning
+KW  - parallel computing
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+TI  - 17th IFIP WG 12.5 International Conference on Artificial Intelligence Applications and Innovations, AIAI 2021, 6th Workshop on 5G-Putting Intelligence to the Network Edge, 5G-PINE 2021, Artificial Intelligence in Biomedical Engineering and Informatics Workshop, AI-BIO 2021, Workshop on Defense Applications of AI, DAAI 2021, Distributed AI for Resource-Constrained Platforms Workshop, DARE 2021, Energy Efficiency and Artificial Intelligence Workshop, EEAI 2021, and 10th Mining Humanistic Data Workshop, MHDW 2021
+PY  - 2021
+T2  - IFIP Advances in Information and Communication Technology
+VL  - 628
+UR  - https://www.scopus.com/pages/publications/85112633441?origin=resultslist
+AB  - The proceedings contain 40 papers. The special focus in this conference is on Artificial Intelligence Applications and Innovations. The topics include: Top Challenges in 5G Densification; TYPHON: Hybrid Data Lakes for Real-Time Big Data Analytics – An Evaluation Framework in the Telecom Industry; V2X Communications for the Support of GLOSA and Intelligent Intersection Applications; a Machine Learning Approach for Recognition of Elders’ Activities Using Passive Sensors; analyzing Collective Knowledge Towards Public Health Policy Making; evaluating Mental Patients Utilizing Video Analysis of Facial Expressions; an Inception-Based Architecture for Haemodialysis Time Series Classification; a Lipschitz - Shapley Explainable Defense Methodology Against Adversarial Attacks; A Multimodal AI-Leveraged Counter-UAV Framework for Diverse Environments; 5G-VICTORI: Future Railway Communications Requirements Driving 5G Deployments in Railways; cyber Attack Detection and Trust Management Toolkit for Defence-Related Microgrids; On the Potential of SDN Enabled Network Deployment in Tactical Environments; a First Sensitivity Study of Multi-object Multi-camera Tracking Performance; An Initial Analysis of the Shortcomings of Conventional AI and the Benefits of Distributed AI Approaches in Industrial Use Cases; distributed Data Compression for Edge Devices; PFilter: Privacy-Aware and Secure Data Filtering at the Edge for Distributed Edge Analytics; Towards a Distributed Learning Architecture for Securing ISP Home Customers; a Recommendation Specific Human Activity Recognition Dataset with Mobile Device’s Sensor Data; Explainable Needn’t Be (Much) Less Accurate: Evaluating an Explainable AI Dashboard for Energy Forecasting; improving Energy Efficiency in Tertiary Buildings Through User-Driven Recommendations Delivered on Optimal Micro-moments; 5G-VICTORI: Optimizing Media Streaming in Mobile Environments Using mmWave, NBMP and 5G Edge Computing.
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Sukhija, N.
+AU  - Bautista, E.
+AU  - Butz, D.
+AU  - Whitney, C.
+TI  - Towards Anomaly Detection for Monitoring Power Consumption in HPC Facilities
+PY  - 2022
+T2  - ACM International Conference Proceeding Series
+SP  - 1
+EP  - 8
+DO  - 10.1145/3508397.3564826
+UR  - https://www.scopus.com/pages/publications/85144167800?origin=resultslist
+AB  - Given the increasing complexity and the heterogeneity of today's computing system infrastructure, power efficiency and fault tolerance remain the top challenges of an High Performance Computing (HPC) facility operation. Recently, many research efforts are focusing on monitoring solutions for collecting, correlating, and analyzing computing infrastructures health events and metrics data to not only identify the normal events but also the anomalous, thus aiding to reduce downtime and power consumption in the face of a computational center's and users' critical needs. In this preliminary work, we present an anomaly detection methodology integrated with the Operations Monitoring and Notification Infrastructure (OMNI) data warehouse at Lawrence Berkeley National Laboratory's (LBNL) National Energy Scientific Computing Center (NERSC) that has implemented anomaly detection algorithms for identifying abnormal power patterns. We evaluated our methodology using five million unlabeled power datasets from the Cori computation system at NERSC and reported on the accuracy of the anomaly detection algorithms in detecting different anomalous behavior pertaining to the amount of power consumed. The methodology is employed to aid in monitoring and automating power alerting to achieve power efficiency and reliability in future systems to be deployed at NERSC or other HPC facilities.  © 2022 ACM.
+KW  - anomaly detection
+KW  - big data
+KW  - fault tolerance
+KW  - high performance computing
+KW  - power capping
+KW  - power consumption
+KW  - Anomaly detection
+KW  - Big data
+KW  - Computing power
+KW  - Data warehouses
+KW  - Fault tolerance
+KW  - Green computing
+KW  - Signal detection
+KW  - Anomaly detection
+KW  - Anomaly-detection algorithms
+KW  - Computing center
+KW  - Computing facilities
+KW  - Energy
+KW  - High performance computing
+KW  - Performance computing
+KW  - Power
+KW  - Power capping
+KW  - Power-efficiency
+KW  - Electric power utilization
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Kwon, S.J.
+AU  - Istvan, Z.
+AU  - Ritter, D.
+AU  - May, N.
+AU  - Faerber, C.
+TI  - Efficient Parquet Parsing on FPGAs
+PY  - 2026
+T2  - 22nd International Workshop on Data Management on New Hardware, DaMoN 2026
+C7  - 3
+DO  - 10.1145/3789237.3809124
+UR  - https://www.scopus.com/pages/publications/105045467409?origin=resultslist
+AB  - Modern analytical data systems on disaggregated architectures, like Lakehouses, offer flexibility for managing semi-structured data, yet they face a critical bottleneck: the repeated deserialization of large amounts of data in complex formats like Apache Parquet require efficient execution. One option is processing closer to the data with suitable, specialized hardware, which allows for tailoring its architecture to the repeated operations. Out of the wide variety of programmable hardware in the data path, in this paper, we investigate whether Field programmable Gate Array (FPGA)-based Parquet-to-Arrow deserializers could compete with the already well optimized and parallelized software baselines in efficiency. Guided by a study of real-world Parquet files from SAP’s Lakehouse, our design implements the most relevant feature subset and supports dynamic reconfiguration of encoding and data types without requiring FPGA reprogramming. We evaluate our FPGA solution and show that it is almost 3.5× more energy efficient than a server CPU parsing the same dataset with 32 threads while showing comparable performance. These results highlight the potential of heterogeneous systems to alleviate deserialization overheads in Lakehouse systems and motivate further hardware/software co-design for data-intensive workloads. © 2026 Copyright held by the owner/author(s).
+KW  - Apache Arrow
+KW  - Apache Parquet
+KW  - Data Deserialization
+KW  - FPGA
+KW  - Heterogeneous Systems
+KW  - Computer hardware
+KW  - Dynamics
+KW  - Energy efficiency
+KW  - Hardware-software codesign
+KW  - Information management
+KW  - Integrated circuit design
+KW  - Lakes
+KW  - Memory architecture
+KW  - Analytical data
+KW  - Apache arrow
+KW  - Apache parquet
+KW  - Data deserialization
+KW  - Data systems
+KW  - Field programmable gate array
+KW  - Field programmables
+KW  - Heterogeneous systems
+KW  - Programmable gate array
+KW  - Semistructured data
+KW  - Field programmable gate arrays (FPGA)
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Horvath, K.
+AU  - Abid, M.R.
+AU  - Merino, T.
+AU  - Zimmerman, R.
+AU  - Peker, Y.
+AU  - Khan, S.
+TI  - Cloud-Based Infrastructure and DevOps for Energy Fault Detection in Smart Buildings
+PY  - 2024
+T2  - Computers
+VL  - 13
+IS  - 1
+C7  - 23
+DO  - 10.3390/computers13010023
+UR  - https://www.scopus.com/pages/publications/85183392088?origin=resultslist
+AB  - We have designed a real-world smart building energy fault detection (SBFD) system on a cloud-based Databricks workspace, a high-performance computing (HPC) environment for big-data-intensive applications powered by Apache Spark. By avoiding a Smart Building Diagnostics as a Service approach and keeping a tightly centralized design, the rapid development and deployment of the cloud-based SBFD system was achieved within one calendar year. Thanks to Databricks’ built-in scheduling interface, a continuous pipeline of real-time ingestion, integration, cleaning, and analytics workflows capable of energy consumption prediction and anomaly detection was implemented and deployed in the cloud. The system currently provides fault detection in the form of predictions and anomaly detection for 96 buildings on an active military installation. The system’s various jobs all converge within 14 min on average. It facilitates the seamless interaction between our workspace and a cloud data lake storage provided for secure and automated initial ingestion of raw data provided by a third party via the Secure File Transfer Protocol (SFTP) and BLOB (Binary Large Objects) file system secure protocol drivers. With a powerful Python binding to the Apache Spark distributed computing framework, PySpark, these actions were coded into collaborative notebooks and chained into the aforementioned pipeline. The pipeline was successfully managed and configured throughout the lifetime of the project and is continuing to meet our needs in deployment. In this paper, we outline the general architecture and how it differs from previous smart building diagnostics initiatives, present details surrounding the underlying technology stack of our data pipeline, and enumerate some of the necessary configuration steps required to maintain and develop this big data analytics application in the cloud. © 2024 by the authors.
+KW  - ADLS
+KW  - Apache Spark
+KW  - big data analytics
+KW  - data pipelining
+KW  - Databricks
+KW  - energy efficiency
+KW  - Jupyter notebooks
+KW  - smart buildings
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 13
+ER  -
+
+TY  - JOUR
+AU  - Ekren, B.Y.
+AU  - Akpunar, A.
+TI  - An open queuing network-based tool for performance estimations in a shuttle-based storage and retrieval system
+PY  - 2021
+T2  - Applied Mathematical Modelling
+VL  - 89
+SP  - 1678
+EP  - 1695
+DO  - 10.1016/j.apm.2020.07.055
+UR  - https://www.scopus.com/pages/publications/85090407892?origin=resultslist
+AB  - Recently, growth in e-commerce has resulted in substantially increased investment in robotic technologies in warehouses, especially for storage and retrieval devices. A shuttle-based storage and retrieval system (SBS/RS) is one of the robotic automated storage and retrieval technologies mostly used for a miniload material handling system in e-commerce warehouses. This new technology has been developed as an alternative to the traditional miniload crane-based automated storage and retrieval system. Because it has an autonomous order picker robot in each tier of the racking system, the process rate for this new technology is very high. To evaluate several design options for an SBS/RS warehouse quickly, we have developed analytical models for estimating important performance outputs of these systems. Specifically, this study presents an open queuing network-based software tool that can quickly estimate some important performance metrics for a predefined SBS/RS warehouse design. Once the user enters the required input data values in the tool (e.g., the arrival rate of transactions in the system, warehouse metrics, number of tiers, aisles, and bays, and velocity profiles of devices), the performance metric estimates can be obtained in terms of the mean cycle time of a transaction, the mean energy consumption and energy regeneration per transaction, the mean waiting time of a transaction, the mean number of transactions waiting in a server (lift/shuttle) queue, and the mean utilization of servers. The software tool developed can be downloaded for free from the Web site http//:www.sbsrscalculator.com. © 2020 Elsevier Inc.
+KW  - Automated warehousing
+KW  - Performance calculator
+KW  - Queuing network
+KW  - Shuttle-based storage and retrieval systems
+KW  - Storage and retrieval system
+KW  - Computer control systems
+KW  - Computer software
+KW  - Data warehouses
+KW  - Digital storage
+KW  - Electronic commerce
+KW  - Energy utilization
+KW  - Green computing
+KW  - HTTP
+KW  - Information retrieval
+KW  - Investments
+KW  - Queueing theory
+KW  - Robotics
+KW  - Storage (materials)
+KW  - Warehouses
+KW  - Automated storage and retrieval system
+KW  - Energy regeneration
+KW  - Material handling systems
+KW  - Performance estimation
+KW  - Performance metrices
+KW  - Performance metrics
+KW  - Robotic technologies
+KW  - Storage and retrievals
+KW  - Queueing networks
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 51
+ER  -
+
+TY  - CONF
+AU  - Berre, A.J.
+AU  - Sylaios, G.
+AU  - Agorogiannis, E.
+AU  - Mayer, I.
+AU  - Sarmento, P.
+AU  - Laudy, C.
+AU  - Oliveira, M.A.
+TI  - Digital Twins of the Ocean - Interoperability Pipeline Architecture
+PY  - 2025
+T2  - Oceans Conference Record (IEEE)
+DO  - 10.1109/OCEANS58557.2025.11104322
+UR  - https://www.scopus.com/pages/publications/105015040336?origin=resultslist
+AB  - The Iliad Digital Twins of the Ocean is a European Green Deal Project which aims at the development of an architecture and set of components, tools and services for the creation of digital twins of the ocean. The approach aims to support the emerging European Digital Twins of the Ocean (EDITO) initative with associated projects like EDITO Infra and EDITO Model lab and the overall Destination Earth (DestinE) initiative and also taking advantage of the evolving European Common Data Spaces including the Green Deal Data Space, the Copernicus Data Space and the EOSC cross domain Data Space. The paper presents the final version of the Iliad digital twin interoperability architecture based on four steps of a digital twin pipeline from Data Acquisition/Collection to Digital Twin Data Representation to Digital Twin Hybrid and Cognitive/AI Analytics Models and further to Digital Twin Visualisation and Control, which are presented together with associated Digital twin components and services.  © 2025 IEEE.
+KW  - Architecture
+KW  - Data Lake
+KW  - Data Space
+KW  - Digital Twin
+KW  - Interoperability Pipeeline
+KW  - Data acquisition
+KW  - Digital twin
+KW  - Earth (planet)
+KW  - Green computing
+KW  - Interoperability
+KW  - Analytic modeling
+KW  - Architecture-based
+KW  - Cross-domain
+KW  - Data lake
+KW  - Data representations
+KW  - Data space
+KW  - Interoperability architecture
+KW  - Interoperability pipeeline
+KW  - Ocean model
+KW  - Pipeline architecture
+KW  - Architecture
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Hsieh, C.-Y.
+AU  - Pei, P.
+AU  - Bai, Q.
+AU  - Su, A.
+AU  - Weng, F.-B.
+AU  - Lee, C.-Y.
+TI  - Results of a 200 hours lifetime test of a 7 kW Hybrid–Power fuel cell system on electric forklifts
+PY  - 2021
+T2  - Energy
+VL  - 214
+C7  - 118941
+DO  - 10.1016/j.energy.2020.118941
+UR  - https://www.scopus.com/pages/publications/85091782156?origin=resultslist
+AB  - Five prototype fuel cell hybrid–drive electric forklifts were built, and laboratory tests were used to confirm that they could function in a real warehouse environment. The electric forklifts were delivered to Far Eastern Group's Taoyuan, Taiwan A–mart supermarket warehouse for 200 h of operational testing. Each vehicle's hybrid–drive system included a 2.7 kW proton exchange membrane fuel cell stack and two auxiliary power sources, each composed of a lithium battery and supercapacitors in parallel. The components of the drive system could supply 7 kW of power. The system's potential advantages are low cost and high working flexibility. To collect sufficient data and determine whether this fuel cell hybrid–drive electric forklifts design could function in an actual warehouse environment, an initial test period of 200 h was considered. The vehicles were operated from 8:00–22:00 with 4–5 h of peak operating time. © 2020 Elsevier Ltd
+KW  - Data analysis
+KW  - Electric forklifts
+KW  - Hybrid drive system
+KW  - On–site testing
+KW  - Proton exchange membrane fuel cell
+KW  - Taiwan
+KW  - Taoyuan [Taiwan]
+KW  - Data warehouses
+KW  - Digital storage
+KW  - Electric drives
+KW  - Lithium batteries
+KW  - Materials handling equipment
+KW  - Warehouses
+KW  - Auxiliary power
+KW  - Drive systems
+KW  - Fuel cell system
+KW  - Laboratory test
+KW  - Lifetime tests
+KW  - Operating time
+KW  - Operational testing
+KW  - Proton exchange membrane fuel cell stacks
+KW  - design method
+KW  - energy efficiency
+KW  - energy intensity
+KW  - fuel cell
+KW  - laboratory method
+KW  - membrane
+KW  - operations technology
+KW  - supermarket
+KW  - Proton exchange membrane fuel cells (PEMFC)
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 32
+ER  -
+
+TY  - CONF
+AU  - Xiao, G.
+TI  - Research on Intelligent Management Platform for Energy Enterprises Based on Big Data Technology
+PY  - 2020
+T2  - Journal of Physics: Conference Series
+VL  - 1549
+IS  - 4
+C7  - 042039
+DO  - 10.1088/1742-6596/1549/4/042039
+UR  - https://www.scopus.com/pages/publications/85087898249?origin=resultslist
+AB  - This paper combines a large domestic energy company, takes energy informatics as the theoretical framework, combines the energy consumption status and structural characteristics of the enterprise, analyses the current situation of energy management in the enterprise and the problems in energy management, and uses data from the energy management information system. The exchange and information coupling mechanism connect the various information systems of the enterprise, and optimizes the design of the convection network, sensor body and sensor network to build an enterprise energy informatics model. With the big data idea as the core and the service-oriented technology architecture, the company's real-time energy is established Data warehouse to integrate energy information of the enterprise, further reduce energy consumption and improve energy efficiency, thereby ensuring that the enterprise minimizes waste in the process of energy use, while reducing operating costs, thereby achieving the goals of energy conservation, emission reduction and environmental protection. © Published under licence by IOP Publishing Ltd.
+KW  - Big data
+KW  - Data warehouses
+KW  - Emission control
+KW  - Energy management
+KW  - Energy utilization
+KW  - Environmental technology
+KW  - Information management
+KW  - Information use
+KW  - Operating costs
+KW  - Sensor networks
+KW  - Service oriented architecture (SOA)
+KW  - Coupling mechanism
+KW  - Emission reduction
+KW  - Energy information
+KW  - Intelligent management
+KW  - Reduce energy consumption
+KW  - Structural characteristics
+KW  - Technology architectures
+KW  - Theoretical framework
+KW  - Energy efficiency
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Derakhshannia, M.
+AU  - Grange, J.
+AU  - Pekergin, N.
+TI  - Toward Green Data Lake Management and Analysis Through a CTMC Model
+PY  - 2025
+T2  - Lecture Notes in Computer Science
+VL  - 15466 LNCS
+SP  - 47
+EP  - 61
+DO  - 10.1007/978-3-031-85356-2_4
+UR  - https://www.scopus.com/pages/publications/105003627180?origin=resultslist
+AB  - In the realm of big data era, large-scale data processing systems are considered critical energy-consumption sources that exert significant impacts on the ecosystem. With the emergence of big data environments, which leads to the production of multi-structured data, numerous solutions and technologies have arisen to efficiently process vast amounts of data, to capitalize on real-time data generation. Recently, a centralized data repository platform called Data Lake has been proposed to manage the heterogeneous data originating from diverse sources, and sustainability issues in data platform management have gained traction. In this article, we intend to design and analyze an energy-aware strategy for a green data lake framework. This strategy prioritizes ecological concerns, particularly energy consumption, ensuring the maintenance of sufficient quality of service in terms of data availability. We present a model based on continuous-time Markov chain (CTMC) to analyze the trade-off between energy efficiency and performance of a green data lake platform. © The Author(s), under exclusive license to Springer Nature Switzerland AG 2025.
+KW  - CTMC
+KW  - Energy Efficiency
+KW  - Green Data Lake
+KW  - Data reduction
+KW  - Data Sharing
+KW  - Information management
+KW  - Large datasets
+KW  - Continous time Markov chain
+KW  - Critical energy
+KW  - Data environment
+KW  - Data-processing system
+KW  - Energy
+KW  - Energy consumption sources
+KW  - Green data lake
+KW  - Lake management
+KW  - Large-scale data processing
+KW  - Markov chain models
+KW  - Quality of service
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Bouhatous, A.
+AU  - Bellatreche, L.
+AU  - Abdelwahed, E.H.
+AU  - Ordonez, C.
+TI  - The Impact of Multicore CPUs on Eco-Friendly Query Processors in Big Data Warehouses
+PY  - 2022
+T2  - Proceedings - 2022 IEEE International Conference on Big Data, Big Data 2022
+SP  - 4463
+EP  - 4472
+DO  - 10.1109/BigData55660.2022.10020703
+UR  - https://www.scopus.com/pages/publications/85147947650?origin=resultslist
+AB  - Given the large and growing volume of big data and frequent use of complex analytical queries, understanding energy efficiency of query processing has become a critical research issue, as highlighted by database systems papers in the last few years. Common software solutions mainly consider IO cost models to estimate energy consumption when executing queries. On the other hand, current hardware solutions benefit from advances in the development of green components and their associated tuning techniques, especially dynamic voltage and frequency scaling (DVFS), which can balance the performance and power consumption of multicore CPUs. Unfortunately, to the best of our knowledge, there is an absence of solutions mixing both (hardware and software). Heeding this gap, we propose a novel predictive model to measure and predict energy consumption of analytical queries when using multi-core processors and different frequency configurations. We first experimentally illustrate the surprising impact of CPU frequency and the number of processor cores on execution time, power and energy consumption. Second, we introduce an extended predictive model that enriches a well-known machine learning cost model with our new angle, the frequency scaling in multi-core environment. Specifically, by using Support Vector Regression and Random Forest Regression, we compute the energy coefficients of an accurate regression model for energy prediction. Experiments with benchmark data sets TPC-H and TPC-DS evaluate our proposed framework in terms of energy consumption reduction, showing promising results. © 2022 IEEE.
+KW  - Big Data Warehouses
+KW  - Energy Efficiency
+KW  - Frequency Scaling
+KW  - Green Computing
+KW  - Multi-core CPU
+KW  - Query Optimization
+KW  - Big data
+KW  - Computing power
+KW  - Cost benefit analysis
+KW  - Data warehouses
+KW  - Dynamic frequency scaling
+KW  - Energy efficiency
+KW  - Green computing
+KW  - Program processors
+KW  - Query languages
+KW  - Query processing
+KW  - Regression analysis
+KW  - Analytical queries
+KW  - Big data warehouse
+KW  - Cost models
+KW  - Eco-friendly
+KW  - Energy-consumption
+KW  - Frequency-scaling
+KW  - Multi-core CPU
+KW  - Multi-cores
+KW  - Predictive models
+KW  - Queries optimization
+KW  - Energy utilization
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 6
+ER  -
+
+TY  - JOUR
+AU  - Gabriel, F.
+AU  - Bergers, J.
+AU  - Aschersleben, F.
+AU  - Dröder, K.
+TI  - Increasing the energy-efficiency in vacuum-based package handling using deep Q-learning
+PY  - 2021
+T2  - Energies
+VL  - 14
+IS  - 11
+C7  - 3185
+DO  - 10.3390/en14113185
+UR  - https://www.scopus.com/pages/publications/85108582381?origin=resultslist
+AB  - Billions of packages are automatically handled in warehouses every year. The gripping systems are, however, most often oversized in order to cover a large range of different carton types, package masses, and robot motions. In addition, a targeted optimization of the process parameters with the aim of reducing the oversizing requires prior knowledge, personnel resources, and experience. This paper investigates whether the energy-efficiency in vacuum-based package handling can be increased without the need for prior knowledge of optimal process parameters. The core method comprises the variation of the input pressure for the vacuum ejector, compliant to the robot trajectory and the resulting inertial forces at the gripper-object-interface. The control mechanism is trained by applying reinforcement learning with a deep Q-agent. In the proposed use case, the energy-efficiency can be increased by up to 70% within a few hours of learning. It is also demonstrated that the generalization capability with regard to multiple different robot trajectories is achievable. In the future, the industrial applicability can be enhanced by deployment of the deep Q-agent in a decentral system, to collect data from different pick and place processes and enable a generalizable and scalable solution for energy-efficient vacuum-based handling in warehouse automation. © 2021 by the authors. Licensee MDPI, Basel, Switzerland.
+KW  - Automation
+KW  - Deep Q-learning
+KW  - Energy-efficiency
+KW  - Vacuum-based handling
+KW  - Data warehouses
+KW  - Deep learning
+KW  - Grippers
+KW  - Reinforcement learning
+KW  - Warehouses
+KW  - Control mechanism
+KW  - Generalization capability
+KW  - Object interfaces
+KW  - Personnel resources
+KW  - Process parameters
+KW  - Scalable solution
+KW  - Targeted optimization
+KW  - Warehouse automation
+KW  - Energy efficiency
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Ju, H.
+AU  - Zhao, S.
+AU  - Cui, W.
+AU  - Han, D.
+AU  - Wang, J.
+AU  - Yao, J.
+TI  - Research on Intelligent Acquisition and Efficient Processing Method of Key Data of Power Consumption Based on Blockchain
+PY  - 2021
+T2  - 2021 IEEE 4th International Conference on Electronics Technology, ICET 2021
+C7  - 9451160
+SP  - 1323
+EP  - 1327
+DO  - 10.1109/ICET51757.2021.9451160
+UR  - https://www.scopus.com/pages/publications/85112859895?origin=resultslist
+AB  - Under the background of the continuous expansion of the scale and capacity of power grid and the sharp increase of information measurement points, the amount of data that needs to be analyzed and processed is growing geometrically. It is urgent to carry out the research of massive information intelligent collection and efficient computing processing scheme and storage scheme. In this paper, combined with the actual demand of monitoring data access and lossless compression method in engineering practice, we build Hadoop cloud cluster platform and hive distributed data warehouse, take analog measurement data set as cluster compression object, realize the effective compression and storage of measurement information, which has important theoretical significance and practical value for solving power grid large data processing. © 2021 IEEE.
+KW  - blockchain
+KW  - Hadoop cluster platform
+KW  - information collection
+KW  - lossless compression
+KW  - Blockchain
+KW  - Data warehouses
+KW  - Digital storage
+KW  - Electric power transmission networks
+KW  - Electric power utilization
+KW  - Energy efficiency
+KW  - Distributed data warehouse
+KW  - Engineering practices
+KW  - Information measurement
+KW  - Lossless compression
+KW  - Measurement data
+KW  - Measurement information
+KW  - Processing method
+KW  - Storage schemes
+KW  - Data handling
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Rajesh, S.
+AU  - Raman, R.
+TI  - IoT-Driven Energy Savings in Warehouses Cloud-Integrated Lighting Management
+PY  - 2024
+T2  - 2024 International Conference on Advances in Data Engineering and Intelligent Computing Systems, ADICS 2024
+DO  - 10.1109/ADICS58448.2024.10533577
+UR  - https://www.scopus.com/pages/publications/85195183911?origin=resultslist
+AB  - Cloud-integrated lighting management uses Internet of Things (IoT) technologies to improve warehouse energy efficiency. The research examines how warehouse lighting systems might improve energy use using IoT devices and sensors. To create a smart lighting management system that adjusts to warehouse demands using real-time data and cloud-based analytics. The IoT-driven technology monitors occupancy, ambient light, and other characteristics via sensors. The sensors provide data to a cloud platform for real-time processing. The cloud-based solution optimizes energy use by dynamically adjusting lighting settings using occupancy-based management and daylight harvesting. An intelligent and adaptable lighting system that illuminates warehouse activity and minimizes energy consumption and expenses is the aim. The research found that warehouses with IoT-based lighting control may save a lot of electricity. Cloud-based solutions provide scalability, flexibility, and remote management, making them promising for large-scale industrial settings. The system may improve energy efficiency in commercial and industrial settings, contributing to sustainable practices. Smart and connected solutions are essential for current warehouse energy issues.  © 2024 IEEE.
+KW  - Cloud integration
+KW  - Energy Efficiency
+KW  - Lighting management
+KW  - Real-time data
+KW  - Warehouses
+KW  - Cloud analytics
+KW  - Data warehouses
+KW  - Energy efficiency
+KW  - Information management
+KW  - Internet of things
+KW  - Lighting
+KW  - Lighting fixtures
+KW  - Cloud integrations
+KW  - Cloud-based
+KW  - Energy  savings
+KW  - Energy use
+KW  - Energy-savings
+KW  - Industrial settings
+KW  - Integrated lightings
+KW  - Lighting management
+KW  - Lighting systems
+KW  - Real-time data
+KW  - Energy utilization
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Umar, U.
+AU  - Waseem, A.
+AU  - Naveed, A.
+AU  - Irfan, M.
+AU  - Munir, F.
+AU  - Ayub, S.
+AU  - Roslee, M.B.
+TI  - Powering the 6G and Beyond Wireless Era: AI and Deep Learning Innovations
+PY  - 2025
+T2  - International Conference on Engineering and Emerging Technologies, ICEET
+DO  - 10.1109/ICEET67911.2025.11424121
+UR  - https://www.scopus.com/pages/publications/105035376519?origin=resultslist
+AB  - The sixth generation (6G) of wireless networks is envisioned to deliver terabit-per-second data rates, sub-millisecond latency, and pervasive intelligence across heterogeneous environments. This paper presents a comprehensive review and a novel Unified AI-Native 6G Framework that integrates artificial intelligence (AI) and machine learning (ML) across all network layers. The study categorizes existing research into key subdomains, network intelligence, resource allocation, signal processing, spectrum management, edge intelligence, and security, and provides a comparative analysis of state-of-the-art AI-driven 6G solutions. Building upon these understandings, the proposed framework introduces five core components: an Edge-AI Orchestrator for adaptive resource management, Photonic Accelerators for ultra-fast signal inference, a Federated Learning-based Intrusion Detection System (FL-IDS) for privacy-preserving security, an LLM-Enhanced Controller for explainable policy generation, and a Data Lake with Digital Twin for global optimization and simulation. Simulation results demonstrate that the proposed model achieves improves energy efficiency compared with conventional architectures. These findings validate that AI-native designs can significantly enhance reliability, responsiveness, and sustainability in future 6G deployments. The paper concludes with application discussions in XR, autonomous systems, and IoT, highlighting the transformative potential of AI-integrated 6G networks. © 2025 IEEE.
+KW  - 6G
+KW  - 6G and beyond
+KW  - artificial intelligence
+KW  - deep learning
+KW  - edge AI
+KW  - resource optimization
+KW  - Data privacy
+KW  - Digital twin
+KW  - Energy efficiency
+KW  - Learning systems
+KW  - Natural resources management
+KW  - Network layers
+KW  - Network security
+KW  - Resource allocation
+KW  - Wireless networks
+KW  - 6g
+KW  - 6g and beyond
+KW  - Artificial intelligence learning
+KW  - Data-rate
+KW  - Deep learning
+KW  - Edge artificial intelligence
+KW  - Heterogeneous environments
+KW  - Machine-learning
+KW  - Resources optimization
+KW  - Terabit
+KW  - Deep learning
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Umut Gökçe, K.
+AU  - Ufuk Gökçe, H.
+TI  - Economic, social and environmental impact analysis of an indigenously developed energy optimization system for German office and residential building types
+PY  - 2021
+T2  - International Journal of Low-Carbon Technologies
+VL  - 16
+IS  - 3
+SP  - 747
+EP  - 760
+DO  - 10.1093/ijlct/ctab002
+UR  - https://www.scopus.com/pages/publications/85117479675?origin=resultslist
+AB  - This work addresses the economic, social and environmental analysis of an indigenously developed building energy optimization system for residential and office buildings in Germany. The developed system consists of 14 different wireless network embedded sensors, wireless communication protocol, multi-dimensional data warehouse, graphical user interfaces and energy optimization software with artificial intelligence-backed control algorithms. The R&D activity is accomplished in the 'Intelligent Building Energy Management System' research project, which is funded by the State of Lower Saxony-Germany in the frame of Innovation Support Program between the years 2014 and 2018. The system is tested in two appropriately selected test buildings in Germany. It has been recorded that the system provides energy efficiency levels between 29.34% and 38.18% under different seasonal and occupancy conditions in office and residential building types. The analysis is accomplished within the framework of four main indicators. These are economic indicators including calculations of lifetime cost and payback rate methods, resource use indicators including the calculation of reduced energy use as a result of the energy efficiency provided by the system, social indicator including additional expendable income calculations and environmental indicators including calculations depicting the benefits of reducing harmful emissions. Analysis results illustrate that building energy optimization systems provide a cost-effective method for promoting energy efficiency goals. Results of the indicators prove monetary benefits for the building occupants in terms of resource use, return on investment and social impact, as well as quantifiable benefits for easing the harmful effects of climate change phenomenon.  © 2021 The Author(s). Published by Oxford University Press.
+KW  - data warehouse technologies
+KW  - decision support systems
+KW  - energy efficiency
+KW  - smart buildings
+KW  - techno-economic analysis
+KW  - Climate change
+KW  - Cost benefit analysis
+KW  - Cost effectiveness
+KW  - Data warehouses
+KW  - Economic analysis
+KW  - Economic and social effects
+KW  - Energy efficiency
+KW  - Energy management systems
+KW  - Environmental impact
+KW  - Environmental management
+KW  - Environmental technology
+KW  - Graphical user interfaces
+KW  - Housing
+KW  - Intelligent buildings
+KW  - Investments
+KW  - Office buildings
+KW  - Building energy
+KW  - Building types
+KW  - Data warehouse technology
+KW  - Energy optimization
+KW  - Environmental impact analysis
+KW  - Optimization system
+KW  - Residential building
+KW  - Resource use
+KW  - Social and environmental impact
+KW  - Techno-Economic analysis
+KW  - Decision support systems
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Asghar, E.
+AU  - Hill, M.
+AU  - Lynch, C.
+TI  - A Review of Data-Driven Smart Energy Management Systems for Distribution Networks
+PY  - 2023
+T2  - Proceedings - 2023 IEEE PES GTD International Conference and Exposition, GTD 2023
+SP  - 386
+EP  - 397
+DO  - 10.1109/GTD49768.2023.00100
+UR  - https://www.scopus.com/pages/publications/85175454339?origin=resultslist
+AB  - Recent years have seen the proliferation of Smart Energy Management Systems (SEMSs), or Microgrids (MGs), that can disconnect from the traditional grid to operate autonomously. Microgrids support a low-carbon future, as these flexible, efficient, and localised electric grids enable the integration of the ever-growing deployment of distributed Renewable Energy Resources (RESs). Promoting sustainable power and demand side management, microgrids can strengthen grid resilience and help mitigate grid disturbances, as well as function as an auxiliary grid resource for faster system response and recovery. SEMS platforms have the ability to augment, in a coordinated manner, the contribution from RESs which can be inherently volatile in nature. Today's power supply network Model Predictive Control (MPC) systems heavily rely on 'big data' to deliver optimal schedules, whilst anticipating future behaviour and system deviations. As national and intercontinental grids become more complex and intertwined, petabyte data lakes are required to feed data-driven analytics to optimally control Energy Management Systems (EMSs). Thus, this paper presents a comprehensive review of Data-driven Energy Management Systems (DDEMS), focusing on their respective decision-making and forecasting techniques (point and interval) to augment the control of non-linear systems. Furthermore, the deterministic and probabilistic forecasting methods implemented within the governing algorithms to capture the uncertainties due to RES variability are examined. © 2023 IEEE.
+KW  - data-driven microgrid
+KW  - decision-making
+KW  - deep learning and machine learning forecast
+KW  - Microgrid
+KW  - smart energy management system
+KW  - Decision making
+KW  - Deep learning
+KW  - Electric power distribution
+KW  - Electric power system control
+KW  - Energy efficiency
+KW  - Energy management
+KW  - Forecasting
+KW  - Information management
+KW  - Learning systems
+KW  - Linear systems
+KW  - Model predictive control
+KW  - Predictive control systems
+KW  - Renewable energy resources
+KW  - Smart power grids
+KW  - Data driven
+KW  - Data-driven microgrid
+KW  - Decisions makings
+KW  - Deep learning and machine learning forecast
+KW  - Low-carbon futures
+KW  - Machine-learning
+KW  - Microgrid
+KW  - Smart energies
+KW  - Smart energy management system
+KW  - Energy management systems
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Hernandez, J.L.
+AU  - de la Cruz, C.
+AU  - de Miguel, I.
+AU  - Velez, F.
+TI  - ENHANCING DATA QUALITY VIA DATA CORRECTION TECHNIQUES TO ASSURE HIGH-QUALITY DATA FOR ENERGY SERVICES ACROSS EUROPE
+PY  - 2025
+T2  - Proceedings of the European Conference on Computing in Construction
+DO  - 10.35490/EC3.2025.325
+UR  - https://www.scopus.com/pages/publications/105029489521?origin=resultslist
+AB  - The growing adoption of digital technologies is reshaping how buildings are managed. Still, low data quality remains a key challenge. Incomplete or inaccurate data can compromise decisions and hinder compliance with regulations. The work presented here, tested on ten pilot buildings across Europe, significantly improves data quality, raising completeness from 55% to 100%, while improving accuracy. A centralized data lake ensures seamless integration of static and dynamic sources, enabling real-time insights. Beyond technical gains, the solution supports the goals of the Energy Performance of Buildings Directive, enhancing energy efficiency and sustainability through better data governance and scalable, replicable management models. © 2025, European Council on Computing in Construction (EC3). All rights reserved.
+KW  - data correction
+KW  - data quality
+KW  - energy services
+KW  - smart buildings
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Paulau, P.
+AU  - Hurka, J.
+AU  - Middelberg, J.
+AU  - Koch, S.
+TI  - Centralised monitoring and control of buildings using open standards
+PY  - 2024
+T2  - ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences
+VL  - 10
+IS  - 4/W4-2024
+SP  - 169
+EP  - 176
+DO  - 10.5194/isprs-annals-X-4-W4-2024-169-2024
+UR  - https://www.scopus.com/pages/publications/85196730972?origin=resultslist
+AB  - Due to the necessary heat turnaround, buildings are increasingly seen as part of districts, e. g. Positive Energy Districts. Optimizing the energy efficiency of buildings is an essential part of implementing the heat turnaround. As a result, sensor/actuator systems are becoming increasingly important, both at building level and district level. Various proprietary and open standards for monitoring and control are used at building level. This heterogeneity makes it difficult to jointly optimize energy efficiency in buildings. OGC Sensorthings API (STA) is an open standard that defines a common language for sensor data and even tasking processes. In addition, KNX and LoRaWAN are available as standards for building monitoring and control. This article therefore proposes a solution that combines these standards. As proof of concept, two different buildings are equipped with KNX and LoRaWAN. Sensor data is collected in both buildings and merged centrally in a so-called building data lake based on OGC STA Sensing Part, e.g. temperature or indoor air quality. In addition, OGC STA Tasking Part is used to trigger actuator commands centrally and independently of the communication standard used in the controlled building, e. g. temperature setting of thermostats. As part of the proof of concept, it is shown how standardized sensor data can be visualized based on available visualization software, e. g. Grafana, and how the standardized actuator control level can be used for optimizations such as the night setback of heating systems. Copyright © 2024 Pavel Paulau et al.
+KW  - actuators
+KW  - building control
+KW  - district level
+KW  - OGC Sensorthings API
+KW  - open standards
+KW  - sensors
+KW  - Air quality
+KW  - Buildings
+KW  - Data visualization
+KW  - Energy efficiency
+KW  - Indoor air pollution
+KW  - Building controls
+KW  - Building levels
+KW  - Centralised
+KW  - District level
+KW  - Monitoring and control
+KW  - OGC sensorthing API
+KW  - Open Standards
+KW  - Positive energies
+KW  - Proof of concept
+KW  - Sensors data
+KW  - Actuators
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Doulkeridis, C.
+AU  - Santipantakis, G.M.
+AU  - Koutroumanis, N.
+AU  - Makridis, G.
+AU  - Koukos, V.
+AU  - Theodoropoulos, G.S.
+AU  - Theodoridis, Y.
+AU  - Kyriazis, D.
+AU  - Kranas, P.
+AU  - Burgos, D.
+AU  - Jimenez-Peris, R.
+AU  - Duarte, M.M.G.
+AU  - Sakr, M.
+AU  - Zimanyi, E.
+AU  - Graser, A.
+AU  - Heistracher, C.
+AU  - Torp, K.
+AU  - Chrysakis, I.
+AU  - Orphanoudakis, T.
+AU  - Kapassa, E.
+AU  - Touloupou, M.
+AU  - Neises, J.
+AU  - Petrou, P.
+AU  - Karagiorgou, S.
+AU  - Catelli, R.
+AU  - Messina, D.
+AU  - Compagnucci, M.C.
+AU  - Falsetta, M.
+TI  - MobiSpaces: An Architecture for Energy-Efficient Data Spaces for Mobility Data
+PY  - 2023
+T2  - Proceedings - 2023 IEEE International Conference on Big Data, BigData 2023
+SP  - 1487
+EP  - 1494
+DO  - 10.1109/BigData59044.2023.10386539
+UR  - https://www.scopus.com/pages/publications/85184980267?origin=resultslist
+AB  - In this paper, we present an architecture for mobility data spaces enabling trustworthy and reliable data operations along with its main constituent parts. The architecture makes use of a data lake for scalable storage of diverse mobility data sets, on top of which separate computing and storage layers are implemented to allow independent scaling with a data operations toolbox providing all data operations. Furthermore, to cater for mobility analytics, machine learning and artificial intelligence support, an edge analytics suite is provided that encompasses distributed algorithms for mobility analytics and federated learning, thereby exploiting edge computing technologies. In turn, this is supported by a resource allocator that monitors the energy consumption of data-intensive operations and provides this information to the platform for intelligent task placement in edge devices, aiming at energy-efficient operations. As a result, an end-to-end platform is proposed that combines data services and infrastructure services towards supporting mobility application domains, such as urban and maritime.  © 2023 IEEE.
+KW  - data governance
+KW  - data spaces
+KW  - edge analytics
+KW  - mobility data
+KW  - Computer architecture
+KW  - Digital storage
+KW  - Energy efficiency
+KW  - Green computing
+KW  - Machine learning
+KW  - Data governances
+KW  - Data operations
+KW  - Data set
+KW  - Data space
+KW  - Edge analytic
+KW  - Energy efficient
+KW  - Mobility datum
+KW  - Scalable storage
+KW  - Scalings
+KW  - Storage layers
+KW  - Energy utilization
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 18
+ER  -
+
+TY  - CONF
+AU  - Boudevin, S.
+AU  - Chojnacki, D.
+AU  - Chabod, A.
+AU  - Sias, N.
+TI  - Optimized specifications from mission profile campaigns and data management tool
+PY  - 2025
+T2  - Procedia Structural Integrity
+VL  - 75
+SP  - 72
+EP  - 84
+DO  - 10.1016/j.prostr.2025.11.009
+UR  - https://www.scopus.com/pages/publications/105025247944?origin=resultslist
+AB  - The progressive electrification of many types of machinery (agricultural, construction machines, etc.) is already engaged, whether for environmental requirements reasons, standards or efficiency. This transformation is most often achieved through the selection of components intended for a different primary use in terms of products (e.g. automotive). This on-going electrification leads to changes in technology, structure, design and final user behavior. In contrast with existing technologies, where standards may give guidelines, electric powertrain and its integration in complete new products requires new specification inputs. This raises a number of potential issues, such as the durability/safety of these components in another environment (e.g. telescopic handlers, excavators) and the overall product energy efficiency. As a result, customer usage in different life situations may result in a massive production of measurements. These variations must be finely understood with a dedicated infrastructure, which merges data storage, indexation and ability to achieve request with a good agility, and raw signals analysis tools, to calculate metrics. The Big Data environment enables to merge a variety of data, provide automatized analysis, up to a request-based dynamic dashboard. Copyright © 2025. Published by Elsevier B.V.
+KW  - Big Data
+KW  - Data Lake
+KW  - Electrification
+KW  - Mission Profile
+KW  - Uncertainty quantification
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Cox, S.
+AU  - Shaw, A.
+AU  - Prentice, R.
+AU  - John, L.
+AU  - Thuvesholmen, N.
+AU  - Puntoni, S.
+AU  - Scrimshire, J.
+AU  - Franckel, S.
+TI  - Linking Patient-Reported Outcomes and Housing Data to Inform Breathlessness Service Planning in Wales
+PY  - 2026
+T2  - International journal of population data science
+VL  - 11
+IS  - 5
+SP  - 3633
+DO  - 10.23889/ijpds.v11i5.3633
+UR  - https://www.scopus.com/pages/publications/105046459018?origin=resultslist
+AB  - Breathlessness is common among individuals with chronic conditions and is influenced by clinical and environmental factors. Cold, damp and poorly insulated housing is linked to poorer health, especially among those with respiratory or circulatory disease. The OECD PaRIS survey provides patient-reported outcomes and experiences (PROMs and PREMs) for people with chronic conditions in primary care. Ordnance Survey's National Geographic Database (OS NGD) provides building attributes and Unique Property Reference Number (UPRN). These features are used to create a simple index, identifying "hard-to-heat" homes. Richer indices could incorporate UPRNlinked Energy Performance Certificates (EPC). Combining "hard-to-heat" homes with PROMs/PREMs, provides a novel approach to understanding environmental drivers of breathlessness in Wales. OBJECTIVE: Demonstrate the feasibility of linking PaRIS data with housing quality indicators, identifying geographic areas of greatest need, supporting the siting of breathlessness hubs in South Wales. METHODS: Using the DHCW National Data Warehouse, PaRIS responses are linked with OS NGD Buildings data via UPRN. Spatial analysis and predictive modelling explore associations between patient-reported breathlessness, housing energy efficiency, and socioeconomic factors. RESULTS: Preliminary analysis suggests areas with higher concentrations of "hard-to-heat" homes overlap with clusters of patients reporting breathlessness and poor health-related quality of life. Heat maps and risk models will inform optimal hub locations, supporting targeted interventions. CONCLUSION: This study illustrates the transformative potential of linking patient-reported outcomes with environmental determinants to inform policy and service planning. By integrating PaRIS data with housing indicators, NHS Wales can advance person-centred, value-based care and address health inequalities through evidence-driven decisions.
+KW  - Dyspnea
+KW  - Housing
+KW  - Humans
+KW  - Patient Reported Outcome Measures
+KW  - Socioeconomic Factors
+KW  - Wales
+KW  - dyspnea
+KW  - epidemiology
+KW  - housing
+KW  - human
+KW  - patient-reported outcome
+KW  - socioeconomics
+KW  - Wales
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Alsalemi, A.
+AU  - Amira, A.
+AU  - Malekmohamadi, H.
+AU  - Diao, K.
+TI  - CREATING 3D GRAMIAN ANGULAR FIELD REPRESENTATIONS FOR HIGHER PERFORMANCE ENERGY DATA CLASSIFICATION
+PY  - 2022
+T2  - Proceedings - International Conference on Image Processing, ICIP
+SP  - 3586
+EP  - 3590
+DO  - 10.1109/ICIP46576.2022.9897831
+UR  - https://www.scopus.com/pages/publications/85146736062?origin=resultslist
+AB  - The industrial revolution has elevated science and engineering to foster the development of Image Processing and Artificial Intelligence (AI) and put the visualization of information on an even higher pedestal. Yet, the demands of the industrial age have contributed to an ever-growing wildfire of climate change, sparking a revolution in energy efficiency research. With the aim to advance energy efficiency research from an AI standpoint, a novel transformation of raw-formatted data repositories, known as data lakes, into multi-dimensional visualizations data coupled with computationally lightweight, edge-based AI implementations are proposed as means to understand the energy consumption patterns in buildings. As a novel method of understanding energy data visually, current results comprise a Multi-Dimensional Gramian Angular Field (GAF) representation of energy data as both 2D and 3D interactive forms. Moreover, a case study on deep learning classification employed on ODROID-XU4 yields ~90% accuracy and a classification rate of 17.5 msec/image. © 2022 IEEE.
+KW  - artificial intelligence
+KW  - data lakes
+KW  - edge artificial intelligence
+KW  - energy efficiency
+KW  - Gramian angular field
+KW  - image processing
+KW  - multidimensional data visualization
+KW  - Climate change
+KW  - Data handling
+KW  - Data visualization
+KW  - Deep learning
+KW  - Energy efficiency
+KW  - Energy utilization
+KW  - Image processing
+KW  - Industrial research
+KW  - Metadata
+KW  - Three dimensional computer graphics
+KW  - Visualization
+KW  - Angular field
+KW  - Data lake
+KW  - Edge artificial intelligence
+KW  - Energy data
+KW  - Field representations
+KW  - Gramian angular field
+KW  - Gramians
+KW  - Images processing
+KW  - Multi-dimensional data visualization
+KW  - Performance
+KW  - Lakes
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Khalilnejad, A.
+AU  - Karimi, A.M.
+AU  - Kamath, S.
+AU  - Haddadian, R.
+AU  - French, R.H.
+AU  - Abramson, A.R.
+TI  - Automated pipeline framework for processing of large-scale building energy time series data
+PY  - 2020
+T2  - PLoS ONE
+VL  - 15
+IS  - 12 December
+C7  - e0240461
+DO  - 10.1371/journal.pone.0240461
+UR  - https://www.scopus.com/pages/publications/85097036639?origin=resultslist
+AB  - Commercial buildings account for one third of the total electricity consumption in the United States and a significant amount of this energy is wasted. Therefore, there is a need for “virtual” energy audits, to identify energy inefficiencies and their associated savings opportunities using methods that can be non-intrusive and automated for application to large populations of buildings. Here we demonstrate virtual energy audits applied to large populations of buildings’ time-series smart-meter data using a systematic approach and a fully automated Building Energy Analytics (BEA) Pipeline that unifies, cleans, stores and analyzes building energy datasets in a non-relational data warehouse for efficient insights and results. This BEA pipeline is based on a custom compute job scheduler for a high performance computing cluster to enable parallel processing of Slurm jobs. Within the analytics pipeline, we introduced a data qualification tool that enhances data quality by fixing common errors, while also detecting abnormalities in a building’s daily operation using hierarchical clustering. We analyze the HVAC scheduling of a population of 816 buildings, using this analytics pipeline, as part of a cross-sectional study. With our approach, this sample of 816 buildings is improved in data quality and is efficiently analyzed in 34 minutes, which is 85 times faster than the time taken by a sequential processing. The analytical results for the HVAC operational hours of these buildings show that among 10 building use types, food sales buildings with 17.75 hours of daily HVAC cooling operation are decent targets for HVAC savings. Overall, this analytics pipeline enables the identification of statistically significant results from population based studies of large numbers of building energy time-series datasets with robust results. These types of BEA studies can explore numerous factors impacting building energy efficiency and virtual building energy audits. This approach enables a new generation of data-driven buildings energy analysis at scale. © 2020 Khalilnejad et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+KW  - Air Conditioning
+KW  - Cluster Analysis
+KW  - Commerce
+KW  - Data Warehousing
+KW  - Datasets as Topic
+KW  - Electricity
+KW  - Heating
+KW  - Housing
+KW  - United States
+KW  - article
+KW  - cooling
+KW  - cross-sectional study
+KW  - data quality
+KW  - data warehouse
+KW  - hierarchical clustering
+KW  - pipeline
+KW  - time series analysis
+KW  - air conditioning
+KW  - cluster analysis
+KW  - commercial phenomena
+KW  - data warehouse
+KW  - economics
+KW  - electricity
+KW  - heating
+KW  - housing
+KW  - information processing
+KW  - United States
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 19
+ER  -
+
+TY  - CONF
+AU  - Zhukov, P.
+AU  - Fomin, A.
+AU  - Glushchenko, A.
+TI  - Development of Relationship between Steel Billet Temperature and Data on Its Heating History for Continuous Furnace of Rolling-Mill Shop
+PY  - 2020
+T2  - Proceedings - 2020 2nd International Conference on Control Systems, Mathematical Modeling, Automation and Energy Efficiency, SUMMA 2020
+C7  - 9280683
+SP  - 483
+EP  - 488
+DO  - 10.1109/SUMMA50634.2020.9280683
+UR  - https://www.scopus.com/pages/publications/85099001694?origin=resultslist
+AB  - This study is to apply the Data Mining concept to process technological data, which are received from a field level of an industrial control system of a steel billet heating in a continuous furnace of a rolling-mill shop. The main scope of the study is to find a regression dependence of the steel billet temperature on a history of its heating in such a furnace. This paper describes: 1) the principles of data warehouse implementation to store values of signals obtained from a steel billets tracking system, 2) the chosen features (input variables, regressors) to solve the problem under consideration, such as temperature in all furnace zones and time of a steel billet heating in each of them, 3) the applied algorithms of data pre-processing and exploratory analysis. Then the results of research on various machine learning algorithms application to find the required dependence are presented. The best quality of approximation is achieved using a model, which is based on classification and regression trees. They are trained with the help of an extreme gradient boosting algorithm modification-DART. Obtained prediction accuracy is ~9°C. © 2020 IEEE.
+KW  - classification and regression trees
+KW  - continuous furnace
+KW  - DART
+KW  - Data Mining
+KW  - descriptive statistics
+KW  - exploratory analysis
+KW  - extreme gradient boosting
+KW  - MART
+KW  - regression
+KW  - Billet mills
+KW  - Control systems
+KW  - Data handling
+KW  - Data mining
+KW  - Data warehouses
+KW  - Energy efficiency
+KW  - Heat treating furnaces
+KW  - Heating
+KW  - Learning algorithms
+KW  - Machine learning
+KW  - Metallurgical furnaces
+KW  - Trees (mathematics)
+KW  - Classification and regression tree
+KW  - Continuous furnaces
+KW  - Data preprocessing
+KW  - Exploratory analysis
+KW  - Gradient boosting
+KW  - Industrial control systems
+KW  - Prediction accuracy
+KW  - Technological data
+KW  - Billets (metal bars)
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Sun, S.
+AU  - Zhou, J.
+AU  - Wen, J.
+AU  - Wei, Y.
+AU  - Wang, X.
+TI  - A DQN-based cache strategy for mobile edge networks
+PY  - 2022
+T2  - Computers, Materials and Continua
+VL  - 71
+IS  - 2
+SP  - 3277
+EP  - 3291
+DO  - 10.32604/cmc.2022.020471
+UR  - https://www.scopus.com/pages/publications/85121102217?origin=resultslist
+AB  - The emerging mobile edge networks with content caching capability allows end users to receive information from adjacent edge servers directly instead of a centralized data warehouse, thus the network transmission delay and system throughput can be improved significantly. Since the duplicate content transmissions between edge network and remote cloud can be reduced, the appropriate caching strategy can also improve the system energy efficiency of mobile edge networks to a great extent. This paper focuses on how to improve the network energy efficiency and proposes an intelligent caching strategy according to the cached content distribution model for mobile edge networks based on promising deep reinforcement learning algorithm. The deep neural network (DNN) and Q-learning algorithm are combined to design a deep reinforcement learning framework named as the deep-Q neural network (DQN), in which the DNN is adopted to represent the approximation of action-state value function in the Q-learning solution. The parameters iteration strategies in the proposed DQN algorithm were improved through stochastic gradient descent method, so the DQN algorithm could converge to the optimal solution quickly, and the network performance of the content caching policy can be optimized. The simulation results show that the proposed intelligent DQN-based content cache strategy with enough training steps could improve the energy efficiency of the mobile edge networks significantly. © 2022 Tech Science Press. All rights reserved.
+KW  - Edge caching
+KW  - Energy efficiency
+KW  - Mobile edge network
+KW  - Approximation algorithms
+KW  - Data warehouses
+KW  - Deep neural networks
+KW  - Gradient methods
+KW  - Learning algorithms
+KW  - Optimization
+KW  - Reinforcement learning
+KW  - Stochastic systems
+KW  - Caching strategy
+KW  - Content caching
+KW  - Edge caching
+KW  - EDGE Networks
+KW  - Edge server
+KW  - End-users
+KW  - Mobile edge network
+KW  - Network-based
+KW  - Neural networks algorithms
+KW  - Neural-networks
+KW  - Energy efficiency
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 19
+ER  -
+
+TY  - JOUR
+AU  - Cheng, M.
+AU  - Li, J.
+AU  - Bogdan, P.
+AU  - Nazarian, S.
+TI  - HO-Cloud: A Resource and Quality of Service-Aware Task Scheduling Framework for Warehouse-Scale Data Centers
+PY  - 2020
+T2  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+VL  - 39
+IS  - 10
+C7  - 8770260
+SP  - 2925
+EP  - 2937
+DO  - 10.1109/TCAD.2019.2930575
+UR  - https://www.scopus.com/pages/publications/85093922572?origin=resultslist
+AB  - Cloud computing has attracted both end-users and cloud service providers (CSPs) in recent years. Improving resource utilization rate (RUtR), such as CPU and memory usages on servers, while maintaining quality of service (QoS) is one key challenge faced by CSPs with warehouse-scale datacenters. Prior works proposed various algorithms to reduce energy cost or to improve RUtR, which either lack the fine-grained task scheduling capabilities, or fail to take a comprehensive system model into consideration. This article presents H2O-Cloud, a Hierarchical and Hybrid Online task scheduling framework for warehouse-scale Cloud service providers, to improve resource usage effectiveness while maintaining QoS. H2O-Cloud is highly scalable and considers comprehensive information, such as various workload scenarios, cloud platform configurations, user request information, and dynamic pricing model. The hierarchy and hybridity of the framework, combined with its deep reinforcement learning (DRL) engines, enable H2O-Cloud to efficiently start on-the-go scheduling and learning in an unpredictable environment without pretraining. Our experiments confirm the high efficiency of the proposed H2O-Cloud when compared to baseline approaches, in terms of energy and cost while maintaining QoS. Compared with a state-of-the-art DRL-based algorithm, H2O-Cloud achieves up to 201.17% energy cost efficiency improvement, 47.88% energy efficiency improvement, and 551.76% reward rate improvement.  © 1982-2012 IEEE.
+KW  - Cloud resource management
+KW  - deep reinforcement learning (DRL)
+KW  - hierarchical and hybrid framework
+KW  - quality of service-aware
+KW  - task scheduling
+KW  - Data warehouses
+KW  - Deep learning
+KW  - Energy efficiency
+KW  - Green computing
+KW  - Multitasking
+KW  - Reinforcement learning
+KW  - Warehouses
+KW  - Cloud service providers
+KW  - Comprehensive information
+KW  - Comprehensive system
+KW  - Dynamic pricing models
+KW  - Energy efficiency improvements
+KW  - Resource utilizations
+KW  - State of the art
+KW  - Unpredictable environments
+KW  - Quality of service
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 September 2026; Cited By: 29
+ER  -
+
